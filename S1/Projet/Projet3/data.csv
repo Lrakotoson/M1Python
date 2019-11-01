@@ -1,0 +1,763 @@
+age;date;picto entrée;entrée;picto plat;plat;picto légumes;légume;laitage;picto dessert;dessert;goûter
+petits;2017-01-02;;;;Thon;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+moyens;2017-01-04;FLS;Pamplemousse;VBF;Steak;;Purée de pommes de terre, poireaux, carottes;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-01-05;;Pointes d'asperges;;Gnocchis;;;;FLS;Clémentine;Pain/ fromage/ eau
+petits;2017-01-12;;;;Escalope de poulet;;Purée de courgettes et pommes de terre;;FLS;Compote de poires;Semoule au lait/ eau
+moyens;2017-01-13;;;VPF;Rôti de porc;;Cœur de céleri, semoule sauce tomate;;;Orange;Yaourt nature/ galette bretonne/ eau
+petits;2017-01-17;;;;Escalope de dinde;;Purée verte;;FLS;Compote de poires;Crème impériale/ eau
+moyens;2017-01-18;;Cœur de palmier;VPF;Quiche au jambon et quiche nature;;;;;Corbeille de fruits;Crème au chocolat/ pain/ eau
+petits;2017-01-18;;;VPF;Jambon;;Purée de poireauxx et pommes de terre;;;Compote de fruits;Crème au chocolat/ pain/ eau
+petits;2017-01-20;;;VBF;Steak;;Purée de haricots verts;;FLS;Compote de pommes;Yaourt nature/ boudoirs/ eau
+petits;2017-01-26;;;;Poisson;;Purée de poireauxx et carottes;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+moyens;2017-01-27;FLS;Betteraves cuites;;Escalope de poulet;;Gratin dauphinois;;FLS;Orange;Yaourt nature/ madeleine/ eau
+moyens;2017-01-30;FLS;Pamplemousse;VPF;Jambon;;Pâtes;;FLS;Poire cuite;Pain/ fruit/ lait de croissance
+moyens;2017-02-01;FLS;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;FLS;Kiwi;Pain/ fromage/ eau
+grands;2017-02-01;FLS;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;FLS;Kiwi;Pain/ fromage/ eau
+petits;2017-02-03;;;;Poisson;;Purée de carottes, poireaux et pommes de terre;;FLS;Banane mixée;Yaourt nature/ boudoirs/ eau
+moyens;2017-02-08;;Cœur de palmier;;Gnocchis;;;;FLS;Poire;Fromage blanc/ pain d'épices/ eau
+grands;2017-02-13;;Pointes d'asperges;;Poisson;;Riz;;FLS;Pomme;Crème impériale/ jus de fruits
+petits;2017-02-17;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Yaourt nature/ boudoirs/ eau
+grands;2017-02-20;FLS;Pamplemousse;;Omelette;;Purée rose;Fromage;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+petits;2017-02-21;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Compote de fruits;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-02-21;;Cœur de palmier;VBF;Rôti de bœuf;;Haricots verts et blé;;FLS;Clémentine;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-02-22;;Salade de riz aux agrumes;VPF;Rôti de porc;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+petits;2017-02-27;;;;Poisson;;Purée verte;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-03-01;;;;Poisson;;Purée framboisine;;;Compote de fruits;Compote/ pain/ lait de croissance
+moyens;2017-03-02;FLS;Pamplemousse;VBF;Steak;;Purée de pommes de terre, poireaux, carottes;;FLS;Banane;Pain/ fromage/ eau
+petits;2017-03-02;;;VBF;Steak;;Purée de pommes de terre, poireaux, carottes;;FLS;Banane mixée;Crème impériale/ eau
+moyens;2017-03-03;;;VPF;Rôti de porc;;Purée rose;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+grands;2017-03-07;;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Haricots verts;;FLS;Pomme;Fromage blanc/ pain d'épices/ eau
+moyens;2017-03-09;;;;Escalope de poulet;;Blé et courgettes;;FLS;Poire;Semoule au lait/ jus de fruits
+petits;2017-03-15;;;VPF;Jambon;;Purée de poireauxx et pommes de terre;;;Compote de fruits;Crème au chocolat/ pain/ eau
+petits;2017-03-17;;;VBF;Steak;;Purée de haricots verts;;FLS;Compote pommes/ framboises;Yaourt nature/ boudoirs/ eau
+grands;2017-03-22;;Salade composée;VPF;Rôti de porc;;Boulgour et potiron;;FLS;Orange;Semoule au lait/ jus de fruits
+petits;2017-03-28;;;;Poisson;;Purée de carottes, courgettes et pommes de terre;;FLS;Compote pommes/ bananes;Riz au lait/ eau
+grands;2017-03-28;FLS;Carottes râpées;;Poisson;;Gratin de chou fleurs béchamel;;FLS;Banane;Riz au lait/ jus de fruits
+moyens;2017-03-29;FLS;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;FLS;Kiwi;Pain/ fromage/ eau
+moyens;2017-04-05;;Cœur de palmier;;Gnocchis;;;;FLS;Poire;Fromage blanc/ pain d'épices/ eau
+grands;2017-04-06;;Salade composée;VPF;Rôti de porc;;Brocolis et millet;;FLS;Pomme;Gâteau maison/ lait de croissance
+moyens;2017-04-18;;Cœur de palmier;VBF;Rôti de bœuf;;Haricots verts et blé;;FLS;Fraises;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-04-18;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Compote de fruits;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-04-18;;Cœur de palmier;VBF;Rôti de bœuf;;Haricots verts et blé;;FLS;Fraises;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-04-19;;Salade de riz aux agrumes;VPF;Rôti de porc;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-04-20;;;;Escalope de poulet;;Carottes vichy et pommes de terre;;FLS;Poire pochée;Semoule au lait/ jus de fruits
+petits;2017-04-20;;;;Escalope de poulet;;Purée verte;;FLS;Compote de poires;Semoule au lait/ eau
+grands;2017-04-26;;Radis;;Poisson;;Brocolis et semoule;;;Kiwi;Gâteau maison/ lait de croissance
+moyens;2017-04-28;;;VPF;Rôti de porc;;Purée rose;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-05-02;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Fraises;Semoule au lait/ jus de fruits
+grands;2017-05-03;;Radis;VPF;Rôti de porc;;Semoule et ratatouille;;FLS;Banane;Fromage blanc/ pain d'épices/ eau
+grands;2017-05-09;FLS;Champignons et filet de citron;VBF;Rôti de bœuf;;Carottes vichy et petits pois;;FLS;Fraises;Crème impériale/ jus de fruits
+grands;2017-05-10;FLS;Tomates à la menthe;;Poisson;;Gratin de courgettes et pommes de terre;;FLS;Poire;Crème au chocolat/ pain/ eau
+moyens;2017-05-12;;;;Omelette;;Épinards;;FLS;Banane;Yaourt nature/ biscuits au lait/ eau
+petits;2017-05-12;;;;Poisson;;Purée verte;;FLS;Banane et framboise mixée;Yaourt nature/ boudoirs/ eau
+grands;2017-05-17;FLS;Concombre;;Escalope de poulet;;Blé et courgettes sauce tomate;Fromage;FLS;Pomme;Gâteau maison/ lait de croissance
+petits;2017-05-17;;;;Escalope de poulet;;Purée maraîchère;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-05-18;;;;Poisson;;Purée verte;;FLS;Banane mixée;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-05-19;;;;Escalope de veau;;Purée framboisine;;FLS;Compote de pommes;Yaourt nature/ cracottes/ eau
+grands;2017-05-24;FLS;Concombre à la grècque;VPF;Jambon;;Brocolis et millet;;FLS;Banane;Riz au lait/ fruit/ lait de croissance
+moyens;2017-05-24;;;VPF;Jambon;;Purée maraîchère;;FLS;Banane;Riz au lait/ jus de fruits
+petits;2017-05-29;;;;Thon;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+moyens;2017-05-30;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Fraises;Semoule au lait/ jus de fruits
+petits;2017-05-31;;;VPF;Rôti de porc;;Purée maraîchère;;;Compote de nectarine;Fromage blanc/ pain/ eau
+grands;2017-05-31;FLS;Melon;VPF;Rôti de porc;;Tomates provençales et semoule;;FLS;Nectarine;Fromage blanc/ pain d'épices/ eau
+petits;2017-06-09;;;;Poisson;;Purée verte;;FLS;Banane mixée;Yaourt nature/ boudoirs/ eau
+petits;2017-06-13;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de nectarine;Semoule au lait/ lait de croissance
+grands;2017-06-14;FLS;Tomates à la ciboulette;;Poisson;;Purée de concombres et pommes de terre;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-06-16;;;VPF;Rôti de porc;;Semoule et ratatouille;;FLS;Pêche;Yaourt nature/ madeleine/ eau
+petits;2017-06-19;;;;Sardine;;Purée rose;;FLS;Compote de pomme et pêche;Riz au lait/ eau
+moyens;2017-06-20;FLS;Melon;;Escalope de dinde;;Purée de haricots verts;;FLS;Fraises;Gâteau maison/ lait de croissance
+grands;2017-06-22;FLS;Tomates au basilic;VBF;Steak;;Jardinière de légumes;Fromage;;Banane;Pain/ fruit/ lait de croissance
+grands;2017-06-27;;Salade de riz et tomates au basilic;VBF;Rôti de bœuf;;Haricots verts;;FLS;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-06-28;;;VPF;Rôti de porc;;Semoule et ratatouille;;;Banane;Fromage blanc/ pain d'épices/ eau
+moyens;2017-07-10;;Taboulé;VBF;Rôti de bœuf;;;;FLS;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-07-13;FLS;Carottes à la martiniquaise;;Poisson;;Purée verte;;FLS;Banane;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-07-17;;;;Poisson beurre citron;;Riz pilaf;;FLS;Poire pochée;Pain/ fromage/ eau
+petits;2017-07-19;;;VPF;Jambon;;Purée maraîchère;;FLS;Banane mixée;Riz au lait/ eau
+moyens;2017-07-25;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Fraises;Semoule au lait/ jus de fruits
+grands;2017-07-26;FLS;Melon;VPF;Rôti de porc;;Tomates provençales et semoule;;FLS;Abricot;Fromage blanc/ pain d'épices/ eau
+moyens;2017-07-27;;;;Omelette;;Purée de courgettes;;FLS;Pêche;Gâteau maison/ lait de croissance
+petits;2017-07-27;;;;Poisson;;Purée de concombres et pommes de terre;;;Compote de fruits;Compote/ pain/ lait de croissance
+grands;2017-07-27;FLS;Mousse de carottes;;Omelette;;Purée de courgettes;;FLS;Pêche;Gâteau maison/ lait de croissance
+moyens;2017-07-28;;;;Escalope de poulet;;Blé et ratatouille;;FLS;Banane;Yaourt nature/ galette bretonne/ eau
+moyens;2017-08-01;;Betteraves cuites;;Gnocchis;;;;;Fraises;Crème impériale/ jus de fruits
+moyens;2017-08-14;;;;Sardine;;Carottes et pommes de terre;;FLS;Pêche;Riz au lait/ jus de fruits
+moyens;2017-08-16;;;VPF;Jambon;;Courgettes à la tomate et pommes de terre;;;Abricot;Pain/ fromage/ eau
+moyens;2017-08-22;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-08-24;;;;Escalope de poulet;;Purée framboisine;;FLS;Nectarine;Gâteau maison/ lait de croissance
+moyens;2017-08-29;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Fraises;Crème impériale/ jus de fruits
+moyens;2017-08-31;FLS;Melon;;Escalope de poulet;;Cœur de céleri et semoule sauce tomate;;FLS;Nectarine;Gâteau maison/ lait de croissance
+moyens;2017-09-06;;;;Escalope de poulet;;Blé et courgettes sauce tomate;;FLS;Pomme;Gâteau maison/ lait de croissance
+moyens;2017-09-11;;;;Poisson beurre citron;;Riz;;FLS;Poire pochée;Pain/ fromage/ eau
+moyens;2017-09-13;FLS;Melon;VPF;Jambon;;Purée maraîchère;;FLS;Banane;Riz au lait/ jus de fruits
+moyens;2017-09-15;;Betteraves cuites;;Poisson sauce tomate;;Pommes de terre au four;;FLS;Nectarine;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-09-20;FLS;Melon;VPF;Rôti de porc;;Tomates provencales et semoule;;FLS;Prune;Fromage blanc/ pain d'épices/ eau
+moyens;2017-09-27;;;VPF;Rôti de porc;;Purée framboisine;;FLS;Pêche;Crème au chocolat/ pain/ eau
+moyens;2017-09-29;;Taboulé;;Poisson;;Epinards florentines;;;Nectarine;Yaourt nature/ biscuits au lait/ eau
+moyens;2017-10-03;;;VBF;Rôti de bœuf;;Haricots verts;;;Banane;Gâteau maison/ lait de croissance
+moyens;2017-10-11;;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;;Kiwi;Pain/ fromage/ eau
+moyens;2017-10-13;FLS;Salade de pommes de terre;;Poisson;;Epinards à la crème;;FLS;Pomme;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-10-19;;;VPF;Rôti de porc;;Purée verte;;FLS;Pomme;Gâteau maison/ lait de croissance
+moyens;2017-10-27;;Pamplemousse;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Pomme cuite;Yaourt nature/ biscuits au lait/ eau
+moyens;2017-10-31;;;VBF;Rôti de bœuf;;Haricots verts et blé;;FLS;Orange;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-01-03;;;;Escalope de dinde;;Purée de haricots verts;;FLS;Compote de poires;Riz au lait/ eau
+grands;2017-01-05;;Pointes d'asperges;;Gnocchis;;Salade en chiffonnade;;FLS;Clémentine;Pain/ fromage/ eau
+moyens;2017-01-06;;;VPF;Rôti de porc;;Purée rose;;FLS;Kiwi;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-01-12;;;;Escalope de poulet;;Blé et courgettes;;FLS;Poire;Semoule au lait/ jus de fruits
+grands;2017-01-19;;Champignons;;Poisson;;Purée framboisine;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-01-20;FLS;Pamplemousse;VBF;Steak;;Pâtes;;FLS;Poire cuite;Yaourt nature/ biscuits au lait/ eau
+grands;2017-01-23;FLS;Pamplemousse;;Poisson beurre citron;;Riz;;FLS;Pomme cuite;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-01-26;;;;Omelette;;Purée de poireauxx et carottes;;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+petits;2017-01-31;;;;Poisson;;Purée de carottes, courgettes et pommes de terre;;FLS;Compote pommes/ bananes;Riz au lait/ eau
+moyens;2017-02-02;;;;Escalope de poulet;;Purée framboisine;;FLS;Pomme;Gâteau maison/ lait de croissance
+grands;2017-02-02;;Champignons et filet de citron;;Escalope de poulet;;Salsifis, carottes et pommes de terre;Fromage;FLS;Pomme;Gâteau maison/ lait de croissance
+grands;2017-02-06;FLS;Salade de carottes et pommes;VBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-02-07;;;;Poisson au citron;;Purée de potiron;;FLS;Clémentine;Semoule au lait/ jus de fruits
+grands;2017-02-09;;Salade composée;VPF;Rôti de porc;;Brocolis et millet;;FLS;Pomme;Gâteau maison/ lait de croissance
+moyens;2017-02-14;;;;Escalope de dinde;;Purée verte;;FLS;Clémentine;Pain/ fruit/ lait de croissance
+grands;2017-02-14;;Champignons et filet de citron;;Escalope de dinde;;Petits pois carottes;Fromage;FLS;Clémentine;Pain/ fruit/ lait de croissance
+petits;2017-02-15;;;VPF;Jambon;;Purée framboisine;;FLS;Banane mixée;Crème au chocolat/ pain/ eau
+grands;2017-02-15;;Pruneaux;VPF;Jambon;;Purée framboisine;;FLS;Banane;Crème au chocolat/ pain/ eau
+petits;2017-02-16;;;;Poisson;;Purée de poireauxx;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+moyens;2017-02-16;;;;Poisson;;Gratin de poireaux et pommes de terre;;FLS;Poire;Gâteau maison/ lait de croissance
+grands;2017-02-22;;Salade de riz aux agrumes;VPF;Rôti de porc;;Choux de bruxelle;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-02-24;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;FLS;Orange;Yaourt nature/ madeleine/ eau
+moyens;2017-03-01;;;;Poisson;;Purée framboisine;;FLS;Orange;Gâteau maison/ lait de croissance
+petits;2017-03-03;;;VPF;Rôti de porc;;Purée rose;;FLS;Compote pommes/ poires;Yaourt nature/ boudoirs/ eau
+petits;2017-03-07;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Fromage blanc/ pain/ eau
+petits;2017-03-08;;;;Poisson;;Purée de potiron;;;Compote de fruits;Compote/ pain/ lait de croissance
+grands;2017-03-09;;Champignons citronnés;;Escalope de poulet;;Blé et courgettes;Fromage;FLS;Poire;Semoule au lait/ jus de fruits
+petits;2017-03-09;;;;Escalope de poulet;;Purée de courgettes et pommes de terre;;FLS;Compote de poires;Semoule au lait/ eau
+petits;2017-03-14;;;;Escalope de dinde;;Purée verte;;FLS;Compote de poires;Crème impériale/ eau
+grands;2017-03-16;;Champignons;;Poisson;;Purée framboisine;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+petits;2017-03-16;;;;Poisson;;Purée framboisine;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+moyens;2017-03-21;;;VBF;Rôti de bœuf;;Haricots verts;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-03-24;FLS;Betteraves cuites;;Escalope de poulet;;Gratin dauphinois;;FLS;Pomme;Yaourt nature/ madeleine/ eau
+moyens;2017-03-27;FLS;Pamplemousse;VPF;Jambon;;Pâtes;;FLS;Poire cuite;Pain/ fruit/ lait de croissance
+petits;2017-03-30;;;;Escalope de poulet;;Purée framboisine;;;Compote de fruits;Compote/ pain/ lait de croissance
+grands;2017-04-03;FLS;Salade de carottes et pommes;VBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-04-04;;Radis;;Poisson au citron;;Purée de potiron;;FLS;Orange;Semoule au lait/ jus de fruits
+grands;2017-04-05;;Cœur de palmier;;Gnocchis;;Salade en chiffonnade;;FLS;Poire;Fromage blanc/ pain d'épices/ eau
+grands;2017-04-07;FLS;Betteraves cuites;;Escalope de veau;;Haricots blancs tomatés;;FLS;Ananas;Yaourt nature/ galette bretonne/ eau
+moyens;2017-04-07;FLS;Betteraves cuites;;Escalope de veau;;Purée maraîchère;;FLS;Orange;Yaourt nature/ galette bretonne/ eau
+grands;2017-04-10;;Pointes d'asperges;;Poisson;;Riz;;FLS;Pomme;Crème impériale/ jus de fruits
+moyens;2017-04-10;;Pointes d'asperges;;Poisson;;Riz;;FLS;Pomme;Crème impériale/ jus de fruits
+grands;2017-04-11;;Champignons et filet de citron;;Escalope de dinde;;Petits pois carottes;Fromage;FLS;Orange;Pain/ fruit/ lait de croissance
+petits;2017-04-13;;;;Poisson;;Purée de poireauxx;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+grands;2017-04-13;FLS;Salade de carottes et pommes;;Poisson;;Gratin de poireaux et pommes de terre;Fromage;FLS;Poire;Gâteau maison/ lait de croissance
+moyens;2017-04-21;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;FLS;Orange;Yaourt nature/ madeleine/ eau
+moyens;2017-04-24;FLS;Betteraves cuites;;Poisson beurre citron;;Riz pilaf;;FLS;Pomme;Pain/ fruit/ lait de croissance
+petits;2017-04-26;;;;Poisson;;Purée framboisine;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+grands;2017-05-02;;Salade de riz et tomates au basilic;VBF;Rôti de bœuf;;Haricots verts;;FLS;Fraises;Semoule au lait/ jus de fruits
+grands;2017-05-04;;Fond d'artichaud;;Escalope de poulet;;Purée framboisine;Fromage;FLS;Poire;Gâteau maison/ lait de croissance
+petits;2017-05-09;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Banane et fraise mixée;Crème impériale/ eau
+moyens;2017-05-11;;;;Escalope de poulet;;Cœur de céleri, semoule sauce tomate;;FLS;Orange;Gâteau maison/ lait de croissance
+grands;2017-05-11;FLS;Radis;;Escalope de poulet;;Cœur de céleri, semoule sauce tomate;Fromage;FLS;Orange;Gâteau maison/ lait de croissance
+moyens;2017-05-15;;Taboulé;VBF;Rôti de bœuf;;Carottes vichy;;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-05-18;FLS;Pamplemousse;;Poisson;;Purée verte;;FLS;Banane;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-05-22;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Crème impériale/ eau
+moyens;2017-05-26;;Betteraves cuites;;Poisson sauce tomate fraîche;;Pommes de terre au four;;FLS;Orange;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-05-29;FLS;Pamplemousse;AB;Gratin de pâtes au thon;;;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+petits;2017-06-01;;;;Poisson;;Purée de concombres et pommes de terre;;;Compote de pêches;Compote/ pain/ lait de croissance
+moyens;2017-06-07;;;;Rôti de porc;;Purée framboisine;;FLS;Pêche;Crème au chocolat/ pain/ eau
+grands;2017-06-07;FLS;Concombre à la grècque;VPF;Rôti de porc;;Brocolis et millet;Fromage;FLS;Pêche;Crème au chocolat/ pain/ eau
+petits;2017-06-14;;;;Poisson;;Purée maraîchère;;FLS;Banane et fraise mixée;Compote/ pain/ lait de croissance
+petits;2017-06-15;;;;Escalope de poulet;;Purée rose;;FLS;Compote pomme et abricot;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-06-21;;;VPF;Jambon;;Purée maraîchère;;FLS;Compotée d'abricots;Crème impériale/ eau
+petits;2017-06-22;;;VBF;Steak;;Purée verte;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+grands;2017-06-26;;Pamplemousse;;Poisson sauce tomate fraîche;;Blé et courgettes;Fromage;FLS;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-06-26;;Pamplemousse;;Poisson sauce tomate fraîche;;Blé et courgettes;;FLS;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-07-03;FLS;Pastèque;VPF;Jambon;;Pâtes;Fromage;;Poire cuite;Pain/ fruit/ lait de croissance
+petits;2017-07-04;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pêches;Crème impériale/ eau
+moyens;2017-07-05;;;;Poisson;;Gratin de courgettes et pommes de terre;;;Fraises;Crème au chocolat/ pain/ eau
+grands;2017-07-10;;Taboulé;VBF;Rôti de bœuf;;Carottes vichy;Fromage;FLS;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+petits;2017-07-11;;;VPF;Rôti de porc;;Purée de haricots verts;;FLS;Compote pommes et fraises;Semoule au lait/ eau
+moyens;2017-07-11;;;VPF;Rôti de porc;;;;FLS;Fraises;Semoule au lait/ jus de fruits
+grands;2017-07-11;FLS;Tomates au basilic;VPF;Rôti de porc;;Flageolets cuisinés;;FLS;Fraises;Semoule au lait/ jus de fruits
+petits;2017-07-13;;;;Poisson;;Purée verte;;FLS;Banane mixée;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-07-17;;Pamplemousse;;Gratin de pâtes au thon;;;;;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-07-18;FLS;Radis;;Escalope de dinde;;Petits pois carottes;;FLS;Fraises;Pain/ fruit/ lait de croissance
+moyens;2017-07-18;;;;Escalope de dinde;;Purée de haricots verts;;FLS;Fraises;Pain/ fruit/ lait de croissance
+petits;2017-07-18;;;;Escalope de dinde;;Purée de haricots verts;;FLS;Compote pommes et fraises;Compote/ pain/ lait de croissance
+moyens;2017-07-26;FLS;Melon;VPF;Rôti de porc;;Tomates provençales et semoule;;FLS;Abricot;Fromage blanc/ pain d'épices/ eau
+grands;2017-07-28;FLS;Betteraves crues râpées;;Escalope de poulet;;Blé et ratatouille;;FLS;Banane;Yaourt nature/ galette bretonne/ eau
+moyens;2017-08-11;FLS;Pastèque;VPF;Rôti de porc;;Semoule et ratatouille;;FLS;Prune;Yaourt nature/ madeleine/ eau
+moyens;2017-09-01;;;;Omelette;;Epinards et pommes de terre;;;Banane;Yaourt nature/ biscuits au lait/ eau
+moyens;2017-09-05;;;VPF;Rôti de porc;;Haricots verts et pommes de terre;;;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-09-08;FLQ;Melon;;Escalope de veau;;Ratatouille/ Pommes de terre;;FLS;Pêche;Yaourt nature/ madeleine/ eau
+moyens;2017-09-12;;;;Escalope de dinde;;Purée de haricots verts;;FLS;Fraises;Pain/ fruit/ lait de croissance
+moyens;2017-09-21;;;;Escalope de poulet;;Purée de courgettes;;FLS;Pêche;Gâteau maison/ lait de croissance
+moyens;2017-09-26;;Betteraves cuites;;Gnocchis;;;;;Fraises;Crème impériale/ jus de fruits
+moyens;2017-10-10;;;;Poisson;;Purée de carottes, courgettes et pommes de terre;;;Banane;Riz au lait/ jus de fruits
+moyens;2017-10-17;;;;Poisson au citron;;Purée de potiron;;;Orange;Semoule au lait/ jus de fruits
+moyens;2017-10-20;;Betteraves cuites;;Escalope de veau;;Purée maraîchère;;FLS;Poire;Yaourt nature/ galette bretonne/ eau
+moyens;2017-10-23;;Pointes d'aspèrges;;Poisson;;Riz pilaf;;FLS;Pomme;Crème impériale/ jus de fruits
+moyens;2017-10-26;;;;Poisson;;Gratin de poireaux et pommes de terre;;FLS;Poire;Gâteau maison/ lait de croissance
+moyens;2017-11-01;;;VPF;Rôti de porc;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-11-02;;;;Escalope de poulet;;Carottes vichy et pommes de terre;;FLS;Kiwi;Semoule au lait/ jus de fruits
+moyens;2017-11-10;;;VPF;Rôti de porc;;Purée rose;;FLS;Poire;Yaourt nature/ madeleine/ eau
+moyens;2017-11-22;;Cœur de palmier;VPF;Quiche au jambon et quiche nature;;;;;Corbeille de fruits;Gâteau maison/ lait de croissance
+moyens;2017-12-04;;Pamplemousse;;Jambon;;Pâtes;;;FLS;
+moyens;2017-12-06;FLS;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;;FLS;
+moyens;2017-12-21;;;;Poisson;;Purée de poireaux;;;FLS;
+grands;2017-01-02;;Carottes râpées;;Thon;;Pâtes sauce tomate;Fromage;FLS;Pomme;Pain/ fruit/ lait de croissance
+petits;2017-01-09;;;;Gigot d'agneau;;Purée rose;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+grands;2017-01-09;;Mousse d'avocats;;Gigot d'agneau;;Flageolets cuisinés;;;Corbeille de fruits;Pain/ beurre/ chocolat/ lait de croissance
+petits;2017-01-10;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Fromage blanc/ pain/ eau
+petits;2017-01-13;;;VPF;Rôti de porc;;Purée maraîchère;;FLS;Compote pommes/ bananes;Yaourt nature/ cracottes/ eau
+grands;2017-01-16;;Salade composée;;Poisson;;Carottes vichy et pommes de terre;Fromage;FLS;Pomme;Pain/ fruit/ lait de croissance
+petits;2017-01-23;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-01-24;;;VBF;Rôti de bœuf;;Haricots verts;;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-01-25;;Salade composée;VPF;Rôti de porc;;Boulgour et potiron;;FLS;Clémentine;Semoule au lait/ jus de fruits
+moyens;2017-01-25;;;VPF;Rôti de porc;;Boulgour et potiron;;FLS;Clémentine;Semoule au lait/ jus de fruits
+grands;2017-01-26;;Fond d'artichaud;;Omelette;;Jardinière de légumes;Fromage;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-02-09;;;VPF;Rôti de porc;;Purée verte;;FLS;Pomme;Gâteau maison/ lait de croissance
+petits;2017-02-10;;;;Escalope de veau;;Purée maraîchère;;FLS;Compote pommes/ poires;Yaourt nature/ cracottes/ eau
+grands;2017-02-16;FLS;Salade de carottes et pommes;;Poisson;;Gratin de poireaux et pommes de terre;Fromage;FLS;Poire;Gâteau maison/ lait de croissance
+moyens;2017-02-17;FLS;Pamplemousse;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Pomme cuite;Yaourt nature/ biscuits au lait/ eau
+grands;2017-02-23;;Salade composée;;Escalope de poulet;;Carottes vichy et pommes de terre;;FLS;Poire pochée;Semoule au lait/ jus de fruits
+grands;2017-02-24;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;FLS;Orange;Yaourt nature/ madeleine/ eau
+petits;2017-02-24;;;;Thon;;Purée de poireauxx et carottes;;FLS;Banane mixée;Yaourt nature/ cracottes/ eau
+moyens;2017-02-27;FLS;Betteraves cuites;;Poisson beurre citron;;Riz pilaf;;FLS;Pomme;Pain/ fruit/ lait de croissance
+grands;2017-02-27;FLS;Betteraves cuites;;Poisson beurre citron;;Riz pilaf;Fromage;FLS;Pomme;Pain/ fruit/ lait de croissance
+grands;2017-03-01;;Salade composée;;Poisson;;Brocolis et semoule;;FLS;Orange;Gâteau maison/ lait de croissance
+moyens;2017-03-08;;;;Poisson;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+petits;2017-03-10;;;VPF;Rôti de porc;;Purée maraîchère;;FLS;Compote pommes/ bananes;Yaourt nature/ cracottes/ eau
+grands;2017-03-15;;Cœur de palmier;VPF;Quiche jambon/ quiche nature;;Salade en chiffonnade;;FLS;Ananas;Crème au chocolat/ pain/ eau
+petits;2017-03-23;;;;Poisson;;Purée de poireauxx et carottes;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+grands;2017-03-24;FLS;Betteraves cuites;;Escalope de poulet;;Gratin dauphinois;;FLS;Pomme;Yaourt nature/ madeleine/ eau
+petits;2017-03-24;;;;Escalope de poulet;;Purée verte;;FLS;Compote pommes/ bananes;Yaourt nature/ cracottes/ eau
+moyens;2017-03-28;;;;Poisson;;Purée de carottes, courgettes et pommes de terre;;FLS;Banane;Riz au lait/ jus de fruits
+moyens;2017-04-06;;;VPF;Rôti de porc;;Purée verte;;FLS;Pomme;Gâteau maison/ lait de croissance
+grands;2017-04-12;;Pruneaux;VPF;Jambon;;Purée framboisine;;FLS;Banane;Crème au chocolat/ pain/ eau
+grands;2017-04-19;;Salade de riz aux agrumes;VPF;Rôti de porc;;Choux de bruxelle;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+petits;2017-04-21;;;;Thon;;Purée de poireauxx et carottes;;FLS;Compote de pommes et pêches au sirop;Yaourt nature/ cracottes/ eau
+grands;2017-04-21;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;FLS;Orange;Yaourt nature/ madeleine/ eau
+moyens;2017-04-27;FLS;Pamplemousse;VBF;Steak;;Purée de pommes de terre, poireaux, carottes;;FLS;Banane;Pain/ fromage/ eau
+grands;2017-04-27;FLS;Pamplemousse;VBF;Steak;;Jardinière de légumes;Fromage;FLS;Banane;Pain/ fromage/ eau
+grands;2017-04-28;FLS;Mousse de betteraves;VPF;Potée (rôti de porc);;;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+petits;2017-05-02;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote pommes et fraises;Semoule au lait/ eau
+petits;2017-05-04;;;;Escalope de poulet;;Purée framboisine;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+moyens;2017-05-05;FLS;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;FLS;Orange;Yaourt nature/ galette bretonne/ eau
+petits;2017-05-05;;;VBF;Steak;;Purée de courgettes;;;Compote de fruits;Yaourt nature/ cracottes/ eau
+moyens;2017-05-09;;;VBF;Rôti de bœuf;;Purée de haricots;;FLS;Fraises;Crème impériale/ jus de fruits
+petits;2017-05-11;;;;Escalope de poulet;;Purée de poireauxx et carottes;;;Compote de fruits;Compote/ pain/ lait de croissance
+moyens;2017-05-22;;;;Poisson beurre citron;;Riz pilaf;;FLS;Pomme cuite;Pain/ fromage/ eau
+moyens;2017-06-01;;;;Omelette;;Purée de courgettes;;FLS;Pêche;Gâteau maison/ lait de croissance
+grands;2017-06-02;FLS;Betteraves crues râpées;;Escalope de poulet;;Blé et ratatouille;;FLS;Banane;Yaourt nature/ galette bretonne/ eau
+moyens;2017-06-02;;;;Escalope de poulet;;Blé et ratatouille;;FLS;Banane;Yaourt nature/ galette bretonne/ eau
+grands;2017-06-08;FLS;Melon;VBF;Rôti de bœuf;;Courgettes à la Provençale et riz;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-06-09;;Taboulé;;Poisson;;Épinards florentine;;FLS;Abricot;Yaourt nature/ biscuits au lait/ eau
+petits;2017-06-12;;;;Gigot d'agneau;;Purée de courgette et carottes;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+moyens;2017-06-14;;;;Poisson;;Purée de concombres et pommes de terre;;;Banane;Gâteau maison/ lait de croissance
+grands;2017-06-15;FLS;Melon;;Escalope de poulet;;Purée de fenouil et carottes;;FLS;Abricot;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-06-23;FLS;Pastèque;;Poisson beurre citron;;Semoule;;;Poire cuite;Yaourt nature/ cake au chocolat/ eau
+petits;2017-06-23;;;;Poisson;;Purée maraîchère;;;Compote de poires;Yaourt nature/ boudoirs/ eau
+moyens;2017-06-27;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Fraises;Semoule au lait/ jus de fruits
+petits;2017-06-29;;;;Escalope de poulet;;Purée framboisine;;FLS;Compote poire et fraise;Compote/ pain/ lait de croissance
+grands;2017-06-30;;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;FLS;Melon;Yaourt nature/ cracottes/ eau
+moyens;2017-06-30;;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;FLS;Melon;Yaourt nature/ cracottes/ eau
+petits;2017-07-03;;;VPF;Jambon;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+moyens;2017-07-04;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Pêche;Crème impériale/ jus de fruits
+grands;2017-07-04;FLS;Radis;VBF;Rôti de bœuf;;Carottes vichy et petits pois;;;Pêche;Crème impériale/ jus de fruits
+grands;2017-07-05;FLS;Salade d'avocats et tomates;;Poisson;;Gratin de courgettes et pommes de terre;;;Fraises;Crème au chocolat/ pain/ eau
+petits;2017-07-06;;;;Escalope de poulet;;Purée de poireauxx et carottes;;FLS;Compote pommes et nectarines;Compote/ pain/ lait de croissance
+grands;2017-07-06;FLS;Melon;;Escalope de poulet;;Cœur de céleri, semoule sauce tomate;Fromage;FLS;Nectarine;Gâteau maison/ lait de croissance
+moyens;2017-07-07;;;;Omelette;;Épinards et pommes de terre;;;Banane;Yaourt nature/ biscuits au lait/ eau
+petits;2017-07-07;;;;Poisson;;Purée verte;;FLS;Banane mixée;Yaourt nature/ boudoirs/ eau
+moyens;2017-07-12;;;;Escalope de poulet;;;;FLS;Pomme;Gâteau maison/ lait de croissance
+petits;2017-07-17;;;;Poisson;;Purée rose;;FLS;Compote de poires;Crème impériale/ eau
+grands;2017-07-20;;Taboulé;VBF;Steak;;Purée de fenouil et carottes;;FLS;Pêche;Gâteau maison/ lait de croissance
+petits;2017-07-20;;;VBF;Steak;;Purée de courgettes;;FLS;Compote de pêches;Compote/ pain/ lait de croissance
+grands;2017-07-21;;Betteraves cuites;;Poisson sauce tomate fraîche;;Pommes de terre au four;;;Nectarine;Yaourt nature/ cake au chocolat/ eau
+petits;2017-07-24;;;;Thon;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+grands;2017-07-24;FLS;Pamplemousse;;Gratin de pâtes au thon;;;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-08-24;;Champignons citronnés;;Escalope de poulet;;Purée framboisine;Fromage;FLS;Nectarine;Gâteau maison/ lait de croissance
+grands;2017-08-30;FLS;Radis;;Poisson;FLS;Gratin de courgettes et pommes de terre;;FLS;Prune;Crème au chocolat/ pain/ eau
+grands;2017-09-04;;Taboulé;VBF;Rôti de bœuf;FLS;Carottes vichy;Fromage;;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-09-05;FLS;Tomates au basilic;VPF;Rôti de porc;;Flageolets cuisinées;;;Fraises;Semoule au lait/ jus de fruits
+grands;2017-09-18;FLS;Pamplemousse;;Gratin de pâtes au thon;;;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-09-20;FLS;Melon;VPF;Rôti de porc;FLS;Tomates provençales et semoule;;FLS;Raisin;Fromage blanc/ pain d'épices/ eau
+grands;2017-10-02;FLS;Pamplemousse;;Poisson beurre citron;;Riz;;FLS;Pomme cuite;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-10-17;FLS;Mousse d'avocats;;Poisson au citron;FLS;Potiron et pommes de terre;;FLS;Raisin;Semoule au lait/ jus de fruits
+grands;2017-10-25;;Pruneaux;VPF;Jambon;;Purée framboisine;;FLS;Banane;Crème au chocolat/ pain/ eau
+grands;2017-10-31;;Cœur de palmier;VBF;Rôti de bœuf;;Haricots verts et blé;;FLS;Orange;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-11-02;;Salade composée;;Escalope de poulet;FLS;Carottes vichy et pommes de terre;;FLS;Kiwi;Semoule au lait/ jus de fruits
+grands;2017-11-09;FLS;Pamplemousse;VBF;Steak;;Jardinière de légumes;Fromage;FLS;Banane;Semoule au lait/ jus de fruits
+grands;2017-11-13;;Mousse d'avocats;;Gigot d'agneau;;Flageolets cuisinées;;FLS;Clémentine;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-11-14;;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Haricots verts;;FLS;Pomme;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-11-15;;Fonds d'artichaut;;Poisson;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-11-16;;Champignons citronnés;;Escalope de poulet;FLS;Blé et courgettes;Fromage;FLS;Poire;Semoule au lait/ jus de fruits
+grands;2017-11-22;;Cœur de palmier;VPF;Quiche au jambon et Quiche nature;FLS;Salade en chiffonnade;;FLS;Ananas;Gâteau maison/ lait de croissance
+grands;2017-12-05;FLS;Carottes râpées;;Poisson;;Gratin de choux fleurs béchamel;;FLS;Banane;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-12-08;FLS;Salade de  pommes de terre;;Poisson;;Epinards à la crème;;FLS;Clémentine;Yaourt nature/ madeleine/ eau
+grands;2017-12-13;;Cœur de palmier;;Gnocchis;FLS;Salade en chiffonnade;;FLS;Poire;Gâteau maison/ lait de croissance
+grands;2017-12-14;FLS;Salade composée;VPF;Rôti de porc;FLS;Brocolis et millet;;FLS;Pomme;Semoule au lait/ jus de fruits
+grands;2017-12-18;;Pointes  d'aspèrges;;Poisson;;Riz pilaf;;FLS;Pomme;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-12-21;FLS;Salade de carottes et pommes;;Poisson;FLS;Gratin de poireaux et pommes de terre;Fromage;FLS;Poire;Semoule au lait/ jus de fruits
+moyens;2017-08-07;;;;Gigot d'agneau;;Pâtes;;;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-08-17;;;VBF;Steak;;Purée verte;;;Banane;Pain/ fruit/ lait de croissance
+moyens;2017-08-21;;Pamplemousse;;Poisson sauce tomate;;Blé et courgettes;;;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-08-30;;;;Poisson;;Gratin de courgettes et pommes de terre;;FLS;Prune;Crème au chocolat/ pain/ eau
+moyens;2017-09-14;;Taboulé;VBF;Steak;;Purée de fenouil et carottes;;FLS;Pêche;Gâteau maison/ lait de croissance
+moyens;2017-01-02;;;;Thon;;Pâtes sauce tomate;;FLS;Pomme;Pain/ fruit/ lait de croissance
+moyens;2017-01-03;;;;Escalope de dinde;;Haricots verts;;FLS;Poire;Riz au lait/ jus de fruits
+petits;2017-01-04;;;VBF;Steak;;Purée de pommes de terre, poireaux, carottes;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+grands;2017-01-06;;Salade composée;VPF;Potée;;;;FLS;Kiwi;Yaourt nature/ cake au chocolat/ eau
+petits;2017-01-06;;;VPF;Rôti de porc;;Purée rose;;FLS;Compote de poires;Yaourt nature/ boudoirs/ eau
+moyens;2017-01-09;;;;Gigot d'agneau;;Purée rose;;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-01-10;;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Haricots verts;;FLS;Pomme;Fromage blanc/ pain d'épices/ eau
+moyens;2017-01-10;;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Haricots verts;;FLS;Pomme;Fromage blanc/ pain d'épices/ eau
+grands;2017-01-11;;Fond d'artichaud;;Poisson;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-01-11;;;;Poisson;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-01-16;;;;Poisson;;Carottes vichy et pommes de terre;;FLS;Pomme;Pain/ fruit/ lait de croissance
+moyens;2017-01-17;FLS;Betteraves cuites;;Escalope de dinde;;Purée verte;;FLS;Clémentine;Crème impériale/ jus de fruits
+moyens;2017-01-19;;;;Poisson;;Purée framboisine;;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-01-20;FLS;Pamplemousse;VBF;Steak;;Pâtes;;FLS;Poire cuite;Yaourt nature/ biscuits au lait/ eau
+moyens;2017-01-23;FLS;Pamplemousse;;Poisson beurre citron;;Riz;;FLS;Pomme cuite;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-01-30;FLS;Pamplemousse;VPF;Jambon;;Pâtes;Fromage;FLS;Poire cuite;Pain/ fruit/ lait de croissance
+moyens;2017-02-03;FLS;Salade de pommes de terre;;Poisson;;Épinards à la crème;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+grands;2017-02-03;FLS;Salade de pommes de terre;;Poisson;;Épinards à la crème;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-02-06;;;VBF;Rôti de bœuf;;Haricots verts;;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-02-10;FLS;Betteraves cuites;;Escalope de veau;;Purée maraîchère;;FLS;Orange;Yaourt nature/ galette bretonne/ eau
+grands;2017-02-10;FLS;Betteraves cuites;;Escalope de veau;;Haricots blancs tomatés;;FLS;Ananas;Yaourt nature/ galette bretonne/ eau
+petits;2017-02-13;;;;Poisson;;Purée rose;;FLS;Compote pommes/ poires;Crème impériale/ eau
+moyens;2017-02-13;;Pointes d'asperges;;Poisson;;Riz;;FLS;Pomme;Crème impériale/ jus de fruits
+moyens;2017-02-15;;Pruneaux;VPF;Jambon;;Purée framboisine;;FLS;Banane;Crème au chocolat/ pain/ eau
+grands;2017-02-17;FLS;Pamplemousse;VBF;Rôti de bœuf;;Purée de pois cassés;;FLS;Pomme cuite;Yaourt nature/ biscuits au lait/ eau
+petits;2017-02-23;;;;Escalope de poulet;;Purée verte;;;Compote de fruits;Semoule au lait/ eau
+moyens;2017-02-23;;;;Escalope de poulet;;Carottes vichy et pommes de terre;;FLS;Poire pochée;Semoule au lait/ jus de fruits
+petits;2017-02-28;;;;Escalope de dinde;;Purée de courgettes;;FLS;Compote de poires;Riz au lait/ eau
+grands;2017-02-28;FLS;Carottes râpées;;Escalope de dinde;;Purée de courgettes;;FLS;Kiwi;Riz au lait/ jus de fruits
+moyens;2017-03-06;;;;Gigot d'agneau;;Purée rose;;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-03-10;;;VPF;Rôti de porc;;Cœur de céleri, semoule sauce tomate;;FLS;Orange;Yaourt nature/ galette bretonne/ eau
+grands;2017-03-10;FLS;Carottes, pommes, gruyère;VPF;Rôti de porc;;Cœur de céleri, semoule sauce tomate;;FLS;Orange;Yaourt nature/ galette bretonne/ eau
+moyens;2017-03-13;;;;Poisson;;Carottes vichy et pommes de terre;;FLS;Pomme;Pain/ fruit/ lait de croissance
+moyens;2017-03-14;FLS;Betteraves cuites;;Escalope de dinde;;Purée verte;;FLS;Orange;Crème impériale/ jus de fruits
+grands;2017-03-14;FLS;Betteraves cuites;;Escalope de dinde;;Lentilles cuisinées;;FLS;Orange;Crème impériale/ jus de fruits
+grands;2017-03-17;FLS;Pamplemousse;VBF;Steak;;Pâtes;;FLS;Poire cuite;Yaourt nature/ biscuits au lait/ eau
+moyens;2017-03-17;FLS;Pamplemousse;VBF;Steak;;Pâtes;;FLS;Poire cuite;Yaourt nature/ biscuits au lait/ eau
+moyens;2017-03-20;FLS;Pamplemousse;;Poisson beurre citron;;Riz;;FLS;Pomme cuite;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-03-22;;;VPF;Rôti de porc;;Purée de potiron;;FLS;Orange;Semoule au lait/ jus de fruits
+moyens;2017-03-23;;;;Omelette;;Purée de poireauxx et carottes;;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-03-29;FLS;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;FLS;Kiwi;Pain/ fromage/ eau
+grands;2017-03-30;;Champignons et filet de citron;;Escalope de poulet;;Salsifis, carottes et pommes de terre;Fromage;FLS;Pomme;Gâteau maison/ lait de croissance
+moyens;2017-04-03;;;VBF;Rôti de bœuf;;Haricots verts;;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+petits;2017-04-03;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+moyens;2017-04-04;FLS;Betteraves cuites;;Poisson au citron;;Purée de potiron;;FLS;Orange;Semoule au lait/ jus de fruits
+petits;2017-04-05;;;;Gnocchis;;Purée de poireauxx;;FLS;Compote de poires;Fromage blanc/ pain/ eau
+petits;2017-04-06;;;VPF;Rôti de porc;;Purée verte;;;Compote de fruits;Gâteau maison/ lait de croissance
+petits;2017-04-07;;;;Escalope de veau;;Purée maraîchère;;FLS;Compote pommes/ poires;Yaourt nature/ cracottes/ eau
+petits;2017-04-10;;;;Poisson;;Purée rose;;FLS;Compote pommes/ poires;Crème impériale/ eau
+moyens;2017-04-11;;;;Escalope de dinde;;Purée verte;;FLS;Orange;Pain/ fruit/ lait de croissance
+petits;2017-04-12;;;VPF;Jambon;;Purée framboisine;;FLS;Banane mixée;Crème au chocolat/ pain/ eau
+moyens;2017-04-12;;Pruneaux;VPF;Jambon;;Purée framboisine;;FLS;Banane;Crème au chocolat/ pain/ eau
+moyens;2017-04-13;;;;Poisson;;Purée de poireauxx;;FLS;Poire;Gâteau maison/ lait de croissance
+petits;2017-04-19;;;VPF;Rôti de porc;;Purée de potiron;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+grands;2017-04-20;;Radis;;Escalope de poulet;;Carottes vichy et pommes de terre;;FLS;Poire pochée;Semoule au lait/ jus de fruits
+moyens;2017-04-25;;;;Escalope de dinde;;Purée de courgettes;;FLS;Fraises;Riz au lait/ jus de fruits
+moyens;2017-04-26;;;;Poisson;;Purée framboisine;;;Kiwi;Gâteau maison/ lait de croissance
+petits;2017-04-28;;;VPF;Rôti de porc;;Purée rose;;FLS;Poire mixée;Yaourt nature/ boudoirs/ eau
+moyens;2017-05-03;;;VPF;Rôti de porc;;Semoule et ratatouille;;FLS;Banane;Fromage blanc/ pain d'épices/ eau
+moyens;2017-05-04;;;;Escalope de poulet;;Purée framboisine;;FLS;Poire;Gâteau maison/ lait de croissance
+petits;2017-05-10;;;;Poisson;;Purée maraîchère;;FLS;Compote de poires;Crème au chocolat/ pain/ eau
+grands;2017-05-12;FLS;Salade d'avocats et tomates;;Omelette;;Épinards;;FLS;Banane;Yaourt nature/ biscuits au lait/ eau
+petits;2017-05-15;;;VBF;Rôti de bœuf;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-05-16;;;VPF;Rôti de porc;;Purée de haricots verts;;FLS;Compote de pomme et fraise;Semoule au lait/ eau
+grands;2017-05-22;FLS;Salade de tomates;;Poisson beurre citron;;Riz pilaf;;;Pomme cuite;Pain/ fromage/ eau
+grands;2017-05-23;;Champignons citronnés;;Escalope de dinde;;Petits pois carottes;;FLS;Fraises;Pain/ fruit/ lait de croissance
+petits;2017-05-23;;;;Escalope de poulet;;Purée de haricots verts;;FLS;Compote pommes et fraises;Compote/ pain/ lait de croissance
+moyens;2017-05-23;;;;Escalope de dinde;;Purée de haricots verts;;FLS;Fraises;Pain/ fruit/ lait de croissance
+petits;2017-05-24;;;VPF;Jambon;;Purée maraîchère;;FLS;Banane mixée;Riz au lait/ eau
+petits;2017-05-30;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote poire et fraise;Semoule au lait/ eau
+petits;2017-06-02;;;;Escalope de poulet;;Purée de courgettes;;;Compote de fruits;Yaourt nature/ cracottes/ eau
+moyens;2017-06-06;;;;Betteraves cuites;;Gnocchis;;FLS;Fraises;Crème impériale/ jus de fruits/ lait de croissance
+grands;2017-06-06;;Betteraves cuites;;Gnocchis;;Salade en chiffonnade;;FLS;Fraises;Crème impériale/ jus de fruits
+petits;2017-06-07;;;VPF;Rôti de porc;;Purée framboisine;;;Compote de pomme et pêche;Crème au chocolat/ pain/ eau
+petits;2017-06-08;;;VBF;Rôti de bœuf;;Purée de courgettes;;FLS;Compotée d'abricots;Compote/ pain/ lait de croissance
+moyens;2017-06-12;;;;Gigot d'agneau;;Pâtes;;;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-06-12;FLS;Radis;;Gigot d'agneau;;Pâtes;Fromage;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-06-13;;Salade de riz;VBF;Rôti de bœuf;;Gratin de courgettes;;FLS;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-06-15;FLS;Melon;;Escalope de poulet;;Purée de fenouil et carottes;;FLS;Abricot;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-06-16;;Champignons;VPF;Rôti de porc;;Semoule et ratatouille;;FLS;Pêche;Yaourt nature/ madeleine/ eau
+petits;2017-06-16;;;VPF;Rôti de porc;;Purée framboisine;;FLS;Compote de pêches;Yaourt nature/ cracottes/ eau
+moyens;2017-06-19;;;;Sardine;;Carottes et pommes de terre;;FLS;Pêche;Riz au lait/ jus de fruits
+grands;2017-06-19;FLS;Concombre;;Sardine;;Carottes et pommes de terre;;FLS;Pêche;Riz au lait/ jus de fruits
+grands;2017-06-20;FLS;Melon;;Escalope de dinde;;Brocolis et millet;Fromage;FLS;Fraises;Gâteau maison/ lait de croissance
+grands;2017-06-21;FLS;Mousse de carottes;VPF;Jambon;;Courgettes à la tomate et pommes de terre;;FLS;Abricot;Pain/ fromage/ eau
+moyens;2017-06-21;;;VPF;Jambon;;Courgettes à la tomate et pommes de terre;;FLS;Abricot;Pain/ fromage/ eau
+moyens;2017-06-22;;;VBF;Steak;;Purée verte;;;Banane;Pain/ fruit/ lait de croissance
+petits;2017-06-26;;;;Poisson;;Purée rose;;FLS;Compotée d'abricots;Compote/ pain/ lait de croissance
+petits;2017-06-27;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote pommes et fraises;Semoule au lait/ eau
+grands;2017-06-28;FLS;Radis;VPF;Rôti de porc;;Semoule et ratatouille;;;Banane;Fromage blanc/ pain d'épices/ eau
+moyens;2017-06-29;;;;Escalope de poulet;;Purée framboisine;;FLS;Nectarine;Gâteau maison/ lait de croissance
+grands;2017-06-29;;Champignons citronnés;;Escalope de poulet;;Purée framboisine;Fromage;FLS;Nectarine;Gâteau maison/ lait de croissance
+moyens;2017-07-03;FLS;Pastèque;VPF;Jambon;;Pâtes;;;Poire cuite;Pain/ fruit/ lait de croissance
+petits;2017-07-05;;;;Poisson;;Purée maraîchère;;FLS;Banane et fraise mixée;Crème au chocolat/ pain/ eau
+moyens;2017-07-06;FLS;Melon;;Escalope de poulet;;Cœur de céleri, semoule sauce tomate;;;Nectarine;Gâteau maison/ lait de croissance
+petits;2017-07-10;;;VBF;Rôti de bœuf;;Purée rose;;FLS;Compotée d'abricots;Compote/ pain/ lait de croissance
+grands;2017-07-12;FLS;Concombre;;Escalope de poulet;;Blé et courgettes sauce tomate;Fromage;FLS;Pomme;Gâteau maison/ lait de croissance
+petits;2017-07-12;;;;Escalope de poulet;;Purée maraîchère;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+moyens;2017-07-13;;;;Poisson;;Purée verte;;FLS;Banane;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-07-21;;;;Poisson;;Purée maraîchère;;;Compote de fruits;Yaourt nature/ boudoirs/ eau
+grands;2017-08-09;FLS;Tomates à la ciboulette;;Poisson;FLS;Purée de concombre et pommes de terre;Fromage;;Banane;Gâteau maison/ lait de croissance
+grands;2017-08-11;FLS;Pastèque;VPF;Rôti de porc;;Semoule et ratatouille;;FLS;Prune;Yaourt nature/ madeleine/ eau
+grands;2017-08-29;FLS;Salade d'avocats et tomates;VBF;Rôti de bœuf;;Carottes vichy et petits pois;;;Fraises;Crème impériale/ jus de fruits
+grands;2017-08-31;FLS;Melon;;Escalope de poulet;;Cœur de céleri et semoule sauce tomate;;FLS;Nectarine;Gâteau maison/ lait de croissance
+grands;2017-08-21;;Pamplemousse;;Poisson sauce tomate;FLS;Blé et courgettes;Fromage;;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-08-08;;Salade de riz aux agrumes;VBF;Rôti de bœuf;FLS;Gratin de courgettes;;;Fraises;Semoule au lait/ jus de fruits
+grands;2017-08-16;;Mousse de carottes;VPF;Jambon;FLS;Courgettes à la tomate et pommes de terre;;;Abricot;Pain/ fromage/ eau
+grands;2017-08-23;FLS;Radis;VPF;Rôti de porc;;Semoule et ratatouille;;;Banane;Fromage blanc/ pain d'épices/ eau
+grands;2017-08-01;;Betteraves cuites;;Gnocchis;FLS;Salade en chiffonnade;;;Fraises;Crème impériale/ jus de fruits
+grands;2017-10-12;FLS;Champignons et filet de citron;;Escalope de poulet;FLS;Salsifis, carottes et pommes de terre;Fromage;FLS;Raisin;Gâteau maison/ lait de croissance
+grands;2017-09-06;FLS;Concombre;;Escalope de poulet;FLS;Blé et courgettes sauce tomate;Fromage;FLS;Pomme;Gâteau maison/ lait de croissance
+grands;2017-09-27;FLS;Concombre à la grècque;VPF;Rôti de porc;FLS;Brocolis et millet;;FLS;Pêche;Crème au chocolat/ pain/ eau
+grands;2017-09-21;FLS;Mousse de carottes;VBF;Steak;FLS;Purée de courgettes;;FLS;Pêche;Gâteau maison/ lait de croissance
+grands;2017-10-09;FLS;Pamplemousse;VPF;Jambon;;Pâtes;Fromage;FLS;Poire cuite;Pain/ fruit/ lait de croissance
+grands;2017-11-07;FLS;Carottes râpées;;Escalope de dinde;FLS;Purée de courgettes;;FLS;Ananas;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-11-06;FLS;Betteraves cuites;;Poisson beurre citron;;Riz pilaf;Fromage;FLS;Pomme;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-09-08;FLS;Melon;;Escalope de veau;FLS;Ratatouille pommes de terre;;FLS;Pêche;Yaourt nature/ madeleine/ eau
+grands;2017-11-21;FLS;Betteraves cuites;;Escalope de dinde;;Lentilles cuisinées;;FLS;Clémentine;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-11-03;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;FLS;Poire;Yaourt nature/ madeleine/ eau
+grands;2017-12-11;FLS;Salade de carottes et pommes;FBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-12-27;;Salade de riz aux agrumes;VPF;Rôti de porc;FLS;Choux de Bruxelles;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-11-28;;Carottes râpées;VBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-12-01;FLS;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;FLS;Ananas;Yaourt nature/ madeleine/ eau
+grands;2017-11-30;;Fonds d'artichaut;;Omelette;;Jardinière de légumes;Fromage;FLS;Poire;Semoule au lait/ jus de fruits
+grands;2017-12-29;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;FLS;Poire;Yaourt nature/ madeleine/ eau
+moyens;2017-08-02;;;VPF;Rôti de porc;;Purée framboisine;;FLS;Pêche;Crème au chocolat/ pain/ eau
+moyens;2017-08-04;;Taboulé;;Poisson;;Epinards florentines;;;Nectarine;Yaourt nature/ biscuits au lait/ eau
+moyens;2017-08-18;FLS;Pastèque;;Poisson beurre citron;;Semoule;;FLS;Pomme cuite;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-08-28;FLS;Pastèque;VPF;Jambon;;Pâtes;;;Poire cuite;Pain/ fruit/ lait de croissance
+moyens;2017-08-15;FLS;Melon;;Escalope de dinde;;Purée de haricots verts;;;Fraises;Gâteau maison/ lait de croissance
+moyens;2017-09-22;;;VBF;Steak;;Blé et ratatouille;;FLS;Banane;Yaourt nature/ galette bretonne/ eau
+moyens;2017-10-04;;;VPF;Rôti de porc;;Purée de potiron;;FLS;Pomme;Semoule au lait/ jus de fruits
+moyens;2017-08-23;;;VPF;Rôti de porc;;Semoule et ratatouille;;;Banane;Fromage blanc/ pain d'épices/ eau
+moyens;2017-09-25;;;;Poisson beurre citron;;Purée rose;;FLS;Poire;Pain/ fruit/ lait de croissance
+moyens;2017-09-07;;;;Poisson;;Purée verte;;FLS;Banane;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-10-18;;Cœur de palmier;;Gnocchis;;;;FLS;Poire;Fromage blanc/ pain d'épices/ eau
+moyens;2017-08-09;;;;Poisson;;purée de concombre et pomme de terre;;;Banane;Gâteau maison/ lait de croissance
+petits;2017-08-03;;;VBF;Rôti de bœuf;FLS;Purée de courgettes;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-08-16;;;VPF;Jambon;;Purée maraîchère;;FLS;Compote de pommes et abricots;Crème impériale/ eau
+petits;2017-08-09;;;;Poisson;FLS;Purée maraîchère;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-08-30;;;;Poisson;;Purée maraîchère;;FLS;Compote pommes et prunes;Crème au chocolat/ pain/ eau
+moyens;2017-11-08;;;;Poisson;;Purée framboisine;;FLS;Clémentine;Gâteau maison/ lait de croissance
+petits;2017-09-01;;;;Poisson;;Purée verte;;FLS;Banane mixée;Yaourt nature/ boudoirs/ eau
+moyens;2017-12-13;;Cœur de palmier;;Gnocchis;;Salade chiffonade;;;FLS;
+moyens;2017-11-29;;;VPF;Rôti de porc;;Purée de potiron;;;FLS;
+petits;2017-11-09;;;VBF;Steak;FLS;Purée de carottes, poireaux et pommes de terre;;FLS;Banane mixée;Semoule au lait/ eau
+petits;2017-11-07;;;;Escalope de dinde;FLS;Purée de courgettes;;FLS;Compote de poires;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-09-19;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compotée de nectarine;Semoule au lait/ eau
+petits;2017-10-25;;;VPF;Jambon;;Purée framboisine;;FLS;Banane mixée;Crème au chocolat/ pain/ eau
+petits;2017-10-04;;;VPF;Rôti de porc;FLS;Purée de potiron;;;Fruits mixés;Semoule au lait/ eau
+petits;2017-10-31;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Compote de fruits;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-10-02;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-11-06;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-09-18;;;;Thon;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-09-15;;;;Poisson;;Purée maraîchère;;;Compote de fruits;Yaourt nature/ boudoirs/ eau
+petits;2017-11-28;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Banane mixée;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-01-03;;Betteraves cuites;;Escalope de dinde;;Haricots verts;;FLS;Poire;Riz au lait/ jus de fruits
+petits;2017-12-26;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Compote de fruits;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-11-30;;;;Poisson;FLS;Purée de poireaux et carottes;;;Compote de poires;Semoule au lait/ eau
+petits;2017-11-20;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-12-08;;;;Poisson;;Purée de carottes, poireaux et pommes de terre;;;Banane mixée;Yaourt nature/ cracottes/ eau
+petits;2017-11-21;;;;Escalope de dinde;;Purée verte;;;Compote de poires;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-12-07;;;;Escalope de poulet;;Purée framboisine;;;Compote de fruits;Semoule au lait/ eau
+grands;2017-01-04;FLS;Pamplemousse;VBF;Steak;;Jardinière de légumes;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-01-13;FLS;Carottes, pommes, gruyère;VPF;Rôti de porc;;Cœur de céleri, semoule sauce tomate;;;Orange;Yaourt nature/ galette bretonne/ eau
+grands;2017-01-18;;Cœur de palmier;VPF;Quiche au jambon et quiche nature;;Salade en chiffonnade;;FLS;Ananas;Crème au chocolat/ pain/ eau
+grands;2017-01-12;;Champignons citronnés;;Escalope de poulet;;Blé et courgettes;Fromage;FLS;Poire;Semoule au lait/ jus de fruits
+grands;2017-01-17;FLS;Betteraves cuites;;Escalope de dinde;;Lentilles cuisinées;;FLS;Clémentine;Crème impériale/ jus de fruits
+petits;2017-01-24;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-01-19;;;;Poisson;;Purée framboisine;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-01-16;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-01-11;;;;Poisson;;Purée de potiron;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-01-05;;;;Gnocchis;;Purée framboisine;;;Compote de fruits;Crème impériale/ eau
+moyens;2017-06-13;AB;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Gratin de courgettes;;FLS;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-06-08;FLS;Melon;VBF;Rôti de bœuf;;Courgettes à la Provençale et riz;;FLS;Banane;Gâteau maison/ lait de croissance
+petits;2017-06-28;;;VPF;Rôti de porc;;Purée maraîchère;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+grands;2017-06-09;;Taboulé;;Poisson;;Épinards florentine;;FLS;Abricot;Yaourt nature/ biscuits au lait/ eau
+petits;2017-06-30;;;VBF;Steak;;Purée de courgettes;;FLS;Compote de pommes;Yaourt nature/ cracottes/ eau
+petits;2017-06-20;;;;Escalope de dinde;;Purée de haricots verts;;FLS;Banane et fraise mixée;Compote/ pain/ lait de croissance
+grands;2017-06-23;;Pastèque;;Poisson beurre citron;;Semoule;;;Poire cuite;Yaourt nature/ cake au chocolat/ eau
+petits;2017-06-06;;;;Gnocchis;;Purée de haricots verts;;FLS;Banane et fraise mixée;Crème impériale/ eau
+grands;2017-01-24;FLS;Carottes râpées;VBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-01-31;FLS;Carottes râpées;;Poisson;;Gratin de chou fleurs béchamel;;FLS;Banane;Riz au lait/ jus de fruits
+grands;2017-01-27;FLS;Betteraves cuites;;Escalope de poulet;;Gratin dauphinois;;FLS;Orange;Yaourt nature/ madeleine/ eau
+petits;2017-02-01;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote pommes et abricots au sirop;Crème impériale/ eau
+petits;2017-02-06;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-01-30;;;VPF;Jambon;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+moyens;2017-01-31;;;;Poisson;;Purée de carottes, courgettes et pommes de terre;;FLS;Banane;Riz au lait/ jus de fruits
+petits;2017-01-27;;;;Escalope de poulet;;Purée verte;;FLS;Compote pommes/ bananes;Yaourt nature/ cracottes/ eau
+petits;2017-01-25;;;VPF;Rôti de porc;;Purée de potiron;;;Compote de fruits;Semoule au lait/ eau
+petits;2017-02-02;;;;Escalope de poulet;;Purée framboisine;;;Compote de fruits;Compote/ pain/ lait de croissance
+moyens;2017-02-21;;Cœur de palmier;VBF;Rôti de bœuf;;Haricots verts et blé;;FLS;Clémentine;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-02-07;FLS;Mousse d'avocats;;Poisson au citron;;Purée de potiron;;FLS;Clémentine;Semoule au lait/ jus de fruits
+moyens;2017-02-20;FLS;Pamplemousse;;Omelette;;Purée rose;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-02-08;;Cœur de palmier;;Gnocchis;;Salade en chiffonnade;;FLS;Poire;Fromage blanc/ pain d'épices/ eau
+petits;2017-02-22;;;VPF;Rôti de porc;;Purée de potiron;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-02-08;;;;Gnocchis;;Purée de poireauxx;;FLS;Compote pommes/ bananes;Fromage blanc/ pain/ eau
+petits;2017-02-09;;;VPF;Rôti de porc;;Purée verte;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-02-20;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-02-07;;;;Poisson;;Purée de potiron;;FLS;Compote de poires;Semoule au lait/ eau
+moyens;2017-11-14;;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Haricots verts;;FLS;Pomme;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-11-17;;;VPF;Rôti de porc;;Cœur de céleri et semoule sauce tomate;;FLS;Pomme;Yaourt nature/ madeleine/ eau
+moyens;2017-12-01;FLS;Betteraves cuites;;Steak;;Gratin dauphinois;;;FLS;
+moyens;2017-12-05;;;;Poisson;;Purée de carottes, courgettes et pommes de terre;;;FLS;
+moyens;2017-12-07;;;;Escalope de poulet;;Purée framboisine;;;FLS;
+moyens;2017-12-26;;Cœur de palmier;VBF;Rôti de bœuf;;Haricots verts et blé;;;FLS;
+moyens;2017-12-28;;;;Escalope de poulet;;Carottes vichy et pommes de terre;;;FLS;
+grands;2017-08-02;FLS;Concombre à la grècque;VPF;Rôti de porc;FLS;Brocolis et millet;;FLS;Pêche;Crème au chocolat/ pain/ eau
+grands;2017-08-14;FLS;Concombre;;Sardine;;Carottes et pommes de terre;;FLS;Pêche;Riz au lait/ jus de fruits
+grands;2017-08-15;FLS;Melon;;Escalope de dinde;FLS;Brocolis et millet;Fromage;;Fraises;Gâteau maison/ lait de croissance
+grands;2017-08-18;FLS;Pastèque;;Poisson beurre citron;;Semoule;;FLS;Pomme cuite;Yaourt nature/ cake au chocolat/ eau
+grands;2017-08-22;FLS;Salade de riz et tomates au basilic;VBF;Rôti de bœuf;FLS;Haricots verts;;;Fraises;Semoule au lait/ jus de fruits
+grands;2017-08-25;;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;FLS;Melon;Yaourt nature/ galette bretonne/ eau
+grands;2017-09-11;FLS;Salade de tomates;;Poisson beurre citron;;Riz;;FLS;Poire pochée;Pain/ fromage/ eau
+grands;2017-09-19;;Salade de riz et tomates au basilic;VBF;Rôti de bœuf;;Haricots verts;;;Fraises;Semoule au lait/ jus de fruits
+grands;2017-09-25;FLS;Tomates au basilic;;Poisson beurre citron;;Jardinière de légumes;Fromage;FLS;Poire;Pain/ fruit/ lait de croissance
+grands;2017-09-26;;Betteraves cuites;;Gnocchis;;Salade en chiffonnade;;;Fraises;Crème impériale/ jus de fruits
+grands;2017-09-28;FLS;Melon;VBF;Rôti de bœuf;FLS;Courgettes à la Provençale et riz;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-10-03;FLS;Carottes râpées;VBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-10-04;FLS;Radis;VPF;Rôti de porc;;Boulgour et potiron;;FLS;Raisin;Semoule au lait/ jus de fruits
+grands;2017-10-10;FLS;Carottes râpées;;Poisson;FLS;Gratin de choux fleurs béchamel;;FLS;Banane;Riz au lait/ jus de fruits
+grands;2017-10-13;FLS;Salade de  pommes de terre;;Poisson;;Epinards à la crème;;FLS;Pomme;Yaourt nature/ cake au chocolat/ eau
+grands;2017-10-27;FLS;Pamplemousse;VBF;Rôti de bœuf;;Purée de pois cassés;;FLS;Pomme cuite;Yaourt nature/ biscuits au lait/ eau
+grands;2017-11-24;FLD;Pamplemousse;VBF;Steak;;Pâtes;;FLS;Poire cuite;Yaourt nature/ madeleine/ eau
+grands;2017-12-07;FLS;Champignons et filet de citron;;Escalope de poulet;FLS;Salsifis, carottes et pommes de terre;Fromage;FLS;Pomme;Semoule au lait/ jus de fruits
+grands;2017-12-20;;Pruneaux;VPF;Jambon;;Purée framboisine;;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-12-22;FLS;Pamplemousse;VBF;Rôti de bœuf;;Purée de pois cassés;;FLS;Pomme cuite;Yaourt nature/ madeleine/ eau
+petits;2017-08-01;;;;Gnocchis;;Purée de haricots verts;;FLS;Compote pommes et prunes;Crème impériale/ eau
+petits;2017-08-04;;;;Poisson;;Purée verte;;FLS;Compote de pommes et nectarines;Yaourt nature/ boudoirs/ eau
+petits;2017-08-11;;;VPF;Rôti de porc;;Semoule et ratatouille;;FLS;Prune;Yaourt nature/ cracottes/ eau
+petits;2017-08-14;;;;Sardine;;Purée rose;;FLS;Compotée de pêches;Riz au lait/ eau
+petits;2017-08-15;;;;Escalope de dinde;FLS;Purée de haricots verts;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-08-21;;;;Poisson sauce tomate;;Purée rose;;FLS;Compote pommes et abricots;Compote/ pain/ lait de croissance
+petits;2017-08-22;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compotée de pêches;Semoule au lait/ eau
+petits;2017-08-23;;;VPF;Rôti de porc;;Purée maraîchère;;FLS;Banane mixée;Fromage blanc/ pain/ eau
+petits;2017-08-25;;;VBF;Steak;FLS;Purée de courgettes;;;Compote de fruits;Yaourt nature/ cracottes/ eau
+petits;2017-09-20;;;VPF;Rôti de porc;;Purée maraîchère;;;Compote de fruits;Fromage blanc/ pain/ eau
+petits;2017-09-22;;;VBF;Steak;FLS;Purée de courgettes;;FLS;Banane mixée;Yaourt nature/ cracottes/ eau
+petits;2017-09-25;;;;Poisson;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-09-26;;;;Gnocchis;;Purée de haricots verts;;FLS;Compote pommes et prunes;Crème impériale/ eau
+petits;2017-10-11;;;VBF;Rôti de bœuf;;Purée verte;;FLS;Compote pommes et abricots au sirop;Crème impériale/ eau
+petits;2017-10-17;;;;Poisson;;Purée de potiron;;FLS;Compote de poires;Semoule au lait/ eau
+petits;2017-10-18;;;;Gnocchis;FLS;Purée de poireaux;;FLS;Compote pommes et bananes;Fromage blanc/ pain/ eau
+petits;2017-10-23;;;;Poisson;;Purée rose;;FLS;Compote pommes et poires;Crème impériale/ eau
+petits;2017-10-24;;;;Escalope de dinde;;Purée verte;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-11-02;;;;Escalope de poulet;;Purée verte;;FLS;Compote de pommes et pêche au sirop;Semoule au lait/ eau
+petits;2017-11-14;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Compote de pommes;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-11-16;;;;Escalope de poulet;FLS;Purée de courgettes et pommes de terre;;;Compote de poires;Semoule au lait/ eau
+petits;2017-11-29;;;VPF;Rôti de porc;;Purée de potiron;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-12-15;;;;Escalope de veau;;Purée maraîchère;;;Compote pomme/ poire;Yaourt nature/ cracottes/ eau
+petits;2017-12-18;;;;Poisson;;Purée rose;;;Compote pomme/ poire;Compote/ pain/ lait de croissance
+petits;2017-12-25;;;;Poisson;;Purée rose;;;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-12-27;;;VPF;Rôti de porc;;Purée de potiron;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-12-29;;;VBF;Rôti de bœuf;FLS;Purée de poireaux et carottes;;FLS;Compote de poires;Yaourt nature/ cracottes/ eau
+moyens;2017-12-27;;;VPF;Rôti de porc;;Purée de potiron;;;FLS;
+petits;2017-07-31;;;;Poisson;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-08-02;;;VPF;Rôti de porc;;Purée framboisine;;FLS;Compotée de pêches;Crème au chocolat/ pain/ eau
+petits;2017-08-18;;;;Poisson;;Purée maraîchère;;;Compote de fruits;Yaourt nature/ boudoirs/ eau
+petits;2017-09-04;;;VBF;Rôti de bœuf;;Purée rose;;;Compotée d'abricots;Compote/ pain/ lait de croissance
+petits;2017-09-12;;;;Escalope de dinde;;Purée de haricots verts;;FLS;Compote pommes et prunes;Compote/ pain/ lait de croissance
+petits;2017-09-14;;;VBF;Steak;FLS;Purée de courgettes;;FLS;Compotée de pêches;Compote/ pain/ lait de croissance
+petits;2017-09-29;;;;Poisson;;Purée verte;;;Compote de fruits;Yaourt nature/ boudoirs/ eau
+petits;2017-10-10;;;;Poisson;FLS;Purée de carottes, courgettes et pommes de terre;;FLS;Compote pommes et bananes;Riz au lait/ eau
+petits;2017-10-12;;;;Escalope de poulet;;Purée framboisine;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-10-16;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-10-19;;;VPF;Rôti de porc;;Purée verte;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-11-01;;;VPF;Rôti de porc;;Purée de potiron;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-11-03;;;VBF;Rôti de bœuf;FLS;Purée de poireaux et carottes;;FLS;Compote de poires;Yaourt nature/ cracottes/ eau
+petits;2017-11-15;;;;Poisson;;Purée de potiron;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-11-24;;;VBF;Steak;;Purée de haricots verts;;;Compote pomme/ framboise;Yaourt nature/ cracottes/ eau
+petits;2017-12-01;;;VBF;Steak;;Purée verte;;;Compote pomme/  banane;Yaourt nature/ cracottes/ eau
+petits;2017-12-05;;;;Poisson;;Purée de carottes, courgettes et pommes de terre;;;Compote pomme/  banane;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-12-11;;;;Poisson;;Purée rose;;;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-12-19;;;;Escalope de dinde;;Purée verte;;;Compote de fruits;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-12-20;;;VPF;Jambon;;Purée framboisine;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-12-21;;;;Poisson;FLS;Purée de poireaux;;FLS;Compote de poires;Semoule au lait/ eau
+grands;2017-07-31;FLS;Tomates au basilic;;Poisson beurre citron;;Jardinière de légumes;Fromage;FLS;Poire;Pain/ fruit/ lait de croissance
+grands;2017-08-10;FLS;Melon;;Escalope de poulet;FLS;Purée de fenouil et carottes;;;Abricot;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-08-17;FLS;Tomates au basilic;VBF;Steak;;Jardinière de légumes;;;Banane;Pain/ fruit/ lait de croissance
+grands;2017-08-28;FLS;Pastèque;VPF;Jambon;;Pâtes;Fromage;;Poire cuite;Pain/ fruit/ lait de croissance
+grands;2017-09-14;;Taboulé;VBF;Steak;FLS;Purée de fenouil et carottes;;FLS;Pêche;Gâteau maison/ lait de croissance
+grands;2017-09-15;;Betteraves cuites;;Poisson sauce tomate fraîche;;Pommes de terre au four;;FLS;Nectarine;Yaourt nature/ cake au chocolat/ eau
+grands;2017-10-05;;Fonds d'artichaut;;Omelette;;Jardinière de légumes;Fromage;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-11-01;;Salade de riz aux agrumes;VPF;Rôti de porc;FLS;Choux de Bruxelles;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-11-10;FLS,VPF;Mousse de betteraves;;Potée (rôti porc);;;;;Poire;Yaourt nature/ madeleine/ eau
+grands;2017-11-17;FLS;Carottes râpées et gruyère;VPF;Rôti de porc;;Cœur de céleri et semoule sauce tomate;;FLS;Pomme;Yaourt nature/ madeleine/ eau
+grands;2017-12-06;FLS;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;FLS;Kiwi;Gâteau maison/ lait de croissance
+grands;2017-12-26;;Cœur de palmier;VBF;Rôti de bœuf;;Haricots verts et blé;;FLS;Orange;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-08-10;FLS;Melon;;Escalope de poulet;;Purée de fenouil et carottes;;;Abricot;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-10-06;;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;;Orange;Yaourt nature/ madeleine/ eau
+moyens;2017-10-09;;Pamplemousse;VPF;Jambon;;Pâtes;;FLS;Poire cuite;Pain/ fruit/ lait de croissance
+moyens;2017-10-12;;;;Escalope de poulet;;Purée framboisine;;FLS;Poire;Gâteau maison/ lait de croissance
+moyens;2017-10-24;;;;Escalope de dinde;;Purée verte;;;Banane;Pain/ fruit/ lait de croissance
+moyens;2017-10-25;;Pruneaux;VPF;Jambon;;Purée framboisine;;;Banane;Crème au chocolat/ pain/ eau
+moyens;2017-10-30;FLS;Pamplemousse;;Omelette;;Purée rose;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-11-07;;;;Escalope de dinde;;Purée de courgettes;;FLS;Poire;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-11-09;FLS;Pamplemousse;VBF;Steak;;Purée de pommes de terre, poireaux, carottes;;FLS;Banane;Semoule au lait/ jus de fruits
+moyens;2017-11-23;;;;Poisson;;Purée framboisine;;FLS;Banane;Semoule au lait/ jus de fruits
+moyens;2017-11-24;FLS;Pamplemousse;VBF;Steak;;Pâtes;;FLS;Poire cuite;Yaourt nature/ madeleine/ eau
+moyens;2017-11-27;FLS;Pamplemousse;;Poisson beurre citron;;Riz;;;FLS;
+moyens;2017-11-28;;;VBF;Rôti de bœuf;;Haricots verts;;;FLS;
+moyens;2017-11-30;;;;Omelette;;Purée de poireaux et carottes;;;FLS;
+moyens;2017-12-15;FLS;Betteraves cuites;;Escalope de veau;;Purée maraîchère;;;FLS;
+moyens;2017-12-20;;Pruneaux;VPF;Jambon;;Purée framboisine;;;FLS;
+moyens;2017-12-25;FLS;Pamplemousse;;Omelette;;Purée rose;;;FLS;
+petits;2017-08-08;;;VBF;Rôti de bœuf;FLS;Purée de haricots verts;;FLS;Compotée de nectarine;Semoule au lait/ eau
+petits;2017-08-29;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compotée de pêches;Crème impériale/ eau
+petits;2017-09-05;;;VPF;Rôti de porc;;Purée de haricots;;;Compote de fruits;Semoule au lait/ eau
+petits;2017-09-08;;;;Escalope de veau;;Purée framboisine;;FLS;Compote de poires et pêches;Yaourt nature/ cracottes/ eau
+petits;2017-09-11;;;;Poisson;;Purée rose;;FLS;Compote de poires;Crème impériale/ eau
+petits;2017-09-13;;;VPF;Jambon;;Purée maraîchère;;FLS;Banane mixée;Riz au lait/ eau
+petits;2017-09-27;;;VPF;Rôti de porc;;Purée framboisine;;FLS;Compotée de pêches;Crème au chocolat/ pain/ eau
+petits;2017-10-03;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-10-05;;;;Poisson;;Purée de poireaux et carottes;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-10-13;;;;Poisson;FLS;Purée de carottes, poireaux et pommes de terre;;FLS;Compote de pommes;Yaourt nature/ boudoirs/ eau
+petits;2017-10-20;;;;Escalope de veau;;Purée maraîchère;;FLS;Compote pommes et poires;Yaourt nature/ cracottes/ eau
+petits;2017-10-26;;;;Poisson;FLS;Purée de poireaux;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-10-30;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-11-08;;;;Poisson;;Purée framboisine;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-11-10;;;VPF;Jambon;;Purée rose;;FLS;Compote pommes et poires;Yaourt nature/ cracottes/ eau
+petits;2017-12-13;;;;Gnocchis;FLS;Purée de poireaux et crème fraîche;;;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-12-14;;;VPF;Rôti de porc;;Purée verte;;FLS;Fruits mixés;Semoule au lait/ eau
+moyens;2017-07-24;FLS;Pamplemousse;;Gratin de pâtes au thon;;;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+petits;2017-07-26;;;VPF;Rôti de porc;;Purée maraîchère;;FLS;Compote de poires et abricots;Fromage blanc/ pain/ eau
+grands;2017-08-03;FLS;Melon;VBF;Rôti de bœuf;FLS;Courgettes à la Provençale et riz;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-08-04;;Taboulé;;Poisson;;Epinards florentines;;;Nectarine;Yaourt nature/ biscuits au lait/ eau
+grands;2017-08-07;FLS;Radis;;Gigot d'agneau;;Pâtes;Fromage;;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-09-01;;Carottes râpées;;Omelette;FLS;Epinards et pommes de terre;;;Banane;Yaourt nature/ biscuits au lait/ eau
+grands;2017-09-07;FLS;Carottes à la martiniquaise;;Poisson;;Purée verte;;FLS;Banane;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-09-12;FLS;Radis;;Escalope de dinde;;Petis pois carottes;;;Fraises;Pain/ fruit/ lait de croissance
+grands;2017-09-13;FLS;Melon;VPF;Jambon;FLS;Brocolis et millet;;FLS;Banane;Riz au lait/ jus de fruits
+grands;2017-09-22;FLS;Betteraves crues râpées;;Escalope de poulet;FLS;Blé et ratatouille;;FLS;Banane;Yaourt nature/ galette bretonne/ eau
+grands;2017-09-29;;Taboulé;;Poisson;;Epinards florentines;;FLS;Raisin;Yaourt nature/ biscuits au lait/ eau
+grands;2017-10-06;;Betteraves cuites;;Steak;;Gratin dauphinois;;;Ananas;Yaourt nature/ madeleine/ eau
+grands;2017-10-11;;Betteraves cuites;VBF;Rôti de bœuf;;Semoule sauce tomate;;FLS;Kiwi;Pain/ fromage/ eau
+grands;2017-10-16;FLS;Salade de carottes et pommes;VBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-10-18;;Cœur de palmier;;Gnocchis;FLS;Salade en chiffonnade;;FLS;Poire;Fromage blanc/ pain d'épices/ eau
+grands;2017-10-19;;Salade composée;VPF;Rôti de porc;FLS;Brocolis et millet;;FLS;Pomme;Gâteau maison/ lait de croissance
+grands;2017-10-20;FLS;Betteraves cuites;;Escalope de veau;;Haricots blanc tomatés;;FLS;Ananas;Yaourt nature/ galette bretonne/ eau
+grands;2017-10-23;;Pointes  d'aspèrges;;Poisson;;Riz pilaf;;FLS;Pomme;Crème impériale/ jus de fruits
+grands;2017-10-24;FLS;Champignons et filet de citron;;Escalope de dinde;;Petis pois carottes;Fromage;FLS;Raisin;Pain/ fruit/ lait de croissance
+grands;2017-10-26;FLS;Salade de carottes et pommes;;Poisson;FLS;Gratin de poireaux et pommes de terre;Fromage;FLS;Poire;Gâteau maison/ lait de croissance
+grands;2017-10-30;FLS;Pamplemousse;;Omelette;;Purée rose;Fromage;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-11-08;;Salade composée;;Poisson;FLS;Brocolis et semoule;Fromage;FLS;Clémentine;Gâteau maison/ lait de croissance
+grands;2017-11-20;;Salade composée;;Poisson;FLS;Carottes vichy et pommes de terre;Fromage;FLS;Pomme;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-11-23;FLD;Champignons;;Poisson;;Purée framboisine;Fromage;FLS;Banane;Semoule au lait/ jus de fruits
+grands;2017-11-27;FLS;Pamplemousse;;Poisson beurre citron;;Riz;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-11-29;;Salade composée;VPF;Rôti de porc;FLS;Boulgour et potiron;;FLS;Clémentine;Gâteau maison/ lait de croissance
+grands;2017-12-04;FLS;Pamplemousse;VPF;Jambon;FLS;Pâtes;Fromage;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-12-12;FLS;Mousse d'avocats;;Poisson au citron;FLS;Purée de potiron;;FLS;Clémentine;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-12-15;FLS;Betteraves cuites;;Escalope de veau;;Haricots blanc tomatés;;FLS;Ananas;Yaourt nature/ madeleine/ eau
+grands;2017-12-19;FLS;Champignons et filet de citron;;Escalope de dinde;;Petis pois carottes;Fromage;FLS;Clémentine;Fromage blanc aux fruits rouges/ pain/ eau
+grands;2017-12-25;FLS;Pamplemousse;;Omelette;;Purée rose;Fromage;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-12-28;;Salade composée;;Escalope de poulet;FLS;Carottes vichy et pommes de terre;;FLS;Kiwi;Semoule au lait/ jus de fruits
+moyens;2017-07-31;;;;Poisson beurre citron;;Purée rose;;FLS;Poire;Pain/ fruit/ lait de croissance
+moyens;2017-08-03;FLS;Melon;VBF;Rôti de bœuf;;Courgettes à la Provençale et riz;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-08-08;;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Gratin de courgettes;;;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-08-25;;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;FLS;Melon;Yaourt nature/ galette bretonne/ eau
+moyens;2017-09-04;;Taboulé;VBF;Rôti de bœuf;;Carottes vichy;;;Abricot;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-09-18;FLS;Pamplemousse;;Gratin de pâtes au thon;;;;FLS;Pomme cuite;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-09-19;;;VBF;Rôti de bœuf;;Purée de haricots verts;;;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-09-28;FLS;Melon;VBF;Rôti de bœuf;;Courgettes à la Provençale et riz;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-10-02;;Pamplemousse;;Poisson beurre citron;;Riz;;FLS;Pomme cuite;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-10-05;;;;Omelette;;Purée de poireaux et carottes;;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-10-16;;;VBF;Rôti de bœuf;;Haricots verts;;;Banane;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-11-03;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;FLS;Poire;Yaourt nature/ madeleine/ eau
+moyens;2017-11-06;FLS;Betteraves cuites;;Poisson beurre citron;;Riz pilaf;;FLS;Pomme;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-11-13;;;;Gigot d'agneau;;Purée rose;;FLS;Clémentine;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-11-15;;;;Poisson;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+moyens;2017-11-16;;;;Escalope de poulet;;Blé et courgettes;;FLS;Poire;Semoule au lait/ jus de fruits
+moyens;2017-11-20;;;;Poisson;;Carottes vichy et pommes de terre;;FLS;Pomme;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-11-21;FLS;Betteraves cuites;;Escalope de dinde;;Purée verte;;FLS;Clémentine;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-12-08;;Salade de pommes de terre;;Poisson;;Epinards à la crème;;;FLS;
+moyens;2017-12-11;;;VBF;Rôti de bœuf;;Haricots verts;;;FLS;
+moyens;2017-12-12;FLS;Betteraves cuites;;Poisson au citron;;Purée de potiron;;;FLS;
+moyens;2017-12-14;;;VPF;Rôti de porc;;Purée verte;;;FLS;
+moyens;2017-12-18;;Pointes d'aspèrges;;Poisson;;Riz pilaf;;;FLS;
+moyens;2017-12-19;;;;Escalope de dinde;;Purée verte;;;FLS;
+moyens;2017-12-22;FLS;Pamplemousse;VBF;Rôti de bœuf;;Purée de haricots verts;;;FLS;
+moyens;2017-12-29;FLS;Betteraves cuites;;Thon;;Pâtes sauce tomate;;;FLS;
+petits;2017-08-07;;;;Gigot d'agneau;;Purée de courgettes et carottes;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-08-10;;;;Escalope de poulet;FLS;Purée rose;;FLS;Compote pomme et abricot;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-08-17;;;VBF;Steak;;Purée verte;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-08-24;;;;Escalope de poulet;;Purée framboisine;;FLS;Compote pommes nectarines;Compote/ pain/ lait de croissance
+petits;2017-08-28;;;VPF;Jambon;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-08-31;;;;Escalope de poulet;FLS;Purée de poireaux et carottes;;;Compote de fruits;Compote/ pain/ lait de croissance
+petits;2017-09-06;;;;Escalope de poulet;;Purée maraîchère;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-09-07;;;;Poisson;;Purée verte;;FLS;Banane mixée;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-09-21;;;;Escalope de poulet;FLS;Purée de concombre et pommes de terre;;FLS;Compote poires et pêches;Compote/ pain/ lait de croissance
+petits;2017-09-28;;;VBF;Rôti de bœuf;FLS;Purée de courgettes;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-10-06;;;VBF;Steak;;Purée verte;;FLS;Compote pommes et bananes;Yaourt nature/ cracottes/ eau
+petits;2017-10-09;;;VPF;Jambon;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-10-27;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Yaourt nature/ boudoirs/ eau
+petits;2017-11-13;;;;Poisson;;Purée rose;;;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-11-17;;;VPF;Rôti de porc;;Purée maraîchère;;;Compote pomme/  banane;Yaourt nature/ cracottes/ eau
+petits;2017-11-22;;;VPF;Jambon;FLS;Purée de poireaux et pommes de terre;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-11-23;;;;Poisson;;Purée framboisine;;;Compote de fruits;Semoule au lait/ eau
+petits;2017-11-27;;;;Poisson;;Purée rose;;;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-12-04;;;;Poisson;;Purée rose;;;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-12-06;;;VBF;Rôti de bœuf;;Purée verte;;;Compote pommes et abricots au sirop;Compote/ pain/ lait de croissance
+petits;2017-12-12;;;;Poisson;;Purée de potiron;;;Compote pomme/  banane;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-12-22;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de pommes;Yaourt nature/ cracottes/ eau
+petits;2017-12-28;;;;Escalope de poulet;;Purée verte;;;Compote de pommes et pêche au sirop;Semoule au lait/ eau
+petits;2017-02-14;;;;Escalope de dinde;;Purée verte;;;Compote de fruits;Compote/ pain/ lait de croissance
+grands;2017-07-19;FLS;Melon;VPF;Jambon;;Brocolis et millet;;FLS;Banane;Riz au lait/ jus de fruits
+moyens;2017-07-19;FLS;Melon;vpf;Jambon;;Purée maraîchère;;FLS;Banane;Riz au lait/ jus de fruits
+moyens;2017-07-20;;Taboulé;VBF;Steak;;Purée de fenouil et carottes;;FLS;Pêche;Gâteau maison/ lait de croissance
+moyens;2017-07-21;;Betteraves cuites;;Poisson sauce tomate fraîche;;Pommes de terre au four;;FLS;Nectarine;Yaourt nature/ cake au chocolat/ eau
+grands;2017-07-25;;Salade de riz et tomates au basilic;VBF;Rôti de bœuf;;Haricots verts;;;Fraises;Semoule au lait/ jus de fruits
+petits;2017-07-25;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de nectarine;Semoule au lait/ eau
+grands;2017-07-07;;Carottes râpées;;Omelette;;Épinards et pommes de terre;;;Banane;Yaourt nature/ biscuits au lait/ eau
+petits;2017-07-28;;;;Escalope de poulet;;Purée de courgettes;;FLS;Banane mixée;Yaourt nature/ cracottes/ eau
+grands;2017-05-19;FLS;Carottes, pommes, gruyère;VPF;Rôti de porc;;Cœur de céleri, semoule sauce tomate;;FLS;Orange;Yaourt nature/ madeleine/ eau
+grands;2017-05-30;;Salade de riz et tomates au basilic;VBF;Rôti de bœuf;;Haricots verts;;FLS;Fraises;Semoule au lait/ jus de fruits
+moyens;2017-05-31;;Melon;VPF;Rôti de porc;;Tomates provençales et semoule;;FLS;Nectarine;Fromage blanc/ pain d'épices/ eau
+grands;2017-05-29;FLS;Pamplemousse;AB;Gratin de pâtes au thon;;;;FLS;Pomme;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-05-18;FLS;Pamplemousse;;Poisson;;Purée verte;;FLS;Banane;Semoule au lait/ jus de fruits
+grands;2017-05-26;;Betteraves cuites;;Poisson sauce tomate fraîche;;Pommes de terre au four;;FLS;Ananas;Yaourt nature/ cake au chocolat/ eau
+grands;2017-06-01;;Fond d'artichaud;;Omelette;;Purée de courgettes;Fromage;;Pêche;Gâteau maison/ lait de croissance
+moyens;2017-05-17;;;;Escalope de poulet;;Blé et courgettes sauce tomate;;FLS;Pomme;Gâteau maison/ lait de croissance
+moyens;2017-05-19;;;;Escalope de veau;;Ratatouille et Pommes de terre;;FLS;Kiwi;Yaourt nature/ madeleine/ eau
+petits;2017-05-26;;;;Poisson;;Purée maraîchère;;;Compote de fruits;Yaourt nature/ boudoirs/ eau
+grands;2017-03-02;FLS;Pamplemousse;VBF;Steak;;Jardinière de légumes;Fromage;FLS;Banane;Pain/ fromage/ eau
+grands;2017-03-13;;Salade composée;;Poisson;;Carottes vichy et pommes de terre;Fromage;FLS;Pomme;Pain/ fruit/ lait de croissance
+moyens;2017-03-07;;Salade de riz aux agrumes;VBF;Rôti de bœuf;;Haricots verts;;FLS;Pomme;Fromage blanc/ pain d'épices/ eau
+grands;2017-03-03;FLS;Mousse de betteraves;VPF;Potée (rôti de porc);;;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+grands;2017-03-08;;Fond d'artichaud;;Poisson;;Purée de potiron;;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-03-06;;Mousse d'avocats;;Gigot d'agneau;;Flageolets cuisinés;;;Corbeille de fruits;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-03-15;;Cœur de palmier;VPF;Quiche jambon/ quiche nature;;;;;Corbeille de fruits;Crème au chocolat/ pain/ eau
+petits;2017-03-06;;;;Gigot d'agneau;;Purée rose;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+moyens;2017-02-28;;;;Escalope de dinde;;Purée de courgettes;;FLS;Kiwi;Riz au lait/ jus de fruits
+petits;2017-03-13;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+grands;2017-05-16;FLS;Tomates au basilic;VPF;Rôti de porc;;Flageolets cuisinés;;FLS;Fraises;Semoule au lait/ jus de fruits
+grands;2017-05-05;FLS;Betteraves cuites;VBF;Steak;;Gratin dauphinois;;FLS;Ananas;Yaourt nature/ galette bretonne/ eau
+grands;2017-04-25;FLS;Carottes râpées;;Escalope de dinde;;Purée de courgettes;;FLS;Fraises;Riz au lait/ jus de fruits
+grands;2017-05-15;;Taboulé;;Rôti de bœuf;;Carottes vichy;Fromage;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+moyens;2017-05-16;;;VPF;Rôti de porc;;Haricots verts et pomme de terre;;FLS;Fraises;Semoule au lait/ jus de fruits
+petits;2017-04-27;;;VBF;Steak;;Purée de pommes de terre, poireaux, carottes;;FLS;Banane mixée;Crème impériale/ eau
+petits;2017-05-03;;;VPF;Rôti de porc;;Purée maraîchère;;FLS;Banane mixée;Fromage blanc/ pain/ eau
+moyens;2017-05-10;;;;Poisson;;Gratin de courgettes et pommes de terre;;FLS;Poire;Crème au chocolat/ pain/ eau
+petits;2017-04-24;;;;Poisson;;Purée verte;;FLS;Compote de pommes;Compote/ pain/ lait de croissance
+petits;2017-04-25;;;;Escalope de dinde;;Purée de courgettes;;;Compote de fruits;Riz au lait/ eau
+moyens;2017-04-14;FLS;Pamplemousse;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Pomme cuite;Yaourt nature/ biscuits au lait/ eau
+grands;2017-04-14;FLS;Pamplemousse;VBF;Rôti de bœuf;;Purée de pois cassés;;FLS;Pomme cuite;Yaourt nature/ biscuits au lait/ eau
+grands;2017-04-24;FLS;Betteraves cuites;;Poisson beurre citron;;Riz pilaf;Fromage;FLS;Pomme;Pain/ fruit/ lait de croissance
+grands;2017-03-31;FLS;Salade de pommes de terre;;Poisson;;Épinards à la crème;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+moyens;2017-03-31;FLS;Salade de pommes de terre;;Poisson;;Épinards à la crème;;FLS;Poire;Yaourt nature/ cake au chocolat/ eau
+petits;2017-04-14;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Compote de poires;Yaourt nature/ boudoirs/ eau
+petits;2017-03-31;;;;Poisson;;Purée de carottes, poireaux et pommes de terre;;FLS;Banane mixée;Yaourt nature/ boudoirs/ eau
+moyens;2017-03-30;;;;Escalope de poulet;;Purée framboisine;;FLS;Pomme;Gâteau maison/ lait de croissance
+petits;2017-04-04;;;;Poisson;;Purée de potiron;;FLS;Compote pommes/ bananes;Semoule au lait/ eau
+petits;2017-04-11;;;;Escalope de dinde;;Purée verte;;;Compote de fruits;Compote/ pain/ lait de croissance
+grands;2017-03-21;FLS;Carottes râpées;VBF;Rôti de bœuf;;Haricots verts;Fromage;FLS;Banane;Gâteau maison/ lait de croissance
+grands;2017-03-27;FLS;Pamplemousse;VPF;Jambon;;Pâtes;Fromage;FLS;Poire cuite;Pain/ fruit/ lait de croissance
+grands;2017-03-23;;Fond d'artichaud;;Omelette;;Jardinière de légumes;Fromage;FLS;Poire;Pain/ beurre/ chocolat/ lait de croissance
+grands;2017-03-20;FLS;Pamplemousse;;Poisson beurre citron;;Riz;;FLS;Pomme cuite;Fromage blanc aux fruits rouges/ pain/ eau
+petits;2017-03-29;;;VBF;Rôti de bœuf;;Purée verte;;FLS;Compote pommes et abricots au sirop;Crème impériale/ eau
+petits;2017-03-21;;;VBF;Rôti de bœuf;;Purée de haricots verts;;FLS;Banane mixée;Compote/ pain/ lait de croissance
+petits;2017-03-27;;;VPF;Jambon;;Purée rose;;FLS;Compote de poires;Compote/ pain/ lait de croissance
+petits;2017-03-20;;;;Poisson;;Purée rose;;FLS;Compote de pommes;Fromage blanc aux fruits rouges/ pain/ eau
+moyens;2017-03-16;;;;Poisson;;Purée framboisine;;FLS;Banane;Gâteau maison/ lait de croissance
+petits;2017-03-22;;;VPF;Rôti de porc;;Purée de potiron;;;Fruits mixés;Semoule au lait/ eau
