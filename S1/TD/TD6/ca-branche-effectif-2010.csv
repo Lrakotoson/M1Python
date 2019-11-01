@@ -1,0 +1,1901 @@
+NIVEAU;BRANCHE;LIB_NAF;Tranche de taille d'effectif;Chiffre d'affaires de la branche
+a10 ;AZ ;Exploitation forestière ;Ensemble des tranches d'effectif ;2239,2
+a10 ;AZ ;Exploitation forestière ;De 0 à 9 salariés en ETP ;1111,1
+a10 ;AZ ;Exploitation forestière ;De 10 à 19 salariés en ETP ;S
+a10 ;AZ ;Exploitation forestière ;De 20 à 249 salariés en ETP ;S
+a10 ;AZ ;Exploitation forestière ;Plus de 250 salariés en ETP ;S
+a21 ;A ;Exploitation forestière ;Ensemble des tranches d'effectif ;2239,2
+a21 ;A ;Exploitation forestière ;De 0 à 9 salariés en ETP ;1111,1
+a21 ;A ;Exploitation forestière ;De 10 à 19 salariés en ETP ;S
+a21 ;A ;Exploitation forestière ;De 20 à 249 salariés en ETP ;S
+a21 ;A ;Exploitation forestière ;Plus de 250 salariés en ETP ;S
+a88 ;1;Culture et production animale, chasse et services annexes ;Ensemble des tranches d'effectif ;673
+a88 ;1;Culture et production animale, chasse et services annexes ;De 0 à 9 salariés en ETP ;175,6
+a88 ;1;Culture et production animale, chasse et services annexes ;De 10 à 19 salariés en ETP ;18,9
+a88 ;1;Culture et production animale, chasse et services annexes ;De 20 à 249 salariés en ETP ;142,6
+a88 ;1;Culture et production animale, chasse et services annexes ;Plus de 250 salariés en ETP ;335,9
+a272 ;11;Cultures non permanentes ;Ensemble des tranches d'effectif ;317,5
+a272 ;11;Cultures non permanentes ;De 0 à 9 salariés en ETP ;77,2
+a272 ;11;Cultures non permanentes ;De 10 à 19 salariés en ETP ;3,5
+a272 ;11;Cultures non permanentes ;De 20 à 249 salariés en ETP ;54,6
+a272 ;11;Cultures non permanentes ;Plus de 250 salariés en ETP ;182,2
+a272 ;12;Cultures permanentes ;Ensemble des tranches d'effectif ;0,5
+a272 ;12;Cultures permanentes ;De 0 à 9 salariés en ETP ;N
+a272 ;12;Cultures permanentes ;De 10 à 19 salariés en ETP ;0,5
+a272 ;12;Cultures permanentes ;De 20 à 249 salariés en ETP ;N
+a272 ;12;Cultures permanentes ;Plus de 250 salariés en ETP ;N
+a272 ;13;Reproduction de plantes ;Ensemble des tranches d'effectif ;153
+a272 ;13;Reproduction de plantes ;De 0 à 9 salariés en ETP ;91,3
+a272 ;13;Reproduction de plantes ;De 10 à 19 salariés en ETP ;N
+a272 ;13;Reproduction de plantes ;De 20 à 249 salariés en ETP ;8,2
+a272 ;13;Reproduction de plantes ;Plus de 250 salariés en ETP ;53,6
+a272 ;14;Production animale ;Ensemble des tranches d'effectif ;149,6
+a272 ;14;Production animale ;De 0 à 9 salariés en ETP ;N
+a272 ;14;Production animale ;De 10 à 19 salariés en ETP ;1,6
+a272 ;14;Production animale ;De 20 à 249 salariés en ETP ;53,8
+a272 ;14;Production animale ;Plus de 250 salariés en ETP ;94,2
+a272 ;15;Culture et élevage associés ;Ensemble des tranches d'effectif ;1,3
+a272 ;15;Culture et élevage associés ;De 0 à 9 salariés en ETP ;0,1
+a272 ;15;Culture et élevage associés ;De 10 à 19 salariés en ETP ;N
+a272 ;15;Culture et élevage associés ;De 20 à 249 salariés en ETP ;N
+a272 ;15;Culture et élevage associés ;Plus de 250 salariés en ETP ;1,2
+a272 ;16;Activités de soutien à l'agriculture et traitement primaire des récoltes ;Ensemble des tranches d'effectif ;51,1
+a272 ;16;Activités de soutien à l'agriculture et traitement primaire des récoltes ;De 0 à 9 salariés en ETP ;7
+a272 ;16;Activités de soutien à l'agriculture et traitement primaire des récoltes ;De 10 à 19 salariés en ETP ;13,3
+a272 ;16;Activités de soutien à l'agriculture et traitement primaire des récoltes ;De 20 à 249 salariés en ETP ;26
+a272 ;16;Activités de soutien à l'agriculture et traitement primaire des récoltes ;Plus de 250 salariés en ETP ;4,8
+a88 ;2;Exploitation forestière ;Ensemble des tranches d'effectif ;1566,1
+a88 ;2;Exploitation forestière ;De 0 à 9 salariés en ETP ;935,5
+a88 ;2;Exploitation forestière ;De 10 à 19 salariés en ETP ;S
+a88 ;2;Exploitation forestière ;De 20 à 249 salariés en ETP ;S
+a88 ;2;Exploitation forestière ;Plus de 250 salariés en ETP ;S
+a272 ;21;Sylviculture et autres activités forestières ;Ensemble des tranches d'effectif ;82
+a272 ;21;Sylviculture et autres activités forestières ;De 0 à 9 salariés en ETP ;4,5
+a272 ;21;Sylviculture et autres activités forestières ;De 10 à 19 salariés en ETP ;S
+a272 ;21;Sylviculture et autres activités forestières ;De 20 à 249 salariés en ETP ;S
+a272 ;21;Sylviculture et autres activités forestières ;Plus de 250 salariés en ETP ;S
+a272 ;22;Exploitation forestière ;Ensemble des tranches d'effectif ;1477,5
+a272 ;22;Exploitation forestière ;De 0 à 9 salariés en ETP ;929
+a272 ;22;Exploitation forestière ;De 10 à 19 salariés en ETP ;S
+a272 ;22;Exploitation forestière ;De 20 à 249 salariés en ETP ;S
+a272 ;22;Exploitation forestière ;Plus de 250 salariés en ETP ;S
+a272 ;24;Services de soutien à l'exploitation forestière ;Ensemble des tranches d'effectif ;6,7
+a272 ;24;Services de soutien à l'exploitation forestière ;De 0 à 9 salariés en ETP ;2
+a272 ;24;Services de soutien à l'exploitation forestière ;De 10 à 19 salariés en ETP ;S
+a272 ;24;Services de soutien à l'exploitation forestière ;De 20 à 249 salariés en ETP ;S
+a272 ;24;Services de soutien à l'exploitation forestière ;Plus de 250 salariés en ETP ;N
+a88 ;3;Pêche et aquaculture ;Ensemble des tranches d'effectif ;0,1
+a88 ;3;Pêche et aquaculture ;De 0 à 9 salariés en ETP ;N
+a88 ;3;Exploitation forestière ;De 10 à 19 salariés en ETP ;N
+a88 ;3;Pêche et aquaculture ;De 20 à 249 salariés en ETP ;N
+a88 ;3;Pêche et aquaculture ;Plus de 250 salariés en ETP ;0,1
+a272 ;32;Aquaculture ;Ensemble des tranches d'effectif ;0,1
+a272 ;32;Aquaculture ;De 0 à 9 salariés en ETP ;N
+a272 ;32;Aquaculture ;De 10 à 19 salariés en ETP ;N
+a272 ;32;Aquaculture ;De 20 à 249 salariés en ETP ;N
+a272 ;32;Aquaculture ;Plus de 250 salariés en ETP ;0,1
+a10 ;BE ;Industrie manufacturière, industries extractives  et autres ;Ensemble des tranches d'effectif ;857462
+a10 ;BE ;Industrie manufacturière, industries extractives  et autres ;De 0 à 9 salariés en ETP ;74043,5
+a10 ;BE ;Industrie manufacturière, industries extractives  et autres ;De 10 à 19 salariés en ETP ;31317,6
+a10 ;BE ;Industrie manufacturière, industries extractives  et autres ;De 20 à 249 salariés en ETP ;232015,4
+a10 ;BE ;Industrie manufacturière, industries extractives  et autres ;Plus de 250 salariés en ETP ;520092,5
+a10 ;BEy ;Industrie manufacturière, industries extractives  et autres, dont artisanat commercial (*) ;Ensemble des tranches d'effectif ;N
+a10 ;BEy ;Industrie manufacturière, industries extractives  et autres, dont artisanat commercial (*) ;De 0 à 9 salariés en ETP ;N
+a10 ;BEy ;Industrie manufacturière, industries extractives  et autres, dont artisanat commercial (*) ;De 10 à 19 salariés en ETP ;N
+a10 ;BEy ;Industrie manufacturière, industries extractives  et autres, dont artisanat commercial (*) ;De 20 à 249 salariés en ETP ;N
+a10 ;BEy ;Industrie manufacturière, industries extractives  et autres, dont artisanat commercial (*) ;Plus de 250 salariés en ETP ;N
+a21 ;B ;Industries extractives ;Ensemble des tranches d'effectif ;6245,3
+a21 ;B ;Industries extractives ;De 0 à 9 salariés en ETP ;1015,9
+a21 ;B ;Industries extractives ;De 10 à 19 salariés en ETP ;S
+a21 ;B ;Industries extractives ;De 20 à 249 salariés en ETP ;3081
+a21 ;B ;Industries extractives ;Plus de 250 salariés en ETP ;S
+a88 ;5;Extraction de houille et de lignite ;Ensemble des tranches d'effectif ;S
+a88 ;5;Extraction de houille et de lignite ;De 0 à 9 salariés en ETP ;S
+a88 ;5;Extraction de houille et de lignite ;De 10 à 19 salariés en ETP ;N
+a88 ;5;Extraction de houille et de lignite ;De 20 à 249 salariés en ETP ;N
+a88 ;5;Extraction de houille et de lignite ;Plus de 250 salariés en ETP ;N
+a272 ;51;Extraction de houille ;Ensemble des tranches d'effectif ;S
+a272 ;51;Extraction de houille ;De 0 à 9 salariés en ETP ;S
+a272 ;51;Extraction de houille ;De 10 à 19 salariés en ETP ;N
+a272 ;51;Extraction de houille ;De 20 à 249 salariés en ETP ;N
+a272 ;51;Extraction de houille ;Plus de 250 salariés en ETP ;N
+a88 ;6;Extraction d'hydrocarbures ;Ensemble des tranches d'effectif ;604,2
+a88 ;6;Extraction d'hydrocarbures ;De 0 à 9 salariés en ETP ;S
+a88 ;6;Extraction d'hydrocarbures ;De 10 à 19 salariés en ETP ;N
+a88 ;6;Extraction d'hydrocarbures ;De 20 à 249 salariés en ETP ;S
+a88 ;6;Extraction d'hydrocarbures ;Plus de 250 salariés en ETP ;S
+a272 ;61;Extraction de pétrole brut ;Ensemble des tranches d'effectif ;S
+a272 ;61;Extraction de pétrole brut ;De 0 à 9 salariés en ETP ;S
+a272 ;61;Extraction de pétrole brut ;De 10 à 19 salariés en ETP ;N
+a272 ;61;Extraction de pétrole brut ;De 20 à 249 salariés en ETP ;S
+a272 ;61;Extraction de pétrole brut ;Plus de 250 salariés en ETP ;96,5
+a272 ;62;Extraction de gaz naturel ;Ensemble des tranches d'effectif ;S
+a272 ;62;Extraction de gaz naturel ;De 0 à 9 salariés en ETP ;S
+a272 ;62;Extraction de gaz naturel ;De 10 à 19 salariés en ETP ;N
+a272 ;62;Extraction de gaz naturel ;De 20 à 249 salariés en ETP ;2,4
+a272 ;62;Extraction de gaz naturel ;Plus de 250 salariés en ETP ;S
+a88 ;7;Extraction de minerais métalliques ;Ensemble des tranches d'effectif ;S
+a88 ;7;Extraction de minerais métalliques ;De 0 à 9 salariés en ETP ;S
+a88 ;7;Extraction de minerais métalliques ;De 10 à 19 salariés en ETP ;S
+a88 ;7;Extraction de minerais métalliques ;De 20 à 249 salariés en ETP ;S
+a88 ;7;Extraction de minerais métalliques ;Plus de 250 salariés en ETP ;N
+a272 ;71;Extraction de minerais de fer ;Ensemble des tranches d'effectif ;1,7
+a272 ;71;Extraction de minerais de fer ;De 0 à 9 salariés en ETP ;0,1
+a272 ;71;Extraction de minerais de fer ;De 10 à 19 salariés en ETP ;1,6
+a272 ;71;Extraction de minerais de fer ;De 20 à 249 salariés en ETP ;N
+a272 ;71;Extraction de minerais de fer ;Plus de 250 salariés en ETP ;N
+a272 ;72;Extraction de minerais de métaux non ferreux ;Ensemble des tranches d'effectif ;S
+a272 ;72;Extraction de minerais de métaux non ferreux ;De 0 à 9 salariés en ETP ;S
+a272 ;72;Extraction de minerais de métaux non ferreux ;De 10 à 19 salariés en ETP ;S
+a272 ;72;Extraction de minerais de métaux non ferreux ;De 20 à 249 salariés en ETP ;S
+a272 ;72;Extraction de minerais de métaux non ferreux ;Plus de 250 salariés en ETP ;N
+a88 ;8;Autres industries extractives ;Ensemble des tranches d'effectif ;5313,8
+a88 ;8;Autres industries extractives ;De 0 à 9 salariés en ETP ;S
+a88 ;8;Autres industries extractives ;De 10 à 19 salariés en ETP ;S
+a88 ;8;Autres industries extractives ;De 20 à 249 salariés en ETP ;2672,4
+a88 ;8;Autres industries extractives ;Plus de 250 salariés en ETP ;S
+a272 ;81;Extraction de pierres, de sables et d'argiles ;Ensemble des tranches d'effectif ;4838,4
+a272 ;81;Extraction de pierres, de sables et d'argiles ;De 0 à 9 salariés en ETP ;751,6
+a272 ;81;Extraction de pierres, de sables et d'argiles ;De 10 à 19 salariés en ETP ;S
+a272 ;81;Extraction de pierres, de sables et d'argiles ;De 20 à 249 salariés en ETP ;S
+a272 ;81;Extraction de pierres, de sables et d'argiles ;Plus de 250 salariés en ETP ;S
+a272 ;89;Activités extractives n.c.a. ;Ensemble des tranches d'effectif ;475,4
+a272 ;89;Activités extractives n.c.a. ;De 0 à 9 salariés en ETP ;S
+a272 ;89;Activités extractives n.c.a. ;De 10 à 19 salariés en ETP ;67,5
+a272 ;89;Activités extractives n.c.a. ;De 20 à 249 salariés en ETP ;S
+a272 ;89;Activités extractives n.c.a. ;Plus de 250 salariés en ETP ;S
+a88 ;9;Services de soutien aux industries extractives ;Ensemble des tranches d'effectif ;285,7
+a88 ;9;Services de soutien aux industries extractives ;De 0 à 9 salariés en ETP ;S
+a88 ;9;Services de soutien aux industries extractives ;De 10 à 19 salariés en ETP ;S
+a88 ;9;Services de soutien aux industries extractives ;De 20 à 249 salariés en ETP ;S
+a88 ;9;Services de soutien aux industries extractives ;Plus de 250 salariés en ETP ;N
+a272 ;91;Activités de soutien à l'extraction d'hydrocarbures ;Ensemble des tranches d'effectif ;272,6
+a272 ;91;Activités de soutien à l'extraction d'hydrocarbures ;De 0 à 9 salariés en ETP ;S
+a272 ;91;Activités de soutien à l'extraction d'hydrocarbures ;De 10 à 19 salariés en ETP ;S
+a272 ;91;Activités de soutien à l'extraction d'hydrocarbures ;De 20 à 249 salariés en ETP ;S
+a272 ;91;Activités de soutien à l'extraction d'hydrocarbures ;Plus de 250 salariés en ETP ;N
+a272 ;99;Activités de soutien aux autres industries extractives ;Ensemble des tranches d'effectif ;13,1
+a272 ;99;Activités de soutien aux autres industries extractives ;De 0 à 9 salariés en ETP ;S
+a272 ;99;Activités de soutien aux autres industries extractives ;De 10 à 19 salariés en ETP ;N
+a272 ;99;Activités de soutien aux autres industries extractives ;De 20 à 249 salariés en ETP ;S
+a272 ;99;Activités de soutien aux autres industries extractives ;Plus de 250 salariés en ETP ;N
+a21 ;C ;Industrie manufacturière ;Ensemble des tranches d'effectif ;709947
+a21 ;C ;Industrie manufacturière ;De 0 à 9 salariés en ETP ;59879,5
+a21 ;C ;Industrie manufacturière ;De 10 à 19 salariés en ETP ;27671,3
+a21 ;C ;Industrie manufacturière ;De 20 à 249 salariés en ETP ;210052,5
+a21 ;C ;Industrie manufacturière ;Plus de 250 salariés en ETP ;412350,3
+a21 ;Cy ;Industrie manufacturière, dont artisanat commercial (*) ;Ensemble des tranches d'effectif ;N
+a21 ;Cy ;Industrie manufacturière, dont artisanat commercial (*) ;De 0 à 9 salariés en ETP ;N
+a21 ;Cy ;Industrie manufacturière, dont artisanat commercial (*) ;De 10 à 19 salariés en ETP ;N
+a21 ;Cy ;Industrie manufacturière, dont artisanat commercial (*) ;De 20 à 249 salariés en ETP ;N
+a21 ;Cy ;Industrie manufacturière, dont artisanat commercial (*) ;Plus de 250 salariés en ETP ;N
+a88 ;10;Industries alimentaires ;Ensemble des tranches d'effectif ;126065
+a88 ;10;Industries alimentaires ;De 0 à 9 salariés en ETP ;14474,2
+a88 ;10;Industries alimentaires ;De 10 à 19 salariés en ETP ;5257,6
+a88 ;10;Industries alimentaires ;De 20 à 249 salariés en ETP ;43899,8
+a88 ;10;Industries alimentaires ;Plus de 250 salariés en ETP ;62432,8
+a88 ;10y ;Industries alimentaires, dont artisanat commercial (*) ;Ensemble des tranches d'effectif ;N
+a88 ;10y ;Industries alimentaires, dont artisanat commercial (*) ;De 0 à 9 salariés en ETP ;N
+a88 ;10y ;Industries alimentaires, dont artisanat commercial (*) ;De 10 à 19 salariés en ETP ;N
+a88 ;10y ;Industries alimentaires, dont artisanat commercial (*) ;De 20 à 249 salariés en ETP ;N
+a88 ;10y ;Industries alimentaires, dont artisanat commercial (*) ;Plus de 250 salariés en ETP ;N
+a272 ;101;Transformation et conservation de la viande et préparation de produits à base de viande ;Ensemble des tranches d'effectif ;30882,7
+a272 ;101;Transformation et conservation de la viande et préparation de produits à base de viande ;De 0 à 9 salariés en ETP ;2641,2
+a272 ;101;Transformation et conservation de la viande et préparation de produits à base de viande ;De 10 à 19 salariés en ETP ;1266,9
+a272 ;101;Transformation et conservation de la viande et préparation de produits à base de viande ;De 20 à 249 salariés en ETP ;10845,9
+a272 ;101;Transformation et conservation de la viande et préparation de produits à base de viande ;Plus de 250 salariés en ETP ;16128,6
+a272 ;101y ;Transformation et conservation de la viande et préparation de produits à base de viande, dont artisanat commercial (**) ;Ensemble des tranches d'effectif ;N
+a272 ;101y ;Transformation et conservation de la viande et préparation de produits à base de viande, dont artisanat commercial (**) ;De 0 à 9 salariés en ETP ;N
+a272 ;101y ;Transformation et conservation de la viande et préparation de produits à base de viande, dont artisanat commercial (**) ;De 10 à 19 salariés en ETP ;N
+a272 ;101y ;Transformation et conservation de la viande et préparation de produits à base de viande, dont artisanat commercial (**) ;De 20 à 249 salariés en ETP ;N
+a272 ;101y ;Transformation et conservation de la viande et préparation de produits à base de viande, dont artisanat commercial (**) ;Plus de 250 salariés en ETP ;N
+a272 ;102;Transformation et conservation de poisson, de crustacés et de mollusques ;Ensemble des tranches d'effectif ;2654
+a272 ;102;Transformation et conservation de poisson, de crustacés et de mollusques ;De 0 à 9 salariés en ETP ;S
+a272 ;102;Transformation et conservation de poisson, de crustacés et de mollusques ;De 10 à 19 salariés en ETP ;177,8
+a272 ;102;Transformation et conservation de poisson, de crustacés et de mollusques ;De 20 à 249 salariés en ETP ;1239,3
+a272 ;102;Transformation et conservation de poisson, de crustacés et de mollusques ;Plus de 250 salariés en ETP ;S
+a272 ;103;Transformation et conservation de fruits et légumes ;Ensemble des tranches d'effectif ;6692,8
+a272 ;103;Transformation et conservation de fruits et légumes ;De 0 à 9 salariés en ETP ;481,1
+a272 ;103;Transformation et conservation de fruits et légumes ;De 10 à 19 salariés en ETP ;181,4
+a272 ;103;Transformation et conservation de fruits et légumes ;De 20 à 249 salariés en ETP ;2907,7
+a272 ;103;Transformation et conservation de fruits et légumes ;Plus de 250 salariés en ETP ;3122,7
+a272 ;104;Fabrication d'huiles et graisses végétales et animales ;Ensemble des tranches d'effectif ;3135,9
+a272 ;104;Fabrication d'huiles et graisses végétales et animales ;De 0 à 9 salariés en ETP ;S
+a272 ;104;Fabrication d'huiles et graisses végétales et animales ;De 10 à 19 salariés en ETP ;134,2
+a272 ;104;Fabrication d'huiles et graisses végétales et animales ;De 20 à 249 salariés en ETP ;629,4
+a272 ;104;Fabrication d'huiles et graisses végétales et animales ;Plus de 250 salariés en ETP ;S
+a272 ;105;Fabrication de produits laitiers ;Ensemble des tranches d'effectif ;25000,4
+a272 ;105;Fabrication de produits laitiers ;De 0 à 9 salariés en ETP ;1176,6
+a272 ;105;Fabrication de produits laitiers ;De 10 à 19 salariés en ETP ;592
+a272 ;105;Fabrication de produits laitiers ;De 20 à 249 salariés en ETP ;8544,3
+a272 ;105;Fabrication de produits laitiers ;Plus de 250 salariés en ETP ;14687,1
+a272 ;106;Travail des grains - fabrication de produits amylacés ;Ensemble des tranches d'effectif ;5846,7
+a272 ;106;Travail des grains - fabrication de produits amylacés ;De 0 à 9 salariés en ETP ;S
+a272 ;106;Travail des grains - fabrication de produits amylacés ;De 10 à 19 salariés en ETP ;293,7
+a272 ;106;Travail des grains - fabrication de produits amylacés ;De 20 à 249 salariés en ETP ;1777,9
+a272 ;106;Travail des grains - fabrication de produits amylacés ;Plus de 250 salariés en ETP ;S
+a272 ;107;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires ;Ensemble des tranches d'effectif ;20158,2
+a272 ;107;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires ;De 0 à 9 salariés en ETP ;8097,1
+a272 ;107;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires ;De 10 à 19 salariés en ETP ;1370,1
+a272 ;107;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires ;De 20 à 249 salariés en ETP ;5091,4
+a272 ;107;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires ;Plus de 250 salariés en ETP ;5599,6
+a272 ;107y ;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, dont artisanat commercial (***) ;Ensemble des tranches d'effectif ;N
+a272 ;107y ;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, dont artisanat commercial (***) ;De 0 à 9 salariés en ETP ;N
+a272 ;107y ;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, dont artisanat commercial (***) ;De 10 à 19 salariés en ETP ;N
+a272 ;107y ;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, dont artisanat commercial (***) ;De 20 à 249 salariés en ETP ;N
+a272 ;107y ;Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires, dont artisanat commercial (***) ;Plus de 250 salariés en ETP ;N
+a272 ;108;Fabrication d'autres produits alimentaires ;Ensemble des tranches d'effectif ;21826,2
+a272 ;108;Fabrication d'autres produits alimentaires ;De 0 à 9 salariés en ETP ;1252,4
+a272 ;108;Fabrication d'autres produits alimentaires ;De 10 à 19 salariés en ETP ;512,1
+a272 ;108;Fabrication d'autres produits alimentaires ;De 20 à 249 salariés en ETP ;8155,5
+a272 ;108;Fabrication d'autres produits alimentaires ;Plus de 250 salariés en ETP ;11906
+a272 ;109;Fabrication d'aliments pour animaux ;Ensemble des tranches d'effectif ;9868,2
+a272 ;109;Fabrication d'aliments pour animaux ;De 0 à 9 salariés en ETP ;327,9
+a272 ;109;Fabrication d'aliments pour animaux ;De 10 à 19 salariés en ETP ;729,4
+a272 ;109;Fabrication d'aliments pour animaux ;De 20 à 249 salariés en ETP ;4708,4
+a272 ;109;Fabrication d'aliments pour animaux ;Plus de 250 salariés en ETP ;4102,4
+a88 ;11;Fabrication de boissons ;Ensemble des tranches d'effectif ;20764
+a88 ;11;Fabrication de boissons ;De 0 à 9 salariés en ETP ;1930,6
+a88 ;11;Fabrication de boissons ;De 10 à 19 salariés en ETP ;1121,3
+a88 ;11;Fabrication de boissons ;De 20 à 249 salariés en ETP ;7436,7
+a88 ;11;Fabrication de boissons ;Plus de 250 salariés en ETP ;10275,9
+a272 ;110;Fabrication de boissons ;Ensemble des tranches d'effectif ;20764
+a272 ;110;Fabrication de boissons ;De 0 à 9 salariés en ETP ;1930,6
+a272 ;110;Fabrication de boissons ;De 10 à 19 salariés en ETP ;1121,3
+a272 ;110;Fabrication de boissons ;De 20 à 249 salariés en ETP ;7436,7
+a272 ;110;Fabrication de boissons ;Plus de 250 salariés en ETP ;10275,9
+a88 ;12;Fabrication de produits à base de tabac ;Ensemble des tranches d'effectif ;1063,6
+a88 ;12;Fabrication de produits à base de tabac ;De 0 à 9 salariés en ETP ;S
+a88 ;12;Fabrication de produits à base de tabac ;De 10 à 19 salariés en ETP ;N
+a88 ;12;Fabrication de produits à base de tabac ;De 20 à 249 salariés en ETP ;S
+a88 ;12;Fabrication de produits à base de tabac ;Plus de 250 salariés en ETP ;S
+a272 ;120;Fabrication de produits à base de tabac ;Ensemble des tranches d'effectif ;1063,6
+a272 ;120;Fabrication de produits à base de tabac ;De 0 à 9 salariés en ETP ;S
+a272 ;120;Fabrication de produits à base de tabac ;De 10 à 19 salariés en ETP ;N
+a272 ;120;Fabrication de produits à base de tabac ;De 20 à 249 salariés en ETP ;S
+a272 ;120;Fabrication de produits à base de tabac ;Plus de 250 salariés en ETP ;S
+a88 ;13;Fabrication de textiles ;Ensemble des tranches d'effectif ;7026,9
+a88 ;13;Fabrication de textiles ;De 0 à 9 salariés en ETP ;1063,3
+a88 ;13;Fabrication de textiles ;De 10 à 19 salariés en ETP ;672,4
+a88 ;13;Fabrication de textiles ;De 20 à 249 salariés en ETP ;4125,7
+a88 ;13;Fabrication de textiles ;Plus de 250 salariés en ETP ;1165,5
+a272 ;131;Préparation de fibres textiles et filature ;Ensemble des tranches d'effectif ;539,1
+a272 ;131;Préparation de fibres textiles et filature ;De 0 à 9 salariés en ETP ;71
+a272 ;131;Préparation de fibres textiles et filature ;De 10 à 19 salariés en ETP ;S
+a272 ;131;Préparation de fibres textiles et filature ;De 20 à 249 salariés en ETP ;343,2
+a272 ;131;Préparation de fibres textiles et filature ;Plus de 250 salariés en ETP ;S
+a272 ;132;Tissage ;Ensemble des tranches d'effectif ;1196
+a272 ;132;Tissage ;De 0 à 9 salariés en ETP ;87,4
+a272 ;132;Tissage ;De 10 à 19 salariés en ETP ;S
+a272 ;132;Tissage ;De 20 à 249 salariés en ETP ;703,4
+a272 ;132;Tissage ;Plus de 250 salariés en ETP ;S
+a272 ;133;Ennoblissement textile ;Ensemble des tranches d'effectif ;561,5
+a272 ;133;Ennoblissement textile ;De 0 à 9 salariés en ETP ;130,2
+a272 ;133;Ennoblissement textile ;De 10 à 19 salariés en ETP ;85,8
+a272 ;133;Ennoblissement textile ;De 20 à 249 salariés en ETP ;345,6
+a272 ;133;Ennoblissement textile ;Plus de 250 salariés en ETP ;N
+a272 ;139;Fabrication d'autres textiles ;Ensemble des tranches d'effectif ;4730,3
+a272 ;139;Fabrication d'autres textiles ;De 0 à 9 salariés en ETP ;774,7
+a272 ;139;Fabrication d'autres textiles ;De 10 à 19 salariés en ETP ;387,3
+a272 ;139;Fabrication d'autres textiles ;De 20 à 249 salariés en ETP ;2733,5
+a272 ;139;Fabrication d'autres textiles ;Plus de 250 salariés en ETP ;834,8
+a88 ;14;Industrie de l'habillement ;Ensemble des tranches d'effectif ;6820,6
+a88 ;14;Industrie de l'habillement ;De 0 à 9 salariés en ETP ;1220
+a88 ;14;Industrie de l'habillement ;De 10 à 19 salariés en ETP ;693,2
+a88 ;14;Industrie de l'habillement ;De 20 à 249 salariés en ETP ;3457,4
+a88 ;14;Industrie de l'habillement ;Plus de 250 salariés en ETP ;1449,9
+a272 ;141;Fabrication de vêtements, autres qu'en fourrure ;Ensemble des tranches d'effectif ;5896,4
+a272 ;141;Fabrication de vêtements, autres qu'en fourrure ;De 0 à 9 salariés en ETP ;1154,9
+a272 ;141;Fabrication de vêtements, autres qu'en fourrure ;De 10 à 19 salariés en ETP ;S
+a272 ;141;Fabrication de vêtements, autres qu'en fourrure ;De 20 à 249 salariés en ETP ;3206,9
+a272 ;141;Fabrication de vêtements, autres qu'en fourrure ;Plus de 250 salariés en ETP ;S
+a272 ;142;Fabrication d'articles en fourrure ;Ensemble des tranches d'effectif ;56
+a272 ;142;Fabrication d'articles en fourrure ;De 0 à 9 salariés en ETP ;S
+a272 ;142;Fabrication d'articles en fourrure ;De 10 à 19 salariés en ETP ;S
+a272 ;142;Fabrication d'articles en fourrure ;De 20 à 249 salariés en ETP ;S
+a272 ;142;Fabrication d'articles en fourrure ;Plus de 250 salariés en ETP ;N
+a272 ;143;Fabrication d'articles à mailles ;Ensemble des tranches d'effectif ;868,2
+a272 ;143;Fabrication d'articles à mailles ;De 0 à 9 salariés en ETP ;S
+a272 ;143;Fabrication d'articles à mailles ;De 10 à 19 salariés en ETP ;S
+a272 ;143;Fabrication d'articles à mailles ;De 20 à 249 salariés en ETP ;S
+a272 ;143;Fabrication d'articles à mailles ;Plus de 250 salariés en ETP ;S
+a88 ;15;Industrie du cuir et de la chaussure ;Ensemble des tranches d'effectif ;2958,6
+a88 ;15;Industrie du cuir et de la chaussure ;De 0 à 9 salariés en ETP ;S
+a88 ;15;Industrie du cuir et de la chaussure ;De 10 à 19 salariés en ETP ;S
+a88 ;15;Industrie du cuir et de la chaussure ;De 20 à 249 salariés en ETP ;S
+a88 ;15;Industrie du cuir et de la chaussure ;Plus de 250 salariés en ETP ;S
+a272 ;151;Apprêt et tannage des cuirs ;Ensemble des tranches d'effectif ;2130,5
+a272 ;151;Apprêt et tannage des cuirs ;De 0 à 9 salariés en ETP ;256,9
+a272 ;151;Apprêt et tannage des cuirs ;De 10 à 19 salariés en ETP ;59
+a272 ;151;Apprêt et tannage des cuirs ;De 20 à 249 salariés en ETP ;785,3
+a272 ;151;Apprêt et tannage des cuirs ;Plus de 250 salariés en ETP ;1029,3
+a272 ;152;Fabrication de chaussures ;Ensemble des tranches d'effectif ;828,1
+a272 ;152;Fabrication de chaussures ;De 0 à 9 salariés en ETP ;S
+a272 ;152;Fabrication de chaussures ;De 10 à 19 salariés en ETP ;S
+a272 ;152;Fabrication de chaussures ;De 20 à 249 salariés en ETP ;S
+a272 ;152;Fabrication de chaussures ;Plus de 250 salariés en ETP ;S
+a88 ;16;Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie ;Ensemble des tranches d'effectif ;10257,4
+a88 ;16;Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie ;De 0 à 9 salariés en ETP ;1980,9
+a88 ;16;Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie ;De 10 à 19 salariés en ETP ;1504
+a88 ;16;Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie ;De 20 à 249 salariés en ETP ;5398,4
+a88 ;16;Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie ;Plus de 250 salariés en ETP ;1374
+a272 ;161;Sciage et rabotage du bois ;Ensemble des tranches d'effectif ;2981
+a272 ;161;Sciage et rabotage du bois ;De 0 à 9 salariés en ETP ;785
+a272 ;161;Sciage et rabotage du bois ;De 10 à 19 salariés en ETP ;S
+a272 ;161;Sciage et rabotage du bois ;De 20 à 249 salariés en ETP ;1275,2
+a272 ;161;Sciage et rabotage du bois ;Plus de 250 salariés en ETP ;S
+a272 ;162;Fabrication d'articles en bois, liège, vannerie et sparterie ;Ensemble des tranches d'effectif ;7276,4
+a272 ;162;Fabrication d'articles en bois, liège, vannerie et sparterie ;De 0 à 9 salariés en ETP ;1196
+a272 ;162;Fabrication d'articles en bois, liège, vannerie et sparterie ;De 10 à 19 salariés en ETP ;S
+a272 ;162;Fabrication d'articles en bois, liège, vannerie et sparterie ;De 20 à 249 salariés en ETP ;4123,3
+a272 ;162;Fabrication d'articles en bois, liège, vannerie et sparterie ;Plus de 250 salariés en ETP ;S
+a88 ;17;Industrie du papier et du carton ;Ensemble des tranches d'effectif ;16318
+a88 ;17;Industrie du papier et du carton ;De 0 à 9 salariés en ETP ;614,8
+a88 ;17;Industrie du papier et du carton ;De 10 à 19 salariés en ETP ;577,3
+a88 ;17;Industrie du papier et du carton ;De 20 à 249 salariés en ETP ;6518,1
+a88 ;17;Industrie du papier et du carton ;Plus de 250 salariés en ETP ;8607,7
+a272 ;171;Fabrication de pâte à papier, de papier et de carton ;Ensemble des tranches d'effectif ;6718,9
+a272 ;171;Fabrication de pâte à papier, de papier et de carton ;De 0 à 9 salariés en ETP ;S
+a272 ;171;Fabrication de pâte à papier, de papier et de carton ;De 10 à 19 salariés en ETP ;40,3
+a272 ;171;Fabrication de pâte à papier, de papier et de carton ;De 20 à 249 salariés en ETP ;1897,4
+a272 ;171;Fabrication de pâte à papier, de papier et de carton ;Plus de 250 salariés en ETP ;S
+a272 ;172;Fabrication d'articles en papier ou en carton ;Ensemble des tranches d'effectif ;9599,1
+a272 ;172;Fabrication d'articles en papier ou en carton ;De 0 à 9 salariés en ETP ;S
+a272 ;172;Fabrication d'articles en papier ou en carton ;De 10 à 19 salariés en ETP ;537
+a272 ;172;Fabrication d'articles en papier ou en carton ;De 20 à 249 salariés en ETP ;4620,7
+a272 ;172;Fabrication d'articles en papier ou en carton ;Plus de 250 salariés en ETP ;S
+a88 ;18;Imprimerie et reproduction d'enregistrements ;Ensemble des tranches d'effectif ;10740,9
+a88 ;18;Imprimerie et reproduction d'enregistrements ;De 0 à 9 salariés en ETP ;2697,5
+a88 ;18;Imprimerie et reproduction d'enregistrements ;De 10 à 19 salariés en ETP ;S
+a88 ;18;Imprimerie et reproduction d'enregistrements ;De 20 à 249 salariés en ETP ;5727,2
+a88 ;18;Imprimerie et reproduction d'enregistrements ;Plus de 250 salariés en ETP ;S
+a272 ;181;Imprimerie et services annexes ;Ensemble des tranches d'effectif ;10400,7
+a272 ;181;Imprimerie et services annexes ;De 0 à 9 salariés en ETP ;S
+a272 ;181;Imprimerie et services annexes ;De 10 à 19 salariés en ETP ;S
+a272 ;181;Imprimerie et services annexes ;De 20 à 249 salariés en ETP ;5545,1
+a272 ;181;Imprimerie et services annexes ;Plus de 250 salariés en ETP ;S
+a272 ;182;Reproduction d'enregistrements ;Ensemble des tranches d'effectif ;340,1
+a272 ;182;Reproduction d'enregistrements ;De 0 à 9 salariés en ETP ;S
+a272 ;182;Reproduction d'enregistrements ;De 10 à 19 salariés en ETP ;S
+a272 ;182;Reproduction d'enregistrements ;De 20 à 249 salariés en ETP ;182,1
+a272 ;182;Reproduction d'enregistrements ;Plus de 250 salariés en ETP ;S
+a88 ;19;Cokéfaction et raffinage ;Ensemble des tranches d'effectif ;55353,8
+a88 ;19;Cokéfaction et raffinage ;De 0 à 9 salariés en ETP ;S
+a88 ;19;Cokéfaction et raffinage ;De 10 à 19 salariés en ETP ;S
+a88 ;19;Cokéfaction et raffinage ;De 20 à 249 salariés en ETP ;S
+a88 ;19;Cokéfaction et raffinage ;Plus de 250 salariés en ETP ;46460,3
+a272 ;191;Cokéfaction ;Ensemble des tranches d'effectif ;S
+a272 ;191;Cokéfaction ;De 0 à 9 salariés en ETP ;N
+a272 ;191;Cokéfaction ;De 10 à 19 salariés en ETP ;N
+a272 ;191;Cokéfaction ;De 20 à 249 salariés en ETP ;S
+a272 ;191;Cokéfaction ;Plus de 250 salariés en ETP ;41,1
+a272 ;192;Raffinage du pétrole ;Ensemble des tranches d'effectif ;S
+a272 ;192;Raffinage du pétrole ;De 0 à 9 salariés en ETP ;S
+a272 ;192;Raffinage du pétrole ;De 10 à 19 salariés en ETP ;S
+a272 ;192;Raffinage du pétrole ;De 20 à 249 salariés en ETP ;S
+a272 ;192;Raffinage du pétrole ;Plus de 250 salariés en ETP ;46419,2
+a88 ;20;Industrie chimique ;Ensemble des tranches d'effectif ;62160,1
+a88 ;20;Industrie chimique ;De 0 à 9 salariés en ETP ;5129,2
+a88 ;20;Industrie chimique ;De 10 à 19 salariés en ETP ;1627,1
+a88 ;20;Industrie chimique ;De 20 à 249 salariés en ETP ;16031,6
+a88 ;20;Industrie chimique ;Plus de 250 salariés en ETP ;39372,2
+a272 ;201;Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique ;Ensemble des tranches d'effectif ;36403,6
+a272 ;201;Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique ;De 0 à 9 salariés en ETP ;4079,4
+a272 ;201;Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique ;De 10 à 19 salariés en ETP ;1093,9
+a272 ;201;Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique ;De 20 à 249 salariés en ETP ;6337,9
+a272 ;201;Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique ;Plus de 250 salariés en ETP ;24892,4
+a272 ;202;Fabrication de pesticides et d'autres produits agrochimiques ;Ensemble des tranches d'effectif ;2149,9
+a272 ;202;Fabrication de pesticides et d'autres produits agrochimiques ;De 0 à 9 salariés en ETP ;S
+a272 ;202;Fabrication de pesticides et d'autres produits agrochimiques ;De 10 à 19 salariés en ETP ;19,5
+a272 ;202;Fabrication de pesticides et d'autres produits agrochimiques ;De 20 à 249 salariés en ETP ;S
+a272 ;202;Fabrication de pesticides et d'autres produits agrochimiques ;Plus de 250 salariés en ETP ;S
+a272 ;203;Fabrication de peintures, vernis, encres et mastics ;Ensemble des tranches d'effectif ;3216,7
+a272 ;203;Fabrication de peintures, vernis, encres et mastics ;De 0 à 9 salariés en ETP ;S
+a272 ;203;Fabrication de peintures, vernis, encres et mastics ;De 10 à 19 salariés en ETP ;157,4
+a272 ;203;Fabrication de peintures, vernis, encres et mastics ;De 20 à 249 salariés en ETP ;1760,6
+a272 ;203;Fabrication de peintures, vernis, encres et mastics ;Plus de 250 salariés en ETP ;S
+a272 ;204;Fabrication de savons, de produits d'entretien et de parfums ;Ensemble des tranches d'effectif ;11361,9
+a272 ;204;Fabrication de savons, de produits d'entretien et de parfums ;De 0 à 9 salariés en ETP ;706,1
+a272 ;204;Fabrication de savons, de produits d'entretien et de parfums ;De 10 à 19 salariés en ETP ;122,8
+a272 ;204;Fabrication de savons, de produits d'entretien et de parfums ;De 20 à 249 salariés en ETP ;3464
+a272 ;204;Fabrication de savons, de produits d'entretien et de parfums ;Plus de 250 salariés en ETP ;7069
+a272 ;205;Fabrication d'autres produits chimiques ;Ensemble des tranches d'effectif ;8721,8
+a272 ;205;Fabrication d'autres produits chimiques ;De 0 à 9 salariés en ETP ;254,2
+a272 ;205;Fabrication d'autres produits chimiques ;De 10 à 19 salariés en ETP ;233,5
+a272 ;205;Fabrication d'autres produits chimiques ;De 20 à 249 salariés en ETP ;3680,5
+a272 ;205;Fabrication d'autres produits chimiques ;Plus de 250 salariés en ETP ;4553,7
+a272 ;206;Fabrication de fibres artificielles ou synthétiques ;Ensemble des tranches d'effectif ;306,2
+a272 ;206;Fabrication de fibres artificielles ou synthétiques ;De 0 à 9 salariés en ETP ;S
+a272 ;206;Fabrication de fibres artificielles ou synthétiques ;De 10 à 19 salariés en ETP ;N
+a272 ;206;Fabrication de fibres artificielles ou synthétiques ;De 20 à 249 salariés en ETP ;S
+a272 ;206;Fabrication de fibres artificielles ou synthétiques ;Plus de 250 salariés en ETP ;S
+a88 ;21;Industrie pharmaceutique ;Ensemble des tranches d'effectif ;26743,8
+a88 ;21;Industrie pharmaceutique ;De 0 à 9 salariés en ETP ;309,8
+a88 ;21;Industrie pharmaceutique ;De 10 à 19 salariés en ETP ;102,1
+a88 ;21;Industrie pharmaceutique ;De 20 à 249 salariés en ETP ;4073
+a88 ;21;Industrie pharmaceutique ;Plus de 250 salariés en ETP ;22258,8
+a272 ;211;Fabrication de produits pharmaceutiques de base ;Ensemble des tranches d'effectif ;2157,9
+a272 ;211;Fabrication de produits pharmaceutiques de base ;De 0 à 9 salariés en ETP ;S
+a272 ;211;Fabrication de produits pharmaceutiques de base ;De 10 à 19 salariés en ETP ;S
+a272 ;211;Fabrication de produits pharmaceutiques de base ;De 20 à 249 salariés en ETP ;300,9
+a272 ;211;Fabrication de produits pharmaceutiques de base ;Plus de 250 salariés en ETP ;1693,4
+a272 ;212;Fabrication de préparations pharmaceutiques ;Ensemble des tranches d'effectif ;24585,8
+a272 ;212;Fabrication de préparations pharmaceutiques ;De 0 à 9 salariés en ETP ;S
+a272 ;212;Fabrication de préparations pharmaceutiques ;De 10 à 19 salariés en ETP ;S
+a272 ;212;Fabrication de préparations pharmaceutiques ;De 20 à 249 salariés en ETP ;3772,1
+a272 ;212;Fabrication de préparations pharmaceutiques ;Plus de 250 salariés en ETP ;20565,5
+a88 ;22;Fabrication de produits en caoutchouc et en plastique ;Ensemble des tranches d'effectif ;30532
+a88 ;22;Fabrication de produits en caoutchouc et en plastique ;De 0 à 9 salariés en ETP ;1570,6
+a88 ;22;Fabrication de produits en caoutchouc et en plastique ;De 10 à 19 salariés en ETP ;1333,4
+a88 ;22;Fabrication de produits en caoutchouc et en plastique ;De 20 à 249 salariés en ETP ;14550,3
+a88 ;22;Fabrication de produits en caoutchouc et en plastique ;Plus de 250 salariés en ETP ;13077,7
+a272 ;221;Fabrication de produits en caoutchouc ;Ensemble des tranches d'effectif ;6663,4
+a272 ;221;Fabrication de produits en caoutchouc ;De 0 à 9 salariés en ETP ;227,9
+a272 ;221;Fabrication de produits en caoutchouc ;De 10 à 19 salariés en ETP ;100
+a272 ;221;Fabrication de produits en caoutchouc ;De 20 à 249 salariés en ETP ;1166
+a272 ;221;Fabrication de produits en caoutchouc ;Plus de 250 salariés en ETP ;5169,5
+a272 ;222;Fabrication de produits en plastique ;Ensemble des tranches d'effectif ;23868,6
+a272 ;222;Fabrication de produits en plastique ;De 0 à 9 salariés en ETP ;1342,8
+a272 ;222;Fabrication de produits en plastique ;De 10 à 19 salariés en ETP ;1233,4
+a272 ;222;Fabrication de produits en plastique ;De 20 à 249 salariés en ETP ;13384,4
+a272 ;222;Fabrication de produits en plastique ;Plus de 250 salariés en ETP ;7908,1
+a88 ;23;Fabrication d'autres produits minéraux non métalliques ;Ensemble des tranches d'effectif ;23441,2
+a88 ;23;Fabrication d'autres produits minéraux non métalliques ;De 0 à 9 salariés en ETP ;2949,9
+a88 ;23;Fabrication d'autres produits minéraux non métalliques ;De 10 à 19 salariés en ETP ;1052
+a88 ;23;Fabrication d'autres produits minéraux non métalliques ;De 20 à 249 salariés en ETP ;8173,9
+a88 ;23;Fabrication d'autres produits minéraux non métalliques ;Plus de 250 salariés en ETP ;11265,5
+a272 ;231;Fabrication de verre et d'articles en verre ;Ensemble des tranches d'effectif ;5835,1
+a272 ;231;Fabrication de verre et d'articles en verre ;De 0 à 9 salariés en ETP ;153,2
+a272 ;231;Fabrication de verre et d'articles en verre ;De 10 à 19 salariés en ETP ;82,1
+a272 ;231;Fabrication de verre et d'articles en verre ;De 20 à 249 salariés en ETP ;1780,2
+a272 ;231;Fabrication de verre et d'articles en verre ;Plus de 250 salariés en ETP ;3819,7
+a272 ;232;Fabrication de produits réfractaires ;Ensemble des tranches d'effectif ;428,1
+a272 ;232;Fabrication de produits réfractaires ;De 0 à 9 salariés en ETP ;S
+a272 ;232;Fabrication de produits réfractaires ;De 10 à 19 salariés en ETP ;S
+a272 ;232;Fabrication de produits réfractaires ;De 20 à 249 salariés en ETP ;315,4
+a272 ;232;Fabrication de produits réfractaires ;Plus de 250 salariés en ETP ;S
+a272 ;233;Fabrication de matériaux de construction en terre cuite ;Ensemble des tranches d'effectif ;1141,8
+a272 ;233;Fabrication de matériaux de construction en terre cuite ;De 0 à 9 salariés en ETP ;22,1
+a272 ;233;Fabrication de matériaux de construction en terre cuite ;De 10 à 19 salariés en ETP ;18,6
+a272 ;233;Fabrication de matériaux de construction en terre cuite ;De 20 à 249 salariés en ETP ;S
+a272 ;233;Fabrication de matériaux de construction en terre cuite ;Plus de 250 salariés en ETP ;S
+a272 ;234;Fabrication d'autres produits en céramique et en porcelaine ;Ensemble des tranches d'effectif ;730
+a272 ;234;Fabrication d'autres produits en céramique et en porcelaine ;De 0 à 9 salariés en ETP ;S
+a272 ;234;Fabrication d'autres produits en céramique et en porcelaine ;De 10 à 19 salariés en ETP ;S
+a272 ;234;Fabrication d'autres produits en céramique et en porcelaine ;De 20 à 249 salariés en ETP ;372,8
+a272 ;234;Fabrication d'autres produits en céramique et en porcelaine ;Plus de 250 salariés en ETP ;S
+a272 ;235;Fabrication de ciment, chaux et plâtre ;Ensemble des tranches d'effectif ;2686,5
+a272 ;235;Fabrication de ciment, chaux et plâtre ;De 0 à 9 salariés en ETP ;103,3
+a272 ;235;Fabrication de ciment, chaux et plâtre ;De 10 à 19 salariés en ETP ;42,3
+a272 ;235;Fabrication de ciment, chaux et plâtre ;De 20 à 249 salariés en ETP ;401,6
+a272 ;235;Fabrication de ciment, chaux et plâtre ;Plus de 250 salariés en ETP ;2139,3
+a272 ;236;Fabrication d'ouvrages en béton, en ciment ou en plâtre ;Ensemble des tranches d'effectif ;9238,1
+a272 ;236;Fabrication d'ouvrages en béton, en ciment ou en plâtre ;De 0 à 9 salariés en ETP ;1166,5
+a272 ;236;Fabrication d'ouvrages en béton, en ciment ou en plâtre ;De 10 à 19 salariés en ETP ;573,6
+a272 ;236;Fabrication d'ouvrages en béton, en ciment ou en plâtre ;De 20 à 249 salariés en ETP ;4267,4
+a272 ;236;Fabrication d'ouvrages en béton, en ciment ou en plâtre ;Plus de 250 salariés en ETP ;3230,6
+a272 ;237;Taille, façonnage et finissage de pierres ;Ensemble des tranches d'effectif ;836,4
+a272 ;237;Taille, façonnage et finissage de pierres ;De 0 à 9 salariés en ETP ;474,4
+a272 ;237;Taille, façonnage et finissage de pierres ;De 10 à 19 salariés en ETP ;S
+a272 ;237;Taille, façonnage et finissage de pierres ;De 20 à 249 salariés en ETP ;S
+a272 ;237;Taille, façonnage et finissage de pierres ;Plus de 250 salariés en ETP ;S
+a272 ;239;Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a. ;Ensemble des tranches d'effectif ;2545,2
+a272 ;239;Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a. ;De 0 à 9 salariés en ETP ;940,2
+a272 ;239;Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a. ;De 10 à 19 salariés en ETP ;167,3
+a272 ;239;Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a. ;De 20 à 249 salariés en ETP ;624,5
+a272 ;239;Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a. ;Plus de 250 salariés en ETP ;813,3
+a88 ;24;Métallurgie ;Ensemble des tranches d'effectif ;30005
+a88 ;24;Métallurgie ;De 0 à 9 salariés en ETP ;1600,1
+a88 ;24;Métallurgie ;De 10 à 19 salariés en ETP ;275,7
+a88 ;24;Métallurgie ;De 20 à 249 salariés en ETP ;7674,1
+a88 ;24;Métallurgie ;Plus de 250 salariés en ETP ;20455,1
+a272 ;241;Sidérurgie ;Ensemble des tranches d'effectif ;12716,7
+a272 ;241;Sidérurgie ;De 0 à 9 salariés en ETP ;S
+a272 ;241;Sidérurgie ;De 10 à 19 salariés en ETP ;S
+a272 ;241;Sidérurgie ;De 20 à 249 salariés en ETP ;1355,6
+a272 ;241;Sidérurgie ;Plus de 250 salariés en ETP ;11017,2
+a272 ;242;Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier ;Ensemble des tranches d'effectif ;2225
+a272 ;242;Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier ;De 0 à 9 salariés en ETP ;S
+a272 ;242;Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier ;De 10 à 19 salariés en ETP ;S
+a272 ;242;Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier ;De 20 à 249 salariés en ETP ;620,6
+a272 ;242;Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier ;Plus de 250 salariés en ETP ;1555,4
+a272 ;243;Fabrication d'autres produits de première transformation de l'acier ;Ensemble des tranches d'effectif ;2323,5
+a272 ;243;Fabrication d'autres produits de première transformation de l'acier ;De 0 à 9 salariés en ETP ;116,2
+a272 ;243;Fabrication d'autres produits de première transformation de l'acier ;De 10 à 19 salariés en ETP ;119,1
+a272 ;243;Fabrication d'autres produits de première transformation de l'acier ;De 20 à 249 salariés en ETP ;928,5
+a272 ;243;Fabrication d'autres produits de première transformation de l'acier ;Plus de 250 salariés en ETP ;1159,7
+a272 ;244;Production de métaux précieux et d'autres métaux non ferreux ;Ensemble des tranches d'effectif ;8453,6
+a272 ;244;Production de métaux précieux et d'autres métaux non ferreux ;De 0 à 9 salariés en ETP ;793,8
+a272 ;244;Production de métaux précieux et d'autres métaux non ferreux ;De 10 à 19 salariés en ETP ;48,1
+a272 ;244;Production de métaux précieux et d'autres métaux non ferreux ;De 20 à 249 salariés en ETP ;3384,9
+a272 ;244;Production de métaux précieux et d'autres métaux non ferreux ;Plus de 250 salariés en ETP ;4226,8
+a272 ;245;Fonderie ;Ensemble des tranches d'effectif ;4286,2
+a272 ;245;Fonderie ;De 0 à 9 salariés en ETP ;324,7
+a272 ;245;Fonderie ;De 10 à 19 salariés en ETP ;81
+a272 ;245;Fonderie ;De 20 à 249 salariés en ETP ;1384,5
+a272 ;245;Fonderie ;Plus de 250 salariés en ETP ;2496
+a88 ;25;Fabrication de produits métalliques, à l'exception des machines et des équipements ;Ensemble des tranches d'effectif ;49634
+a88 ;25;Fabrication de produits métalliques, à l'exception des machines et des équipements ;De 0 à 9 salariés en ETP ;7143,9
+a88 ;25;Fabrication de produits métalliques, à l'exception des machines et des équipements ;De 10 à 19 salariés en ETP ;5196,9
+a88 ;25;Fabrication de produits métalliques, à l'exception des machines et des équipements ;De 20 à 249 salariés en ETP ;23843,4
+a88 ;25;Fabrication de produits métalliques, à l'exception des machines et des équipements ;Plus de 250 salariés en ETP ;13449,7
+a272 ;251;Fabrication d'éléments en métal pour la construction ;Ensemble des tranches d'effectif ;11389,3
+a272 ;251;Fabrication d'éléments en métal pour la construction ;De 0 à 9 salariés en ETP ;1851,3
+a272 ;251;Fabrication d'éléments en métal pour la construction ;De 10 à 19 salariés en ETP ;1550,4
+a272 ;251;Fabrication d'éléments en métal pour la construction ;De 20 à 249 salariés en ETP ;6206,6
+a272 ;251;Fabrication d'éléments en métal pour la construction ;Plus de 250 salariés en ETP ;1781
+a272 ;252;Fabrication de réservoirs, citernes et conteneurs métalliques ;Ensemble des tranches d'effectif ;1551,5
+a272 ;252;Fabrication de réservoirs, citernes et conteneurs métalliques ;De 0 à 9 salariés en ETP ;S
+a272 ;252;Fabrication de réservoirs, citernes et conteneurs métalliques ;De 10 à 19 salariés en ETP ;S
+a272 ;252;Fabrication de réservoirs, citernes et conteneurs métalliques ;De 20 à 249 salariés en ETP ;606,7
+a272 ;252;Fabrication de réservoirs, citernes et conteneurs métalliques ;Plus de 250 salariés en ETP ;S
+a272 ;253;Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central ;Ensemble des tranches d'effectif ;S
+a272 ;253;Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central ;De 0 à 9 salariés en ETP ;S
+a272 ;253;Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central ;De 10 à 19 salariés en ETP ;S
+a272 ;253;Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central ;De 20 à 249 salariés en ETP ;90,6
+a272 ;253;Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central ;Plus de 250 salariés en ETP ;S
+a272 ;254;Fabrication d'armes et de munitions ;Ensemble des tranches d'effectif ;S
+a272 ;254;Fabrication d'armes et de munitions ;De 0 à 9 salariés en ETP ;S
+a272 ;254;Fabrication d'armes et de munitions ;De 10 à 19 salariés en ETP ;S
+a272 ;254;Fabrication d'armes et de munitions ;De 20 à 249 salariés en ETP ;198,9
+a272 ;254;Fabrication d'armes et de munitions ;Plus de 250 salariés en ETP ;S
+a272 ;255;Forge, emboutissage, estampage - métallurgie des poudres ;Ensemble des tranches d'effectif ;7644,3
+a272 ;255;Forge, emboutissage, estampage - métallurgie des poudres ;De 0 à 9 salariés en ETP ;713,6
+a272 ;255;Forge, emboutissage, estampage - métallurgie des poudres ;De 10 à 19 salariés en ETP ;560,6
+a272 ;255;Forge, emboutissage, estampage - métallurgie des poudres ;De 20 à 249 salariés en ETP ;3720,1
+a272 ;255;Forge, emboutissage, estampage - métallurgie des poudres ;Plus de 250 salariés en ETP ;2650,1
+a272 ;256;Traitement et revêtement des métaux - usinage ;Ensemble des tranches d'effectif ;12353,3
+a272 ;256;Traitement et revêtement des métaux - usinage ;De 0 à 9 salariés en ETP ;2635,2
+a272 ;256;Traitement et revêtement des métaux - usinage ;De 10 à 19 salariés en ETP ;2275,8
+a272 ;256;Traitement et revêtement des métaux - usinage ;De 20 à 249 salariés en ETP ;6761,5
+a272 ;256;Traitement et revêtement des métaux - usinage ;Plus de 250 salariés en ETP ;680,8
+a272 ;257;Fabrication de coutellerie, d'outillage et de quincaillerie ;Ensemble des tranches d'effectif ;3479,6
+a272 ;257;Fabrication de coutellerie, d'outillage et de quincaillerie ;De 0 à 9 salariés en ETP ;356,5
+a272 ;257;Fabrication de coutellerie, d'outillage et de quincaillerie ;De 10 à 19 salariés en ETP ;269,3
+a272 ;257;Fabrication de coutellerie, d'outillage et de quincaillerie ;De 20 à 249 salariés en ETP ;1840,2
+a272 ;257;Fabrication de coutellerie, d'outillage et de quincaillerie ;Plus de 250 salariés en ETP ;1013,6
+a272 ;259;Fabrication d'autres ouvrages en métaux ;Ensemble des tranches d'effectif ;9833,6
+a272 ;259;Fabrication d'autres ouvrages en métaux ;De 0 à 9 salariés en ETP ;1538,1
+a272 ;259;Fabrication d'autres ouvrages en métaux ;De 10 à 19 salariés en ETP ;498
+a272 ;259;Fabrication d'autres ouvrages en métaux ;De 20 à 249 salariés en ETP ;4418,9
+a272 ;259;Fabrication d'autres ouvrages en métaux ;Plus de 250 salariés en ETP ;3378,6
+a88 ;26;Fabrication de produits informatiques, électroniques et optiques ;Ensemble des tranches d'effectif ;26342,7
+a88 ;26;Fabrication de produits informatiques, électroniques et optiques ;De 0 à 9 salariés en ETP ;1010,4
+a88 ;26;Fabrication de produits informatiques, électroniques et optiques ;De 10 à 19 salariés en ETP ;513,2
+a88 ;26;Fabrication de produits informatiques, électroniques et optiques ;De 20 à 249 salariés en ETP ;6278,9
+a88 ;26;Fabrication de produits informatiques, électroniques et optiques ;Plus de 250 salariés en ETP ;18546,9
+a272 ;261;Fabrication de composants et cartes électroniques ;Ensemble des tranches d'effectif ;9167,5
+a272 ;261;Fabrication de composants et cartes électroniques ;De 0 à 9 salariés en ETP ;519,3
+a272 ;261;Fabrication de composants et cartes électroniques ;De 10 à 19 salariés en ETP ;243,5
+a272 ;261;Fabrication de composants et cartes électroniques ;De 20 à 249 salariés en ETP ;2591,8
+a272 ;261;Fabrication de composants et cartes électroniques ;Plus de 250 salariés en ETP ;5813,5
+a272 ;262;Fabrication d'ordinateurs et d'équipements périphériques ;Ensemble des tranches d'effectif ;1839,4
+a272 ;262;Fabrication d'ordinateurs et d'équipements périphériques ;De 0 à 9 salariés en ETP ;39,7
+a272 ;262;Fabrication d'ordinateurs et d'équipements périphériques ;De 10 à 19 salariés en ETP ;S
+a272 ;262;Fabrication d'ordinateurs et d'équipements périphériques ;De 20 à 249 salariés en ETP ;650,3
+a272 ;262;Fabrication d'ordinateurs et d'équipements périphériques ;Plus de 250 salariés en ETP ;S
+a272 ;263;Fabrication d'équipements de communication ;Ensemble des tranches d'effectif ;4960,5
+a272 ;263;Fabrication d'équipements de communication ;De 0 à 9 salariés en ETP ;100
+a272 ;263;Fabrication d'équipements de communication ;De 10 à 19 salariés en ETP ;68,2
+a272 ;263;Fabrication d'équipements de communication ;De 20 à 249 salariés en ETP ;623,9
+a272 ;263;Fabrication d'équipements de communication ;Plus de 250 salariés en ETP ;4168,4
+a272 ;264;Fabrication de produits électroniques grand public ;Ensemble des tranches d'effectif ;433,2
+a272 ;264;Fabrication de produits électroniques grand public ;De 0 à 9 salariés en ETP ;S
+a272 ;264;Fabrication de produits électroniques grand public ;De 10 à 19 salariés en ETP ;S
+a272 ;264;Fabrication de produits électroniques grand public ;De 20 à 249 salariés en ETP ;159,6
+a272 ;264;Fabrication de produits électroniques grand public ;Plus de 250 salariés en ETP ;S
+a272 ;265;Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation - horlogerie ;Ensemble des tranches d'effectif ;8336,1
+a272 ;265;Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation - horlogerie ;De 0 à 9 salariés en ETP ;264,7
+a272 ;265;Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation - horlogerie ;De 10 à 19 salariés en ETP ;S
+a272 ;265;Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation - horlogerie ;De 20 à 249 salariés en ETP ;1915,1
+a272 ;265;Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation - horlogerie ;Plus de 250 salariés en ETP ;S
+a272 ;266;Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques ;Ensemble des tranches d'effectif ;889,2
+a272 ;266;Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques ;De 0 à 9 salariés en ETP ;S
+a272 ;266;Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques ;De 10 à 19 salariés en ETP ;S
+a272 ;266;Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques ;De 20 à 249 salariés en ETP ;S
+a272 ;266;Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques ;Plus de 250 salariés en ETP ;S
+a272 ;267;Fabrication de matériels optique et photographique ;Ensemble des tranches d'effectif ;700,1
+a272 ;267;Fabrication de matériels optique et photographique ;De 0 à 9 salariés en ETP ;54,2
+a272 ;267;Fabrication de matériels optique et photographique ;De 10 à 19 salariés en ETP ;7,7
+a272 ;267;Fabrication de matériels optique et photographique ;De 20 à 249 salariés en ETP ;216
+a272 ;267;Fabrication de matériels optique et photographique ;Plus de 250 salariés en ETP ;422,2
+a272 ;268;Fabrication de supports magnétiques et optiques ;Ensemble des tranches d'effectif ;16,6
+a272 ;268;Fabrication de supports magnétiques et optiques ;De 0 à 9 salariés en ETP ;S
+a272 ;268;Fabrication de supports magnétiques et optiques ;De 10 à 19 salariés en ETP ;S
+a272 ;268;Fabrication de supports magnétiques et optiques ;De 20 à 249 salariés en ETP ;S
+a272 ;268;Fabrication de supports magnétiques et optiques ;Plus de 250 salariés en ETP ;2,8
+a88 ;27;Fabrication d'équipements électriques ;Ensemble des tranches d'effectif ;21073,6
+a88 ;27;Fabrication d'équipements électriques ;De 0 à 9 salariés en ETP ;1001,3
+a88 ;27;Fabrication d'équipements électriques ;De 10 à 19 salariés en ETP ;554,4
+a88 ;27;Fabrication d'équipements électriques ;De 20 à 249 salariés en ETP ;5760,9
+a88 ;27;Fabrication d'équipements électriques ;Plus de 250 salariés en ETP ;13757
+a272 ;271;Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique ;Ensemble des tranches d'effectif ;8456,3
+a272 ;271;Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique ;De 0 à 9 salariés en ETP ;259,8
+a272 ;271;Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique ;De 10 à 19 salariés en ETP ;199,3
+a272 ;271;Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique ;De 20 à 249 salariés en ETP ;2289,9
+a272 ;271;Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique ;Plus de 250 salariés en ETP ;5707,3
+a272 ;272;Fabrication de piles et d'accumulateurs électriques ;Ensemble des tranches d'effectif ;859,5
+a272 ;272;Fabrication de piles et d'accumulateurs électriques ;De 0 à 9 salariés en ETP ;S
+a272 ;272;Fabrication de piles et d'accumulateurs électriques ;De 10 à 19 salariés en ETP ;S
+a272 ;272;Fabrication de piles et d'accumulateurs électriques ;De 20 à 249 salariés en ETP ;141,8
+a272 ;272;Fabrication de piles et d'accumulateurs électriques ;Plus de 250 salariés en ETP ;572,1
+a272 ;273;Fabrication de fils et câbles et de matériel d'installation électrique ;Ensemble des tranches d'effectif ;4676,1
+a272 ;273;Fabrication de fils et câbles et de matériel d'installation électrique ;De 0 à 9 salariés en ETP ;S
+a272 ;273;Fabrication de fils et câbles et de matériel d'installation électrique ;De 10 à 19 salariés en ETP ;S
+a272 ;273;Fabrication de fils et câbles et de matériel d'installation électrique ;De 20 à 249 salariés en ETP ;946,5
+a272 ;273;Fabrication de fils et câbles et de matériel d'installation électrique ;Plus de 250 salariés en ETP ;3567,1
+a272 ;274;Fabrication d'appareils d'éclairage électrique ;Ensemble des tranches d'effectif ;2172,6
+a272 ;274;Fabrication d'appareils d'éclairage électrique ;De 0 à 9 salariés en ETP ;152
+a272 ;274;Fabrication d'appareils d'éclairage électrique ;De 10 à 19 salariés en ETP ;121,6
+a272 ;274;Fabrication d'appareils d'éclairage électrique ;De 20 à 249 salariés en ETP ;765,1
+a272 ;274;Fabrication d'appareils d'éclairage électrique ;Plus de 250 salariés en ETP ;1134,1
+a272 ;275;Fabrication d'appareils ménagers ;Ensemble des tranches d'effectif ;2901,5
+a272 ;275;Fabrication d'appareils ménagers ;De 0 à 9 salariés en ETP ;210,6
+a272 ;275;Fabrication d'appareils ménagers ;De 10 à 19 salariés en ETP ;52,5
+a272 ;275;Fabrication d'appareils ménagers ;De 20 à 249 salariés en ETP ;913,5
+a272 ;275;Fabrication d'appareils ménagers ;Plus de 250 salariés en ETP ;1725
+a272 ;279;Fabrication d'autres matériels électriques ;Ensemble des tranches d'effectif ;2007,5
+a272 ;279;Fabrication d'autres matériels électriques ;De 0 à 9 salariés en ETP ;98,1
+a272 ;279;Fabrication d'autres matériels électriques ;De 10 à 19 salariés en ETP ;153,8
+a272 ;279;Fabrication d'autres matériels électriques ;De 20 à 249 salariés en ETP ;704,2
+a272 ;279;Fabrication d'autres matériels électriques ;Plus de 250 salariés en ETP ;1051,4
+a88 ;28;Fabrication de machines et équipements n.c.a. ;Ensemble des tranches d'effectif ;34416,2
+a88 ;28;Fabrication de machines et équipements n.c.a. ;De 0 à 9 salariés en ETP ;2039,2
+a88 ;28;Fabrication de machines et équipements n.c.a. ;De 10 à 19 salariés en ETP ;1248,8
+a88 ;28;Fabrication de machines et équipements n.c.a. ;De 20 à 249 salariés en ETP ;12723,3
+a88 ;28;Fabrication de machines et équipements n.c.a. ;Plus de 250 salariés en ETP ;18404,9
+a272 ;281;Fabrication de machines d'usage général ;Ensemble des tranches d'effectif ;12787
+a272 ;281;Fabrication de machines d'usage général ;De 0 à 9 salariés en ETP ;249,6
+a272 ;281;Fabrication de machines d'usage général ;De 10 à 19 salariés en ETP ;216,4
+a272 ;281;Fabrication de machines d'usage général ;De 20 à 249 salariés en ETP ;2952,5
+a272 ;281;Fabrication de machines d'usage général ;Plus de 250 salariés en ETP ;9368,5
+a272 ;282;Fabrication d'autres machines d'usage général ;Ensemble des tranches d'effectif ;11234,7
+a272 ;282;Fabrication d'autres machines d'usage général ;De 0 à 9 salariés en ETP ;1116
+a272 ;282;Fabrication d'autres machines d'usage général ;De 10 à 19 salariés en ETP ;573,7
+a272 ;282;Fabrication d'autres machines d'usage général ;De 20 à 249 salariés en ETP ;4607,5
+a272 ;282;Fabrication d'autres machines d'usage général ;Plus de 250 salariés en ETP ;4937,6
+a272 ;283;Fabrication de machines agricoles et forestières ;Ensemble des tranches d'effectif ;3170
+a272 ;283;Fabrication de machines agricoles et forestières ;De 0 à 9 salariés en ETP ;204,2
+a272 ;283;Fabrication de machines agricoles et forestières ;De 10 à 19 salariés en ETP ;120,8
+a272 ;283;Fabrication de machines agricoles et forestières ;De 20 à 249 salariés en ETP ;1481,8
+a272 ;283;Fabrication de machines agricoles et forestières ;Plus de 250 salariés en ETP ;1363,2
+a272 ;284;Fabrication de machines de formage des métaux et de machines-outils ;Ensemble des tranches d'effectif ;943,7
+a272 ;284;Fabrication de machines de formage des métaux et de machines-outils ;De 0 à 9 salariés en ETP ;111
+a272 ;284;Fabrication de machines de formage des métaux et de machines-outils ;De 10 à 19 salariés en ETP ;77,1
+a272 ;284;Fabrication de machines de formage des métaux et de machines-outils ;De 20 à 249 salariés en ETP ;520,2
+a272 ;284;Fabrication de machines de formage des métaux et de machines-outils ;Plus de 250 salariés en ETP ;235,3
+a272 ;289;Fabrication d'autres machines d'usage spécifique ;Ensemble des tranches d'effectif ;6280,9
+a272 ;289;Fabrication d'autres machines d'usage spécifique ;De 0 à 9 salariés en ETP ;358,4
+a272 ;289;Fabrication d'autres machines d'usage spécifique ;De 10 à 19 salariés en ETP ;260,8
+a272 ;289;Fabrication d'autres machines d'usage spécifique ;De 20 à 249 salariés en ETP ;3161,3
+a272 ;289;Fabrication d'autres machines d'usage spécifique ;Plus de 250 salariés en ETP ;2500,4
+a88 ;29;Industrie automobile ;Ensemble des tranches d'effectif ;59271,5
+a88 ;29;Industrie automobile ;De 0 à 9 salariés en ETP ;625,1
+a88 ;29;Industrie automobile ;De 10 à 19 salariés en ETP ;361,7
+a88 ;29;Industrie automobile ;De 20 à 249 salariés en ETP ;5682,2
+a88 ;29;Industrie automobile ;Plus de 250 salariés en ETP ;52602,4
+a272 ;291;Construction de véhicules automobiles ;Ensemble des tranches d'effectif ;34130,6
+a272 ;291;Construction de véhicules automobiles ;De 0 à 9 salariés en ETP ;S
+a272 ;291;Construction de véhicules automobiles ;De 10 à 19 salariés en ETP ;S
+a272 ;291;Construction de véhicules automobiles ;De 20 à 249 salariés en ETP ;912,7
+a272 ;291;Construction de véhicules automobiles ;Plus de 250 salariés en ETP ;33092,5
+a272 ;292;Fabrication de carrosseries et remorques ;Ensemble des tranches d'effectif ;3538,3
+a272 ;292;Fabrication de carrosseries et remorques ;De 0 à 9 salariés en ETP ;337,3
+a272 ;292;Fabrication de carrosseries et remorques ;De 10 à 19 salariés en ETP ;279,6
+a272 ;292;Fabrication de carrosseries et remorques ;De 20 à 249 salariés en ETP ;1927,6
+a272 ;292;Fabrication de carrosseries et remorques ;Plus de 250 salariés en ETP ;993,9
+a272 ;293;Fabrication d'équipements automobiles ;Ensemble des tranches d'effectif ;21602,5
+a272 ;293;Fabrication d'équipements automobiles ;De 0 à 9 salariés en ETP ;S
+a272 ;293;Fabrication d'équipements automobiles ;De 10 à 19 salariés en ETP ;S
+a272 ;293;Fabrication d'équipements automobiles ;De 20 à 249 salariés en ETP ;2842
+a272 ;293;Fabrication d'équipements automobiles ;Plus de 250 salariés en ETP ;18516
+a88 ;30;Fabrication d'autres matériels de transport ;Ensemble des tranches d'effectif ;33330,5
+a88 ;30;Fabrication d'autres matériels de transport ;De 0 à 9 salariés en ETP ;S
+a88 ;30;Fabrication d'autres matériels de transport ;De 10 à 19 salariés en ETP ;S
+a88 ;30;Fabrication d'autres matériels de transport ;De 20 à 249 salariés en ETP ;2052,7
+a88 ;30;Fabrication d'autres matériels de transport ;Plus de 250 salariés en ETP ;30805,2
+a272 ;301;Construction navale ;Ensemble des tranches d'effectif ;3482,4
+a272 ;301;Construction navale ;De 0 à 9 salariés en ETP ;199,1
+a272 ;301;Construction navale ;De 10 à 19 salariés en ETP ;45
+a272 ;301;Construction navale ;De 20 à 249 salariés en ETP ;572,8
+a272 ;301;Construction navale ;Plus de 250 salariés en ETP ;2665,6
+a272 ;302;Construction de locomotives et d'autre matériel ferroviaire roulant ;Ensemble des tranches d'effectif ;3582,6
+a272 ;302;Construction de locomotives et d'autre matériel ferroviaire roulant ;De 0 à 9 salariés en ETP ;S
+a272 ;302;Construction de locomotives et d'autre matériel ferroviaire roulant ;De 10 à 19 salariés en ETP ;S
+a272 ;302;Construction de locomotives et d'autre matériel ferroviaire roulant ;De 20 à 249 salariés en ETP ;S
+a272 ;302;Construction de locomotives et d'autre matériel ferroviaire roulant ;Plus de 250 salariés en ETP ;3194,6
+a272 ;303;Construction aéronautique et spatiale ;Ensemble des tranches d'effectif ;24897,6
+a272 ;303;Construction aéronautique et spatiale ;De 0 à 9 salariés en ETP ;S
+a272 ;303;Construction aéronautique et spatiale ;De 10 à 19 salariés en ETP ;S
+a272 ;303;Construction aéronautique et spatiale ;De 20 à 249 salariés en ETP ;762
+a272 ;303;Construction aéronautique et spatiale ;Plus de 250 salariés en ETP ;24058,8
+a272 ;304;Construction de véhicules militaires de combat ;Ensemble des tranches d'effectif ;511
+a272 ;304;Construction de véhicules militaires de combat ;De 0 à 9 salariés en ETP ;N
+a272 ;304;Construction de véhicules militaires de combat ;De 10 à 19 salariés en ETP ;N
+a272 ;304;Construction de véhicules militaires de combat ;De 20 à 249 salariés en ETP ;S
+a272 ;304;Construction de véhicules militaires de combat ;Plus de 250 salariés en ETP ;S
+a272 ;309;Fabrication de matériels de transport n.c.a. ;Ensemble des tranches d'effectif ;856,9
+a272 ;309;Fabrication de matériels de transport n.c.a. ;De 0 à 9 salariés en ETP ;101,4
+a272 ;309;Fabrication de matériels de transport n.c.a. ;De 10 à 19 salariés en ETP ;S
+a272 ;309;Fabrication de matériels de transport n.c.a. ;De 20 à 249 salariés en ETP ;S
+a272 ;309;Fabrication de matériels de transport n.c.a. ;Plus de 250 salariés en ETP ;S
+a88 ;31;Fabrication de meubles ;Ensemble des tranches d'effectif ;6773,6
+a88 ;31;Fabrication de meubles ;De 0 à 9 salariés en ETP ;1129,9
+a88 ;31;Fabrication de meubles ;De 10 à 19 salariés en ETP ;497,9
+a88 ;31;Fabrication de meubles ;De 20 à 249 salariés en ETP ;2985,2
+a88 ;31;Fabrication de meubles ;Plus de 250 salariés en ETP ;2160,5
+a272 ;310;Fabrication de meubles ;Ensemble des tranches d'effectif ;6773,6
+a272 ;310;Fabrication de meubles ;De 0 à 9 salariés en ETP ;1129,9
+a272 ;310;Fabrication de meubles ;De 10 à 19 salariés en ETP ;497,9
+a272 ;310;Fabrication de meubles ;De 20 à 249 salariés en ETP ;2985,2
+a272 ;310;Fabrication de meubles ;Plus de 250 salariés en ETP ;2160,5
+a88 ;32;Autres industries manufacturières ;Ensemble des tranches d'effectif ;9424,4
+a88 ;32;Autres industries manufacturières ;De 0 à 9 salariés en ETP ;2078
+a88 ;32;Autres industries manufacturières ;De 10 à 19 salariés en ETP ;595,4
+a88 ;32;Autres industries manufacturières ;De 20 à 249 salariés en ETP ;3669,7
+a88 ;32;Autres industries manufacturières ;Plus de 250 salariés en ETP ;3081,3
+a272 ;321;Fabrication d'articles de joaillerie, bijouterie et articles similaires ;Ensemble des tranches d'effectif ;1427,5
+a272 ;321;Fabrication d'articles de joaillerie, bijouterie et articles similaires ;De 0 à 9 salariés en ETP ;424,3
+a272 ;321;Fabrication d'articles de joaillerie, bijouterie et articles similaires ;De 10 à 19 salariés en ETP ;112,6
+a272 ;321;Fabrication d'articles de joaillerie, bijouterie et articles similaires ;De 20 à 249 salariés en ETP ;421,7
+a272 ;321;Fabrication d'articles de joaillerie, bijouterie et articles similaires ;Plus de 250 salariés en ETP ;468,8
+a272 ;322;Fabrication d'instruments de musique ;Ensemble des tranches d'effectif ;161,6
+a272 ;322;Fabrication d'instruments de musique ;De 0 à 9 salariés en ETP ;S
+a272 ;322;Fabrication d'instruments de musique ;De 10 à 19 salariés en ETP ;S
+a272 ;322;Fabrication d'instruments de musique ;De 20 à 249 salariés en ETP ;82
+a272 ;322;Fabrication d'instruments de musique ;Plus de 250 salariés en ETP ;S
+a272 ;323;Fabrication d'articles de sport ;Ensemble des tranches d'effectif ;627
+a272 ;323;Fabrication d'articles de sport ;De 0 à 9 salariés en ETP ;41,7
+a272 ;323;Fabrication d'articles de sport ;De 10 à 19 salariés en ETP ;S
+a272 ;323;Fabrication d'articles de sport ;De 20 à 249 salariés en ETP ;367,9
+a272 ;323;Fabrication d'articles de sport ;Plus de 250 salariés en ETP ;S
+a272 ;324;Fabrication de jeux et jouets ;Ensemble des tranches d'effectif ;297,3
+a272 ;324;Fabrication de jeux et jouets ;De 0 à 9 salariés en ETP ;S
+a272 ;324;Fabrication de jeux et jouets ;De 10 à 19 salariés en ETP ;S
+a272 ;324;Fabrication de jeux et jouets ;De 20 à 249 salariés en ETP ;150,2
+a272 ;324;Fabrication de jeux et jouets ;Plus de 250 salariés en ETP ;S
+a272 ;325;Fabrication d'instruments et de fournitures à usage médical et dentaire ;Ensemble des tranches d'effectif ;5830
+a272 ;325;Fabrication d'instruments et de fournitures à usage médical et dentaire ;De 0 à 9 salariés en ETP ;1379,8
+a272 ;325;Fabrication d'instruments et de fournitures à usage médical et dentaire ;De 10 à 19 salariés en ETP ;369,9
+a272 ;325;Fabrication d'instruments et de fournitures à usage médical et dentaire ;De 20 à 249 salariés en ETP ;2120,2
+a272 ;325;Fabrication d'instruments et de fournitures à usage médical et dentaire ;Plus de 250 salariés en ETP ;1960,1
+a272 ;329;Activités manufacturières n.c.a. ;Ensemble des tranches d'effectif ;1081
+a272 ;329;Activités manufacturières n.c.a. ;De 0 à 9 salariés en ETP ;152,5
+a272 ;329;Activités manufacturières n.c.a. ;De 10 à 19 salariés en ETP ;S
+a272 ;329;Activités manufacturières n.c.a. ;De 20 à 249 salariés en ETP ;527,7
+a272 ;329;Activités manufacturières n.c.a. ;Plus de 250 salariés en ETP ;S
+a88 ;33;Réparation et installation de machines et d'équipements ;Ensemble des tranches d'effectif ;39429,9
+a88 ;33;Réparation et installation de machines et d'équipements ;De 0 à 9 salariés en ETP ;6480,2
+a88 ;33;Réparation et installation de machines et d'équipements ;De 10 à 19 salariés en ETP ;2936
+a88 ;33;Réparation et installation de machines et d'équipements ;De 20 à 249 salariés en ETP ;11781,6
+a88 ;33;Réparation et installation de machines et d'équipements ;Plus de 250 salariés en ETP ;18232,2
+a272 ;331;Réparation d'ouvrages en métaux, de machines et d'équipements ;Ensemble des tranches d'effectif ;25244
+a272 ;331;Réparation d'ouvrages en métaux, de machines et d'équipements ;De 0 à 9 salariés en ETP ;3578,7
+a272 ;331;Réparation d'ouvrages en métaux, de machines et d'équipements ;De 10 à 19 salariés en ETP ;1309,4
+a272 ;331;Réparation d'ouvrages en métaux, de machines et d'équipements ;De 20 à 249 salariés en ETP ;7181,6
+a272 ;331;Réparation d'ouvrages en métaux, de machines et d'équipements ;Plus de 250 salariés en ETP ;13174,4
+a272 ;332;Installation de machines et d'équipements industriels ;Ensemble des tranches d'effectif ;14185,9
+a272 ;332;Installation de machines et d'équipements industriels ;De 0 à 9 salariés en ETP ;2901,5
+a272 ;332;Installation de machines et d'équipements industriels ;De 10 à 19 salariés en ETP ;1626,7
+a272 ;332;Installation de machines et d'équipements industriels ;De 20 à 249 salariés en ETP ;4600
+a272 ;332;Installation de machines et d'équipements industriels ;Plus de 250 salariés en ETP ;5057,8
+a21 ;D ;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;Ensemble des tranches d'effectif ;106981
+a21 ;D ;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;De 0 à 9 salariés en ETP ;7899,1
+a21 ;D ;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;De 10 à 19 salariés en ETP ;721,4
+a21 ;D ;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;De 20 à 249 salariés en ETP ;6961,9
+a21 ;D ;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;Plus de 250 salariés en ETP ;91398,6
+a88 ;35;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;Ensemble des tranches d'effectif ;106981
+a88 ;35;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;De 0 à 9 salariés en ETP ;7899,1
+a88 ;35;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;De 10 à 19 salariés en ETP ;721,4
+a88 ;35;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;De 20 à 249 salariés en ETP ;6961,9
+a88 ;35;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné ;Plus de 250 salariés en ETP ;91398,6
+a272 ;351;Production, transport et distribution d'électricité ;Ensemble des tranches d'effectif ;69199,8
+a272 ;351;Production, transport et distribution d'électricité ;De 0 à 9 salariés en ETP ;4224,8
+a272 ;351;Production, transport et distribution d'électricité ;De 10 à 19 salariés en ETP ;265,3
+a272 ;351;Production, transport et distribution d'électricité ;De 20 à 249 salariés en ETP ;4003,9
+a272 ;351;Production, transport et distribution d'électricité ;Plus de 250 salariés en ETP ;60705,8
+a272 ;352;Production et distribution de combustibles gazeux ;Ensemble des tranches d'effectif ;32372,2
+a272 ;352;Production et distribution de combustibles gazeux ;De 0 à 9 salariés en ETP ;2510,4
+a272 ;352;Production et distribution de combustibles gazeux ;De 10 à 19 salariés en ETP ;S
+a272 ;352;Production et distribution de combustibles gazeux ;De 20 à 249 salariés en ETP ;2079,8
+a272 ;352;Production et distribution de combustibles gazeux ;Plus de 250 salariés en ETP ;S
+a272 ;353;Production et distribution de vapeur et d'air conditionné ;Ensemble des tranches d'effectif ;5409,1
+a272 ;353;Production et distribution de vapeur et d'air conditionné ;De 0 à 9 salariés en ETP ;1163,9
+a272 ;353;Production et distribution de vapeur et d'air conditionné ;De 10 à 19 salariés en ETP ;S
+a272 ;353;Production et distribution de vapeur et d'air conditionné ;De 20 à 249 salariés en ETP ;878,2
+a272 ;353;Production et distribution de vapeur et d'air conditionné ;Plus de 250 salariés en ETP ;S
+a21 ;E ;Production et distribution d'eau - assainissement, gestion des déchets et dépollution ;Ensemble des tranches d'effectif ;34288,8
+a21 ;E ;Production et distribution d'eau - assainissement, gestion des déchets et dépollution ;De 0 à 9 salariés en ETP ;5249
+a21 ;E ;Production et distribution d'eau - assainissement, gestion des déchets et dépollution ;De 10 à 19 salariés en ETP ;2228,7
+a21 ;E ;Production et distribution d'eau - assainissement, gestion des déchets et dépollution ;De 20 à 249 salariés en ETP ;11919,9
+a21 ;E ;Production et distribution d'eau - assainissement, gestion des déchets et dépollution ;Plus de 250 salariés en ETP ;14891,5
+a88 ;36;Captage, traitement et distribution d'eau ;Ensemble des tranches d'effectif ;8279,8
+a88 ;36;Captage, traitement et distribution d'eau ;De 0 à 9 salariés en ETP ;1093,5
+a88 ;36;Captage, traitement et distribution d'eau ;De 10 à 19 salariés en ETP ;133,2
+a88 ;36;Captage, traitement et distribution d'eau ;De 20 à 249 salariés en ETP ;1585,3
+a88 ;36;Captage, traitement et distribution d'eau ;Plus de 250 salariés en ETP ;5467,7
+a272 ;360;Captage, traitement et distribution d'eau ;Ensemble des tranches d'effectif ;8279,8
+a272 ;360;Captage, traitement et distribution d'eau ;De 0 à 9 salariés en ETP ;1093,5
+a272 ;360;Captage, traitement et distribution d'eau ;De 10 à 19 salariés en ETP ;133,2
+a272 ;360;Captage, traitement et distribution d'eau ;De 20 à 249 salariés en ETP ;1585,3
+a272 ;360;Captage, traitement et distribution d'eau ;Plus de 250 salariés en ETP ;5467,7
+a88 ;37;Collecte et traitement des eaux usées ;Ensemble des tranches d'effectif ;4778,6
+a88 ;37;Collecte et traitement des eaux usées ;De 0 à 9 salariés en ETP ;1079,8
+a88 ;37;Collecte et traitement des eaux usées ;De 10 à 19 salariés en ETP ;152,6
+a88 ;37;Collecte et traitement des eaux usées ;De 20 à 249 salariés en ETP ;886
+a88 ;37;Collecte et traitement des eaux usées ;Plus de 250 salariés en ETP ;2660,1
+a272 ;370;Collecte et traitement des eaux usées ;Ensemble des tranches d'effectif ;4778,6
+a272 ;370;Collecte et traitement des eaux usées ;De 0 à 9 salariés en ETP ;1079,8
+a272 ;370;Collecte et traitement des eaux usées ;De 10 à 19 salariés en ETP ;152,6
+a272 ;370;Collecte et traitement des eaux usées ;De 20 à 249 salariés en ETP ;886
+a272 ;370;Collecte et traitement des eaux usées ;Plus de 250 salariés en ETP ;2660,1
+a88 ;38;Collecte, traitement et élimination des déchets - récupération ;Ensemble des tranches d'effectif ;20548,5
+a88 ;38;Collecte, traitement et élimination des déchets - récupération ;De 0 à 9 salariés en ETP ;3002,6
+a88 ;38;Collecte, traitement et élimination des déchets - récupération ;De 10 à 19 salariés en ETP ;1858,5
+a88 ;38;Collecte, traitement et élimination des déchets - récupération ;De 20 à 249 salariés en ETP ;8984,5
+a88 ;38;Collecte, traitement et élimination des déchets - récupération ;Plus de 250 salariés en ETP ;6703
+a272 ;381;Collecte des déchets ;Ensemble des tranches d'effectif ;4752
+a272 ;381;Collecte des déchets ;De 0 à 9 salariés en ETP ;308,3
+a272 ;381;Collecte des déchets ;De 10 à 19 salariés en ETP ;S
+a272 ;381;Collecte des déchets ;De 20 à 249 salariés en ETP ;1433,4
+a272 ;381;Collecte des déchets ;Plus de 250 salariés en ETP ;S
+a272 ;382;Traitement et élimination des déchets ;Ensemble des tranches d'effectif ;4837,9
+a272 ;382;Traitement et élimination des déchets ;De 0 à 9 salariés en ETP ;457,8
+a272 ;382;Traitement et élimination des déchets ;De 10 à 19 salariés en ETP ;S
+a272 ;382;Traitement et élimination des déchets ;De 20 à 249 salariés en ETP ;2257,3
+a272 ;382;Traitement et élimination des déchets ;Plus de 250 salariés en ETP ;S
+a272 ;383;Récupération ;Ensemble des tranches d'effectif ;10958,6
+a272 ;383;Récupération ;De 0 à 9 salariés en ETP ;2236,6
+a272 ;383;Récupération ;De 10 à 19 salariés en ETP ;1390,3
+a272 ;383;Récupération ;De 20 à 249 salariés en ETP ;5293,7
+a272 ;383;Récupération ;Plus de 250 salariés en ETP ;2038
+a88 ;39;Dépollution et autres services de gestion des déchets ;Ensemble des tranches d'effectif ;682
+a88 ;39;Dépollution et autres services de gestion des déchets ;De 0 à 9 salariés en ETP ;73
+a88 ;39;Dépollution et autres services de gestion des déchets ;De 10 à 19 salariés en ETP ;84,3
+a88 ;39;Dépollution et autres services de gestion des déchets ;De 20 à 249 salariés en ETP ;464,2
+a88 ;39;Dépollution et autres services de gestion des déchets ;Plus de 250 salariés en ETP ;60,6
+a272 ;390;Dépollution et autres services de gestion des déchets ;Ensemble des tranches d'effectif ;682
+a272 ;390;Dépollution et autres services de gestion des déchets ;De 0 à 9 salariés en ETP ;73
+a272 ;390;Dépollution et autres services de gestion des déchets ;De 10 à 19 salariés en ETP ;84,3
+a272 ;390;Dépollution et autres services de gestion des déchets ;De 20 à 249 salariés en ETP ;464,2
+a272 ;390;Dépollution et autres services de gestion des déchets ;Plus de 250 salariés en ETP ;60,6
+a10 ;FZ ;Construction ;Ensemble des tranches d'effectif ;257402,6
+a10 ;FZ ;Construction ;De 0 à 9 salariés en ETP ;106410
+a10 ;FZ ;Construction ;De 10 à 19 salariés en ETP ;27358,7
+a10 ;FZ ;Construction ;De 20 à 249 salariés en ETP ;72553,8
+a10 ;FZ ;Construction ;Plus de 250 salariés en ETP ;51051,7
+a21 ;F ;Construction ;Ensemble des tranches d'effectif ;257402,6
+a21 ;F ;Construction ;De 0 à 9 salariés en ETP ;106410
+a21 ;F ;Construction ;De 10 à 19 salariés en ETP ;27358,7
+a21 ;F ;Construction ;De 20 à 249 salariés en ETP ;72553,8
+a21 ;F ;Construction ;Plus de 250 salariés en ETP ;51051,7
+a88 ;41;Construction de bâtiments ;Ensemble des tranches d'effectif ;52166,4
+a88 ;41;Construction de bâtiments ;De 0 à 9 salariés en ETP ;23988
+a88 ;41;Construction de bâtiments ;De 10 à 19 salariés en ETP ;3386,7
+a88 ;41;Construction de bâtiments ;De 20 à 249 salariés en ETP ;12274
+a88 ;41;Construction de bâtiments ;Plus de 250 salariés en ETP ;12506
+a272 ;411;Promotion immobilière ;Ensemble des tranches d'effectif ;24562,9
+a272 ;411;Promotion immobilière ;De 0 à 9 salariés en ETP ;16312,5
+a272 ;411;Promotion immobilière ;De 10 à 19 salariés en ETP ;S
+a272 ;411;Promotion immobilière ;De 20 à 249 salariés en ETP ;3793,5
+a272 ;411;Promotion immobilière ;Plus de 250 salariés en ETP ;S
+a272 ;412;Construction de bâtiments résidentiels et non résidentiels ;Ensemble des tranches d'effectif ;27603,5
+a272 ;412;Construction de bâtiments résidentiels et non résidentiels ;De 0 à 9 salariés en ETP ;7675,6
+a272 ;412;Construction de bâtiments résidentiels et non résidentiels ;De 10 à 19 salariés en ETP ;S
+a272 ;412;Construction de bâtiments résidentiels et non résidentiels ;De 20 à 249 salariés en ETP ;8480,6
+a272 ;412;Construction de bâtiments résidentiels et non résidentiels ;Plus de 250 salariés en ETP ;S
+a88 ;42;Génie civil ;Ensemble des tranches d'effectif ;35850,7
+a88 ;42;Génie civil ;De 0 à 9 salariés en ETP ;3261
+a88 ;42;Génie civil ;De 10 à 19 salariés en ETP ;1137,9
+a88 ;42;Génie civil ;De 20 à 249 salariés en ETP ;12953,3
+a88 ;42;Génie civil ;Plus de 250 salariés en ETP ;18498,4
+a272 ;421;Construction de routes et de voies ferrées ;Ensemble des tranches d'effectif ;16904,1
+a272 ;421;Construction de routes et de voies ferrées ;De 0 à 9 salariés en ETP ;553,6
+a272 ;421;Construction de routes et de voies ferrées ;De 10 à 19 salariés en ETP ;256,8
+a272 ;421;Construction de routes et de voies ferrées ;De 20 à 249 salariés en ETP ;5025,5
+a272 ;421;Construction de routes et de voies ferrées ;Plus de 250 salariés en ETP ;11068,2
+a272 ;422;Construction de réseaux et de lignes ;Ensemble des tranches d'effectif ;11739,1
+a272 ;422;Construction de réseaux et de lignes ;De 0 à 9 salariés en ETP ;488,4
+a272 ;422;Construction de réseaux et de lignes ;De 10 à 19 salariés en ETP ;441,4
+a272 ;422;Construction de réseaux et de lignes ;De 20 à 249 salariés en ETP ;5686,3
+a272 ;422;Construction de réseaux et de lignes ;Plus de 250 salariés en ETP ;5123
+a272 ;429;Construction d'autres ouvrages de génie civil ;Ensemble des tranches d'effectif ;7207,6
+a272 ;429;Construction d'autres ouvrages de génie civil ;De 0 à 9 salariés en ETP ;2219
+a272 ;429;Construction d'autres ouvrages de génie civil ;De 10 à 19 salariés en ETP ;439,7
+a272 ;429;Construction d'autres ouvrages de génie civil ;De 20 à 249 salariés en ETP ;2241,6
+a272 ;429;Construction d'autres ouvrages de génie civil ;Plus de 250 salariés en ETP ;2307,2
+a88 ;43;Travaux de construction spécialisés ;Ensemble des tranches d'effectif ;169385,5
+a88 ;43;Travaux de construction spécialisés ;De 0 à 9 salariés en ETP ;79160,9
+a88 ;43;Travaux de construction spécialisés ;De 10 à 19 salariés en ETP ;22834,1
+a88 ;43;Travaux de construction spécialisés ;De 20 à 249 salariés en ETP ;47326,4
+a88 ;43;Travaux de construction spécialisés ;Plus de 250 salariés en ETP ;20047,3
+a272 ;431;Démolition et préparation des sites ;Ensemble des tranches d'effectif ;13162,3
+a272 ;431;Démolition et préparation des sites ;De 0 à 9 salariés en ETP ;4869,9
+a272 ;431;Démolition et préparation des sites ;De 10 à 19 salariés en ETP ;1326,5
+a272 ;431;Démolition et préparation des sites ;De 20 à 249 salariés en ETP ;5402,9
+a272 ;431;Démolition et préparation des sites ;Plus de 250 salariés en ETP ;1561,4
+a272 ;432;Travaux d'installation électrique, plomberie et autres travaux d'installation ;Ensemble des tranches d'effectif ;57397
+a272 ;432;Travaux d'installation électrique, plomberie et autres travaux d'installation ;De 0 à 9 salariés en ETP ;21306
+a272 ;432;Travaux d'installation électrique, plomberie et autres travaux d'installation ;De 10 à 19 salariés en ETP ;6548,1
+a272 ;432;Travaux d'installation électrique, plomberie et autres travaux d'installation ;De 20 à 249 salariés en ETP ;15440,4
+a272 ;432;Travaux d'installation électrique, plomberie et autres travaux d'installation ;Plus de 250 salariés en ETP ;14102,5
+a272 ;433;Travaux de finition ;Ensemble des tranches d'effectif ;49248
+a272 ;433;Travaux de finition ;De 0 à 9 salariés en ETP ;28359,5
+a272 ;433;Travaux de finition ;De 10 à 19 salariés en ETP ;7698,7
+a272 ;433;Travaux de finition ;De 20 à 249 salariés en ETP ;12100,1
+a272 ;433;Travaux de finition ;Plus de 250 salariés en ETP ;1074,6
+a272 ;439;Autres travaux de construction spécialisés ;Ensemble des tranches d'effectif ;49578,3
+a272 ;439;Autres travaux de construction spécialisés ;De 0 à 9 salariés en ETP ;24625,5
+a272 ;439;Autres travaux de construction spécialisés ;De 10 à 19 salariés en ETP ;7260,8
+a272 ;439;Autres travaux de construction spécialisés ;De 20 à 249 salariés en ETP ;14383,1
+a272 ;439;Autres travaux de construction spécialisés ;Plus de 250 salariés en ETP ;3308,8
+a10 ;GI ;Commerce de gros et de détail, transports, hébergement et restauration ;Ensemble des tranches d'effectif ;1697034,3
+a10 ;GI ;Commerce de gros et de détail, transports, hébergement et restauration ;De 0 à 9 salariés en ETP ;402633,7
+a10 ;GI ;Commerce de gros et de détail, transports, hébergement et restauration ;De 10 à 19 salariés en ETP ;119781,9
+a10 ;GI ;Commerce de gros et de détail, transports, hébergement et restauration ;De 20 à 249 salariés en ETP ;531142,3
+a10 ;GI ;Commerce de gros et de détail, transports, hébergement et restauration ;Plus de 250 salariés en ETP ;643477
+a21 ;G ;Commerce - réparation d'automobiles et de motocycles ;Ensemble des tranches d'effectif ;1428454,2
+a21 ;G ;Commerce - réparation d'automobiles et de motocycles ;De 0 à 9 salariés en ETP ;342675,2
+a21 ;G ;Commerce - réparation d'automobiles et de motocycles ;De 10 à 19 salariés en ETP ;101385,8
+a21 ;G ;Commerce - réparation d'automobiles et de motocycles ;De 20 à 249 salariés en ETP ;467477,8
+a21 ;G ;Commerce - réparation d'automobiles et de motocycles ;Plus de 250 salariés en ETP ;516916,3
+a88 ;45;Commerce et réparation d'automobiles et de motocycles ;Ensemble des tranches d'effectif ;190949,8
+a88 ;45;Commerce et réparation d'automobiles et de motocycles ;De 0 à 9 salariés en ETP ;39390,9
+a88 ;45;Commerce et réparation d'automobiles et de motocycles ;De 10 à 19 salariés en ETP ;11722,8
+a88 ;45;Commerce et réparation d'automobiles et de motocycles ;De 20 à 249 salariés en ETP ;66295,5
+a88 ;45;Commerce et réparation d'automobiles et de motocycles ;Plus de 250 salariés en ETP ;73540,9
+a272 ;451;Commerce de véhicules automobiles ;Ensemble des tranches d'effectif ;128155,7
+a272 ;451;Commerce de véhicules automobiles ;De 0 à 9 salariés en ETP ;17154,4
+a272 ;451;Commerce de véhicules automobiles ;De 10 à 19 salariés en ETP ;6412,1
+a272 ;451;Commerce de véhicules automobiles ;De 20 à 249 salariés en ETP ;48129,3
+a272 ;451;Commerce de véhicules automobiles ;Plus de 250 salariés en ETP ;56459,1
+a272 ;452;Entretien et réparation de véhicules automobiles ;Ensemble des tranches d'effectif ;14829,4
+a272 ;452;Entretien et réparation de véhicules automobiles ;De 0 à 9 salariés en ETP ;7279,8
+a272 ;452;Entretien et réparation de véhicules automobiles ;De 10 à 19 salariés en ETP ;1593,5
+a272 ;452;Entretien et réparation de véhicules automobiles ;De 20 à 249 salariés en ETP ;S
+a272 ;452;Entretien et réparation de véhicules automobiles ;Plus de 250 salariés en ETP ;S
+a272 ;453;Commerce d'équipements automobiles ;Ensemble des tranches d'effectif ;43302,2
+a272 ;453;Commerce d'équipements automobiles ;De 0 à 9 salariés en ETP ;12062
+a272 ;453;Commerce d'équipements automobiles ;De 10 à 19 salariés en ETP ;S
+a272 ;453;Commerce d'équipements automobiles ;De 20 à 249 salariés en ETP ;S
+a272 ;453;Commerce d'équipements automobiles ;Plus de 250 salariés en ETP ;S
+a272 ;454;Commerce et réparation de motocycles ;Ensemble des tranches d'effectif ;4662,6
+a272 ;454;Commerce et réparation de motocycles ;De 0 à 9 salariés en ETP ;2894,7
+a272 ;454;Commerce et réparation de motocycles ;De 10 à 19 salariés en ETP ;S
+a272 ;454;Commerce et réparation de motocycles ;De 20 à 249 salariés en ETP ;S
+a272 ;454;Commerce et réparation de motocycles ;Plus de 250 salariés en ETP ;172,3
+a88 ;46;Commerce de gros, à l'exception des automobiles et des motocycles ;Ensemble des tranches d'effectif ;811213,9
+a88 ;46;Commerce de gros, à l'exception des automobiles et des motocycles ;De 0 à 9 salariés en ETP ;166244,2
+a88 ;46;Commerce de gros, à l'exception des automobiles et des motocycles ;De 10 à 19 salariés en ETP ;61329,5
+a88 ;46;Commerce de gros, à l'exception des automobiles et des motocycles ;De 20 à 249 salariés en ETP ;299190,7
+a88 ;46;Commerce de gros, à l'exception des automobiles et des motocycles ;Plus de 250 salariés en ETP ;284448,3
+a272 ;461;Intermédiaires du commerce de gros ;Ensemble des tranches d'effectif ;128546,8
+a272 ;461;Intermédiaires du commerce de gros ;De 0 à 9 salariés en ETP ;29325,6
+a272 ;461;Intermédiaires du commerce de gros ;De 10 à 19 salariés en ETP ;7044,4
+a272 ;461;Intermédiaires du commerce de gros ;De 20 à 249 salariés en ETP ;57224,7
+a272 ;461;Intermédiaires du commerce de gros ;Plus de 250 salariés en ETP ;34950,5
+a272 ;462;Commerce de gros de produits agricoles bruts et d'animaux vivants ;Ensemble des tranches d'effectif ;44644,1
+a272 ;462;Commerce de gros de produits agricoles bruts et d'animaux vivants ;De 0 à 9 salariés en ETP ;14555,6
+a272 ;462;Commerce de gros de produits agricoles bruts et d'animaux vivants ;De 10 à 19 salariés en ETP ;5181,7
+a272 ;462;Commerce de gros de produits agricoles bruts et d'animaux vivants ;De 20 à 249 salariés en ETP ;16497,7
+a272 ;462;Commerce de gros de produits agricoles bruts et d'animaux vivants ;Plus de 250 salariés en ETP ;8409,4
+a272 ;463;Commerce de gros de produits alimentaires, de boissons et de tabac ;Ensemble des tranches d'effectif ;136625,7
+a272 ;463;Commerce de gros de produits alimentaires, de boissons et de tabac ;De 0 à 9 salariés en ETP ;33206
+a272 ;463;Commerce de gros de produits alimentaires, de boissons et de tabac ;De 10 à 19 salariés en ETP ;13789,8
+a272 ;463;Commerce de gros de produits alimentaires, de boissons et de tabac ;De 20 à 249 salariés en ETP ;46481,4
+a272 ;463;Commerce de gros de produits alimentaires, de boissons et de tabac ;Plus de 250 salariés en ETP ;43148,2
+a272 ;464;Commerce de gros de biens domestiques ;Ensemble des tranches d'effectif ;166880,5
+a272 ;464;Commerce de gros de biens domestiques ;De 0 à 9 salariés en ETP ;24538,4
+a272 ;464;Commerce de gros de biens domestiques ;De 10 à 19 salariés en ETP ;7316,6
+a272 ;464;Commerce de gros de biens domestiques ;De 20 à 249 salariés en ETP ;53294,4
+a272 ;464;Commerce de gros de biens domestiques ;Plus de 250 salariés en ETP ;81730,7
+a272 ;465;Commerce de gros d'équipements de l'information et de la communication ;Ensemble des tranches d'effectif ;48848,6
+a272 ;465;Commerce de gros d'équipements de l'information et de la communication ;De 0 à 9 salariés en ETP ;5727,7
+a272 ;465;Commerce de gros d'équipements de l'information et de la communication ;De 10 à 19 salariés en ETP ;3355,6
+a272 ;465;Commerce de gros d'équipements de l'information et de la communication ;De 20 à 249 salariés en ETP ;16913,1
+a272 ;465;Commerce de gros d'équipements de l'information et de la communication ;Plus de 250 salariés en ETP ;22853,3
+a272 ;466;Commerce de gros d'autres équipements industriels ;Ensemble des tranches d'effectif ;100880,8
+a272 ;466;Commerce de gros d'autres équipements industriels ;De 0 à 9 salariés en ETP ;20819,8
+a272 ;466;Commerce de gros d'autres équipements industriels ;De 10 à 19 salariés en ETP ;10792,5
+a272 ;466;Commerce de gros d'autres équipements industriels ;De 20 à 249 salariés en ETP ;39937
+a272 ;466;Commerce de gros d'autres équipements industriels ;Plus de 250 salariés en ETP ;29331,3
+a272 ;467;Autres commerces de gros spécialisés ;Ensemble des tranches d'effectif ;158229
+a272 ;467;Autres commerces de gros spécialisés ;De 0 à 9 salariés en ETP ;32314,8
+a272 ;467;Autres commerces de gros spécialisés ;De 10 à 19 salariés en ETP ;12084,3
+a272 ;467;Autres commerces de gros spécialisés ;De 20 à 249 salariés en ETP ;59554,6
+a272 ;467;Autres commerces de gros spécialisés ;Plus de 250 salariés en ETP ;54275,3
+a272 ;469;Commerce de gros non spécialisé ;Ensemble des tranches d'effectif ;26558,5
+a272 ;469;Commerce de gros non spécialisé ;De 0 à 9 salariés en ETP ;5756,3
+a272 ;469;Commerce de gros non spécialisé ;De 10 à 19 salariés en ETP ;1764,5
+a272 ;469;Commerce de gros non spécialisé ;De 20 à 249 salariés en ETP ;9287,9
+a272 ;469;Commerce de gros non spécialisé ;Plus de 250 salariés en ETP ;9749,8
+a88 ;47;Commerce de détail, à l'exception des automobiles et des motocycles ;Ensemble des tranches d'effectif ;426290,5
+a88 ;47;Commerce de détail, à l'exception des automobiles et des motocycles ;De 0 à 9 salariés en ETP ;137040,1
+a88 ;47;Commerce de détail, à l'exception des automobiles et des motocycles ;De 10 à 19 salariés en ETP ;28333,5
+a88 ;47;Commerce de détail, à l'exception des automobiles et des motocycles ;De 20 à 249 salariés en ETP ;101991,5
+a88 ;47;Commerce de détail, à l'exception des automobiles et des motocycles ;Plus de 250 salariés en ETP ;158927,1
+a272 ;471;Commerce de détail en magasin non spécialisé ;Ensemble des tranches d'effectif ;158824,3
+a272 ;471;Commerce de détail en magasin non spécialisé ;De 0 à 9 salariés en ETP ;12402,6
+a272 ;471;Commerce de détail en magasin non spécialisé ;De 10 à 19 salariés en ETP ;8065,7
+a272 ;471;Commerce de détail en magasin non spécialisé ;De 20 à 249 salariés en ETP ;57781
+a272 ;471;Commerce de détail en magasin non spécialisé ;Plus de 250 salariés en ETP ;80578,6
+a272 ;472;Commerce de détail alimentaire en magasin spécialisé ;Ensemble des tranches d'effectif ;20853
+a272 ;472;Commerce de détail alimentaire en magasin spécialisé ;De 0 à 9 salariés en ETP ;15618,6
+a272 ;472;Commerce de détail alimentaire en magasin spécialisé ;De 10 à 19 salariés en ETP ;1333,6
+a272 ;472;Commerce de détail alimentaire en magasin spécialisé ;De 20 à 249 salariés en ETP ;2620,3
+a272 ;472;Commerce de détail alimentaire en magasin spécialisé ;Plus de 250 salariés en ETP ;1277,9
+a272 ;473;Commerce de détail de carburants en magasin spécialisé ;Ensemble des tranches d'effectif ;32811,3
+a272 ;473;Commerce de détail de carburants en magasin spécialisé ;De 0 à 9 salariés en ETP ;11343,7
+a272 ;473;Commerce de détail de carburants en magasin spécialisé ;De 10 à 19 salariés en ETP ;2254,1
+a272 ;473;Commerce de détail de carburants en magasin spécialisé ;De 20 à 249 salariés en ETP ;12256,7
+a272 ;473;Commerce de détail de carburants en magasin spécialisé ;Plus de 250 salariés en ETP ;6956,2
+a272 ;474;Commerce de détail d'équipements de l'information et de la communication en magasin spécialisé ;Ensemble des tranches d'effectif ;11867,8
+a272 ;474;Commerce de détail d'équipements de l'information et de la communication en magasin spécialisé ;De 0 à 9 salariés en ETP ;2560,3
+a272 ;474;Commerce de détail d'équipements de l'information et de la communication en magasin spécialisé ;De 10 à 19 salariés en ETP ;890,5
+a272 ;474;Commerce de détail d'équipements de l'information et de la communication en magasin spécialisé ;De 20 à 249 salariés en ETP ;1386,5
+a272 ;474;Commerce de détail d'équipements de l'information et de la communication en magasin spécialisé ;Plus de 250 salariés en ETP ;7031,5
+a272 ;475;Commerce de détail d'autres équipements du foyer en magasin spécialisé ;Ensemble des tranches d'effectif ;47842,7
+a272 ;475;Commerce de détail d'autres équipements du foyer en magasin spécialisé ;De 0 à 9 salariés en ETP ;14050,6
+a272 ;475;Commerce de détail d'autres équipements du foyer en magasin spécialisé ;De 10 à 19 salariés en ETP ;4092,6
+a272 ;475;Commerce de détail d'autres équipements du foyer en magasin spécialisé ;De 20 à 249 salariés en ETP ;7237,8
+a272 ;475;Commerce de détail d'autres équipements du foyer en magasin spécialisé ;Plus de 250 salariés en ETP ;22461,8
+a272 ;476;Commerce de détail de biens culturels et de loisirs en magasin spécialisé ;Ensemble des tranches d'effectif ;20133,7
+a272 ;476;Commerce de détail de biens culturels et de loisirs en magasin spécialisé ;De 0 à 9 salariés en ETP ;6277,5
+a272 ;476;Commerce de détail de biens culturels et de loisirs en magasin spécialisé ;De 10 à 19 salariés en ETP ;1705,8
+a272 ;476;Commerce de détail de biens culturels et de loisirs en magasin spécialisé ;De 20 à 249 salariés en ETP ;2618,2
+a272 ;476;Commerce de détail de biens culturels et de loisirs en magasin spécialisé ;Plus de 250 salariés en ETP ;9532,3
+a272 ;477;Autres commerces de détail en magasin spécialisé ;Ensemble des tranches d'effectif ;109596,3
+a272 ;477;Autres commerces de détail en magasin spécialisé ;De 0 à 9 salariés en ETP ;65441,6
+a272 ;477;Autres commerces de détail en magasin spécialisé ;De 10 à 19 salariés en ETP ;8830,7
+a272 ;477;Autres commerces de détail en magasin spécialisé ;De 20 à 249 salariés en ETP ;12519,4
+a272 ;477;Autres commerces de détail en magasin spécialisé ;Plus de 250 salariés en ETP ;22805,2
+a272 ;478;Commerce de détail sur éventaires et marchés ;Ensemble des tranches d'effectif ;5645,8
+a272 ;478;Commerce de détail sur éventaires et marchés ;De 0 à 9 salariés en ETP ;4766,9
+a272 ;478;Commerce de détail sur éventaires et marchés ;De 10 à 19 salariés en ETP ;216,3
+a272 ;478;Commerce de détail sur éventaires et marchés ;De 20 à 249 salariés en ETP ;434,8
+a272 ;478;Commerce de détail sur éventaires et marchés ;Plus de 250 salariés en ETP ;227,8
+a272 ;479;Commerce de détail hors magasin, éventaires ou marchés ;Ensemble des tranches d'effectif ;18715,5
+a272 ;479;Commerce de détail hors magasin, éventaires ou marchés ;De 0 à 9 salariés en ETP ;4578,5
+a272 ;479;Commerce de détail hors magasin, éventaires ou marchés ;De 10 à 19 salariés en ETP ;944,3
+a272 ;479;Commerce de détail hors magasin, éventaires ou marchés ;De 20 à 249 salariés en ETP ;5136,9
+a272 ;479;Commerce de détail hors magasin, éventaires ou marchés ;Plus de 250 salariés en ETP ;8055,7
+a21 ;H ;Transports et entreposage ;Ensemble des tranches d'effectif ;191068,3
+a21 ;H ;Transports et entreposage ;De 0 à 9 salariés en ETP ;21948,6
+a21 ;H ;Transports et entreposage ;De 10 à 19 salariés en ETP ;9122,4
+a21 ;H ;Transports et entreposage ;De 20 à 249 salariés en ETP ;48068,8
+a21 ;H ;Transports et entreposage ;Plus de 250 salariés en ETP ;111928,4
+a88 ;49;Transports terrestres et transport par conduites ;Ensemble des tranches d'effectif ;77301,9
+a88 ;49;Transports terrestres et transport par conduites ;De 0 à 9 salariés en ETP ;13470,6
+a88 ;49;Transports terrestres et transport par conduites ;De 10 à 19 salariés en ETP ;6203,1
+a88 ;49;Transports terrestres et transport par conduites ;De 20 à 249 salariés en ETP ;26502,1
+a88 ;49;Transports terrestres et transport par conduites ;Plus de 250 salariés en ETP ;31125,2
+a272 ;491;Transport ferroviaire interurbain de voyageurs ;Ensemble des tranches d'effectif ;6119,8
+a272 ;491;Transport ferroviaire interurbain de voyageurs ;De 0 à 9 salariés en ETP ;S
+a272 ;491;Transport ferroviaire interurbain de voyageurs ;De 10 à 19 salariés en ETP ;S
+a272 ;491;Transport ferroviaire interurbain de voyageurs ;De 20 à 249 salariés en ETP ;S
+a272 ;491;Transport ferroviaire interurbain de voyageurs ;Plus de 250 salariés en ETP ;6088,5
+a272 ;492;Transports ferroviaires de fret ;Ensemble des tranches d'effectif ;1438,7
+a272 ;492;Transports ferroviaires de fret ;De 0 à 9 salariés en ETP ;S
+a272 ;492;Transports ferroviaires de fret ;De 10 à 19 salariés en ETP ;N
+a272 ;492;Transports ferroviaires de fret ;De 20 à 249 salariés en ETP ;S
+a272 ;492;Transports ferroviaires de fret ;Plus de 250 salariés en ETP ;S
+a272 ;493;Autres transports terrestres de voyageurs ;Ensemble des tranches d'effectif ;23081,2
+a272 ;493;Autres transports terrestres de voyageurs ;De 0 à 9 salariés en ETP ;S
+a272 ;493;Autres transports terrestres de voyageurs ;De 10 à 19 salariés en ETP ;S
+a272 ;493;Autres transports terrestres de voyageurs ;De 20 à 249 salariés en ETP ;S
+a272 ;493;Autres transports terrestres de voyageurs ;Plus de 250 salariés en ETP ;14169,1
+a272 ;494;Transports routiers de fret et services de déménagement ;Ensemble des tranches d'effectif ;44000,7
+a272 ;494;Transports routiers de fret et services de déménagement ;De 0 à 9 salariés en ETP ;S
+a272 ;494;Transports routiers de fret et services de déménagement ;De 10 à 19 salariés en ETP ;5493,5
+a272 ;494;Transports routiers de fret et services de déménagement ;De 20 à 249 salariés en ETP ;21178,6
+a272 ;494;Transports routiers de fret et services de déménagement ;Plus de 250 salariés en ETP ;S
+a272 ;495;Transports par conduites ;Ensemble des tranches d'effectif ;2661,6
+a272 ;495;Transports par conduites ;De 0 à 9 salariés en ETP ;168,1
+a272 ;495;Transports par conduites ;De 10 à 19 salariés en ETP ;0,2
+a272 ;495;Transports par conduites ;De 20 à 249 salariés en ETP ;S
+a272 ;495;Transports par conduites ;Plus de 250 salariés en ETP ;S
+a88 ;50;Transports par eau ;Ensemble des tranches d'effectif ;13011,2
+a88 ;50;Transports par eau ;De 0 à 9 salariés en ETP ;1059,3
+a88 ;50;Transports par eau ;De 10 à 19 salariés en ETP ;170,7
+a88 ;50;Transports par eau ;De 20 à 249 salariés en ETP ;1224,2
+a88 ;50;Transports par eau ;Plus de 250 salariés en ETP ;10557
+a272 ;501;Transports maritimes et côtiers de passagers ;Ensemble des tranches d'effectif ;974,8
+a272 ;501;Transports maritimes et côtiers de passagers ;De 0 à 9 salariés en ETP ;313,6
+a272 ;501;Transports maritimes et côtiers de passagers ;De 10 à 19 salariés en ETP ;S
+a272 ;501;Transports maritimes et côtiers de passagers ;De 20 à 249 salariés en ETP ;235,7
+a272 ;501;Transports maritimes et côtiers de passagers ;Plus de 250 salariés en ETP ;S
+a272 ;502;Transports maritimes et côtiers de fret ;Ensemble des tranches d'effectif ;11382,8
+a272 ;502;Transports maritimes et côtiers de fret ;De 0 à 9 salariés en ETP ;538,9
+a272 ;502;Transports maritimes et côtiers de fret ;De 10 à 19 salariés en ETP ;S
+a272 ;502;Transports maritimes et côtiers de fret ;De 20 à 249 salariés en ETP ;697,4
+a272 ;502;Transports maritimes et côtiers de fret ;Plus de 250 salariés en ETP ;S
+a272 ;503;Transports fluviaux de passagers ;Ensemble des tranches d'effectif ;292,2
+a272 ;503;Transports fluviaux de passagers ;De 0 à 9 salariés en ETP ;S
+a272 ;503;Transports fluviaux de passagers ;De 10 à 19 salariés en ETP ;S
+a272 ;503;Transports fluviaux de passagers ;De 20 à 249 salariés en ETP ;113,8
+a272 ;503;Transports fluviaux de passagers ;Plus de 250 salariés en ETP ;S
+a272 ;504;Transports fluviaux de fret ;Ensemble des tranches d'effectif ;361,5
+a272 ;504;Transports fluviaux de fret ;De 0 à 9 salariés en ETP ;S
+a272 ;504;Transports fluviaux de fret ;De 10 à 19 salariés en ETP ;S
+a272 ;504;Transports fluviaux de fret ;De 20 à 249 salariés en ETP ;177,3
+a272 ;504;Transports fluviaux de fret ;Plus de 250 salariés en ETP ;5,3
+a88 ;51;Transports aériens ;Ensemble des tranches d'effectif ;18260,5
+a88 ;51;Transports aériens ;De 0 à 9 salariés en ETP ;237,5
+a88 ;51;Transports aériens ;De 10 à 19 salariés en ETP ;S
+a88 ;51;Transports aériens ;De 20 à 249 salariés en ETP ;S
+a88 ;51;Transports aériens ;Plus de 250 salariés en ETP ;17441,3
+a272 ;511;Transports aériens de passagers ;Ensemble des tranches d'effectif ;15305,4
+a272 ;511;Transports aériens de passagers ;De 0 à 9 salariés en ETP ;S
+a272 ;511;Transports aériens de passagers ;De 10 à 19 salariés en ETP ;S
+a272 ;511;Transports aériens de passagers ;De 20 à 249 salariés en ETP ;S
+a272 ;511;Transports aériens de passagers ;Plus de 250 salariés en ETP ;S
+a272 ;512;Transports aériens de fret et transports spatiaux ;Ensemble des tranches d'effectif ;2955,1
+a272 ;512;Transports aériens de fret et transports spatiaux ;De 0 à 9 salariés en ETP ;S
+a272 ;512;Transports aériens de fret et transports spatiaux ;De 10 à 19 salariés en ETP ;1,3
+a272 ;512;Transports aériens de fret et transports spatiaux ;De 20 à 249 salariés en ETP ;S
+a272 ;512;Transports aériens de fret et transports spatiaux ;Plus de 250 salariés en ETP ;S
+a88 ;52;Entreposage et services auxiliaires des transports ;Ensemble des tranches d'effectif ;68837,1
+a88 ;52;Entreposage et services auxiliaires des transports ;De 0 à 9 salariés en ETP ;6796,9
+a88 ;52;Entreposage et services auxiliaires des transports ;De 10 à 19 salariés en ETP ;2606,7
+a88 ;52;Entreposage et services auxiliaires des transports ;De 20 à 249 salariés en ETP ;19623,2
+a88 ;52;Entreposage et services auxiliaires des transports ;Plus de 250 salariés en ETP ;39811,3
+a272 ;521;Entreposage et stockage ;Ensemble des tranches d'effectif ;9878,6
+a272 ;521;Entreposage et stockage ;De 0 à 9 salariés en ETP ;1080,6
+a272 ;521;Entreposage et stockage ;De 10 à 19 salariés en ETP ;456,8
+a272 ;521;Entreposage et stockage ;De 20 à 249 salariés en ETP ;3762,8
+a272 ;521;Entreposage et stockage ;Plus de 250 salariés en ETP ;4579,2
+a272 ;522;Services auxiliaires des transports ;Ensemble des tranches d'effectif ;58958,5
+a272 ;522;Services auxiliaires des transports ;De 0 à 9 salariés en ETP ;5716,3
+a272 ;522;Services auxiliaires des transports ;De 10 à 19 salariés en ETP ;2149,9
+a272 ;522;Services auxiliaires des transports ;De 20 à 249 salariés en ETP ;15860,3
+a272 ;522;Services auxiliaires des transports ;Plus de 250 salariés en ETP ;35232,1
+a88 ;53;Activités de poste et de courrier ;Ensemble des tranches d'effectif ;13657,6
+a88 ;53;Activités de poste et de courrier ;De 0 à 9 salariés en ETP ;384,3
+a88 ;53;Activités de poste et de courrier ;De 10 à 19 salariés en ETP ;S
+a88 ;53;Activités de poste et de courrier ;De 20 à 249 salariés en ETP ;S
+a88 ;53;Activités de poste et de courrier ;Plus de 250 salariés en ETP ;12993,6
+a272 ;531;Activités de poste dans le cadre d'une obligation de service universel ;Ensemble des tranches d'effectif ;13172,7
+a272 ;531;Activités de poste dans le cadre d'une obligation de service universel ;De 0 à 9 salariés en ETP ;S
+a272 ;531;Activités de poste dans le cadre d'une obligation de service universel ;De 10 à 19 salariés en ETP ;S
+a272 ;531;Activités de poste dans le cadre d'une obligation de service universel ;De 20 à 249 salariés en ETP ;S
+a272 ;531;Activités de poste dans le cadre d'une obligation de service universel ;Plus de 250 salariés en ETP ;12993,3
+a272 ;532;Autres activités de poste et de courrier ;Ensemble des tranches d'effectif ;484,9
+a272 ;532;Autres activités de poste et de courrier ;De 0 à 9 salariés en ETP ;S
+a272 ;532;Autres activités de poste et de courrier ;De 10 à 19 salariés en ETP ;S
+a272 ;532;Autres activités de poste et de courrier ;De 20 à 249 salariés en ETP ;S
+a272 ;532;Autres activités de poste et de courrier ;Plus de 250 salariés en ETP ;0,3
+a21 ;I ;Hébergement et restauration ;Ensemble des tranches d'effectif ;77511,7
+a21 ;I ;Hébergement et restauration ;De 0 à 9 salariés en ETP ;38009,9
+a21 ;I ;Hébergement et restauration ;De 10 à 19 salariés en ETP ;9273,6
+a21 ;I ;Hébergement et restauration ;De 20 à 249 salariés en ETP ;15595,7
+a21 ;I ;Hébergement et restauration ;Plus de 250 salariés en ETP ;14632,4
+a88 ;55;Hébergement ;Ensemble des tranches d'effectif ;19017,5
+a88 ;55;Hébergement ;De 0 à 9 salariés en ETP ;7372,7
+a88 ;55;Hébergement ;De 10 à 19 salariés en ETP ;2837,6
+a88 ;55;Hébergement ;De 20 à 249 salariés en ETP ;4490,4
+a88 ;55;Hébergement ;Plus de 250 salariés en ETP ;4316,7
+a272 ;551;Hôtels et hébergement similaire ;Ensemble des tranches d'effectif ;13628,2
+a272 ;551;Hôtels et hébergement similaire ;De 0 à 9 salariés en ETP ;5349,5
+a272 ;551;Hôtels et hébergement similaire ;De 10 à 19 salariés en ETP ;2446,8
+a272 ;551;Hôtels et hébergement similaire ;De 20 à 249 salariés en ETP ;3405,7
+a272 ;551;Hôtels et hébergement similaire ;Plus de 250 salariés en ETP ;2426,2
+a272 ;552;Hébergement touristique et autre hébergement de courte durée ;Ensemble des tranches d'effectif ;2956,8
+a272 ;552;Hébergement touristique et autre hébergement de courte durée ;De 0 à 9 salariés en ETP ;1020,5
+a272 ;552;Hébergement touristique et autre hébergement de courte durée ;De 10 à 19 salariés en ETP ;S
+a272 ;552;Hébergement touristique et autre hébergement de courte durée ;De 20 à 249 salariés en ETP ;S
+a272 ;552;Hébergement touristique et autre hébergement de courte durée ;Plus de 250 salariés en ETP ;S
+a272 ;553;Terrains de camping et parcs pour caravanes ou véhicules de loisirs ;Ensemble des tranches d'effectif ;1536,2
+a272 ;553;Terrains de camping et parcs pour caravanes ou véhicules de loisirs ;De 0 à 9 salariés en ETP ;922,2
+a272 ;553;Terrains de camping et parcs pour caravanes ou véhicules de loisirs ;De 10 à 19 salariés en ETP ;246,6
+a272 ;553;Terrains de camping et parcs pour caravanes ou véhicules de loisirs ;De 20 à 249 salariés en ETP ;S
+a272 ;553;Terrains de camping et parcs pour caravanes ou véhicules de loisirs ;Plus de 250 salariés en ETP ;S
+a272 ;559;Autres hébergements ;Ensemble des tranches d'effectif ;896,2
+a272 ;559;Autres hébergements ;De 0 à 9 salariés en ETP ;80,5
+a272 ;559;Autres hébergements ;De 10 à 19 salariés en ETP ;S
+a272 ;559;Autres hébergements ;De 20 à 249 salariés en ETP ;S
+a272 ;559;Autres hébergements ;Plus de 250 salariés en ETP ;S
+a88 ;56;Restauration ;Ensemble des tranches d'effectif ;58494,2
+a88 ;56;Restauration ;De 0 à 9 salariés en ETP ;30637,2
+a88 ;56;Restauration ;De 10 à 19 salariés en ETP ;6436
+a88 ;56;Restauration ;De 20 à 249 salariés en ETP ;11105,3
+a88 ;56;Restauration ;Plus de 250 salariés en ETP ;10315,7
+a272 ;561;Restaurants et services de restauration mobile ;Ensemble des tranches d'effectif ;43101
+a272 ;561;Restaurants et services de restauration mobile ;De 0 à 9 salariés en ETP ;24043,5
+a272 ;561;Restaurants et services de restauration mobile ;De 10 à 19 salariés en ETP ;5409,9
+a272 ;561;Restaurants et services de restauration mobile ;De 20 à 249 salariés en ETP ;9494,5
+a272 ;561;Restaurants et services de restauration mobile ;Plus de 250 salariés en ETP ;4153
+a272 ;562;Traiteurs et autres services de restauration ;Ensemble des tranches d'effectif ;9106,5
+a272 ;562;Traiteurs et autres services de restauration ;De 0 à 9 salariés en ETP ;1272,1
+a272 ;562;Traiteurs et autres services de restauration ;De 10 à 19 salariés en ETP ;585,1
+a272 ;562;Traiteurs et autres services de restauration ;De 20 à 249 salariés en ETP ;1218,6
+a272 ;562;Traiteurs et autres services de restauration ;Plus de 250 salariés en ETP ;6030,7
+a272 ;563;Débits de boissons ;Ensemble des tranches d'effectif ;6286,8
+a272 ;563;Débits de boissons ;De 0 à 9 salariés en ETP ;5321,6
+a272 ;563;Débits de boissons ;De 10 à 19 salariés en ETP ;441
+a272 ;563;Débits de boissons ;De 20 à 249 salariés en ETP ;392,2
+a272 ;563;Débits de boissons ;Plus de 250 salariés en ETP ;131,9
+a10 ;JZ ;Information et communication ;Ensemble des tranches d'effectif ;166306,5
+a10 ;JZ ;Information et communication ;De 0 à 9 salariés en ETP ;20730,8
+a10 ;JZ ;Information et communication ;De 10 à 19 salariés en ETP ;6726,3
+a10 ;JZ ;Information et communication ;De 20 à 249 salariés en ETP ;35409,8
+a10 ;JZ ;Information et communication ;Plus de 250 salariés en ETP ;103439,8
+a21 ;J ;Information et communication ;Ensemble des tranches d'effectif ;166306,5
+a21 ;J ;Information et communication ;De 0 à 9 salariés en ETP ;20730,8
+a21 ;J ;Information et communication ;De 10 à 19 salariés en ETP ;6726,3
+a21 ;J ;Information et communication ;De 20 à 249 salariés en ETP ;35409,8
+a21 ;J ;Information et communication ;Plus de 250 salariés en ETP ;103439,8
+a88 ;58;Édition ;Ensemble des tranches d'effectif ;25520,5
+a88 ;58;Édition ;De 0 à 9 salariés en ETP ;3950,9
+a88 ;58;Édition ;De 10 à 19 salariés en ETP ;1328,8
+a88 ;58;Édition ;De 20 à 249 salariés en ETP ;9403,2
+a88 ;58;Édition ;Plus de 250 salariés en ETP ;10837,6
+a272 ;581;Édition de livres et périodiques et autres activités d'édition ;Ensemble des tranches d'effectif ;16287,1
+a272 ;581;Édition de livres et périodiques et autres activités d'édition ;De 0 à 9 salariés en ETP ;2685,6
+a272 ;581;Édition de livres et périodiques et autres activités d'édition ;De 10 à 19 salariés en ETP ;S
+a272 ;581;Édition de livres et périodiques et autres activités d'édition ;De 20 à 249 salariés en ETP ;5904,7
+a272 ;581;Édition de livres et périodiques et autres activités d'édition ;Plus de 250 salariés en ETP ;S
+a272 ;582;Édition de logiciels ;Ensemble des tranches d'effectif ;9233,4
+a272 ;582;Édition de logiciels ;De 0 à 9 salariés en ETP ;1265,3
+a272 ;582;Édition de logiciels ;De 10 à 19 salariés en ETP ;S
+a272 ;582;Édition de logiciels ;De 20 à 249 salariés en ETP ;3498,5
+a272 ;582;Édition de logiciels ;Plus de 250 salariés en ETP ;S
+a88 ;59;Production de films cinématographiques, de vidéo et de programmes de télévision - enregistrement sonore et édition musicale ;Ensemble des tranches d'effectif ;12380,8
+a88 ;59;Production de films cinématographiques, de vidéo et de programmes de télévision - enregistrement sonore et édition musicale ;De 0 à 9 salariés en ETP ;3930
+a88 ;59;Production de films cinématographiques, de vidéo et de programmes de télévision - enregistrement sonore et édition musicale ;De 10 à 19 salariés en ETP ;1478,5
+a88 ;59;Production de films cinématographiques, de vidéo et de programmes de télévision - enregistrement sonore et édition musicale ;De 20 à 249 salariés en ETP ;6087,3
+a88 ;59;Production de films cinématographiques, de vidéo et de programmes de télévision - enregistrement sonore et édition musicale ;Plus de 250 salariés en ETP ;885
+a272 ;591;Activités cinématographiques, vidéo et de télévision ;Ensemble des tranches d'effectif ;11288,1
+a272 ;591;Activités cinématographiques, vidéo et de télévision ;De 0 à 9 salariés en ETP ;3550,6
+a272 ;591;Activités cinématographiques, vidéo et de télévision ;De 10 à 19 salariés en ETP ;S
+a272 ;591;Activités cinématographiques, vidéo et de télévision ;De 20 à 249 salariés en ETP ;5725,9
+a272 ;591;Activités cinématographiques, vidéo et de télévision ;Plus de 250 salariés en ETP ;S
+a272 ;592;Enregistrement sonore et édition musicale ;Ensemble des tranches d'effectif ;1092,6
+a272 ;592;Enregistrement sonore et édition musicale ;De 0 à 9 salariés en ETP ;379,4
+a272 ;592;Enregistrement sonore et édition musicale ;De 10 à 19 salariés en ETP ;S
+a272 ;592;Enregistrement sonore et édition musicale ;De 20 à 249 salariés en ETP ;361,4
+a272 ;592;Enregistrement sonore et édition musicale ;Plus de 250 salariés en ETP ;S
+a88 ;60;Programmation et diffusion ;Ensemble des tranches d'effectif ;10230,8
+a88 ;60;Programmation et diffusion ;De 0 à 9 salariés en ETP ;376,8
+a88 ;60;Programmation et diffusion ;De 10 à 19 salariés en ETP ;148,4
+a88 ;60;Programmation et diffusion ;De 20 à 249 salariés en ETP ;1715,5
+a88 ;60;Programmation et diffusion ;Plus de 250 salariés en ETP ;7990,1
+a272 ;601;Édition et diffusion de programmes radio ;Ensemble des tranches d'effectif ;1340,7
+a272 ;601;Édition et diffusion de programmes radio ;De 0 à 9 salariés en ETP ;70,4
+a272 ;601;Édition et diffusion de programmes radio ;De 10 à 19 salariés en ETP ;S
+a272 ;601;Édition et diffusion de programmes radio ;De 20 à 249 salariés en ETP ;503,9
+a272 ;601;Édition et diffusion de programmes radio ;Plus de 250 salariés en ETP ;S
+a272 ;602;Programmation de télévision et télédiffusion ;Ensemble des tranches d'effectif ;8890,1
+a272 ;602;Programmation de télévision et télédiffusion ;De 0 à 9 salariés en ETP ;306,5
+a272 ;602;Programmation de télévision et télédiffusion ;De 10 à 19 salariés en ETP ;S
+a272 ;602;Programmation de télévision et télédiffusion ;De 20 à 249 salariés en ETP ;1211,6
+a272 ;602;Programmation de télévision et télédiffusion ;Plus de 250 salariés en ETP ;S
+a88 ;61;Télécommunications ;Ensemble des tranches d'effectif ;66856,6
+a88 ;61;Télécommunications ;De 0 à 9 salariés en ETP ;3562,4
+a88 ;61;Télécommunications ;De 10 à 19 salariés en ETP ;804,9
+a88 ;61;Télécommunications ;De 20 à 249 salariés en ETP ;3056
+a88 ;61;Télécommunications ;Plus de 250 salariés en ETP ;59433,4
+a272 ;611;Télécommunications filaires ;Ensemble des tranches d'effectif ;26566,1
+a272 ;611;Télécommunications filaires ;De 0 à 9 salariés en ETP ;987,6
+a272 ;611;Télécommunications filaires ;De 10 à 19 salariés en ETP ;207,4
+a272 ;611;Télécommunications filaires ;De 20 à 249 salariés en ETP ;1007,5
+a272 ;611;Télécommunications filaires ;Plus de 250 salariés en ETP ;24363,7
+a272 ;612;Télécommunications sans fil ;Ensemble des tranches d'effectif ;23608,6
+a272 ;612;Télécommunications sans fil ;De 0 à 9 salariés en ETP ;1069,5
+a272 ;612;Télécommunications sans fil ;De 10 à 19 salariés en ETP ;55,1
+a272 ;612;Télécommunications sans fil ;De 20 à 249 salariés en ETP ;741,7
+a272 ;612;Télécommunications sans fil ;Plus de 250 salariés en ETP ;21742,4
+a272 ;613;Télécommunications par satellite ;Ensemble des tranches d'effectif ;3856,3
+a272 ;613;Télécommunications par satellite ;De 0 à 9 salariés en ETP ;134,3
+a272 ;613;Télécommunications par satellite ;De 10 à 19 salariés en ETP ;35,2
+a272 ;613;Télécommunications par satellite ;De 20 à 249 salariés en ETP ;294,9
+a272 ;613;Télécommunications par satellite ;Plus de 250 salariés en ETP ;3391,8
+a272 ;619;Autres activités de télécommunication ;Ensemble des tranches d'effectif ;12825,6
+a272 ;619;Autres activités de télécommunication ;De 0 à 9 salariés en ETP ;1371,1
+a272 ;619;Autres activités de télécommunication ;De 10 à 19 salariés en ETP ;507,2
+a272 ;619;Autres activités de télécommunication ;De 20 à 249 salariés en ETP ;1011,8
+a272 ;619;Autres activités de télécommunication ;Plus de 250 salariés en ETP ;9935,5
+a88 ;62;Programmation, conseil et autres activités informatiques ;Ensemble des tranches d'effectif ;42544
+a88 ;62;Programmation, conseil et autres activités informatiques ;De 0 à 9 salariés en ETP ;6894,8
+a88 ;62;Programmation, conseil et autres activités informatiques ;De 10 à 19 salariés en ETP ;2270,9
+a88 ;62;Programmation, conseil et autres activités informatiques ;De 20 à 249 salariés en ETP ;12026,3
+a88 ;62;Programmation, conseil et autres activités informatiques ;Plus de 250 salariés en ETP ;21351,9
+a272 ;620;Programmation, conseil et autres activités informatiques ;Ensemble des tranches d'effectif ;42544
+a272 ;620;Programmation, conseil et autres activités informatiques ;De 0 à 9 salariés en ETP ;6894,8
+a272 ;620;Programmation, conseil et autres activités informatiques ;De 10 à 19 salariés en ETP ;2270,9
+a272 ;620;Programmation, conseil et autres activités informatiques ;De 20 à 249 salariés en ETP ;12026,3
+a272 ;620;Programmation, conseil et autres activités informatiques ;Plus de 250 salariés en ETP ;21351,9
+a88 ;63;Services d'information ;Ensemble des tranches d'effectif ;8773,8
+a88 ;63;Services d'information ;De 0 à 9 salariés en ETP ;2015,8
+a88 ;63;Services d'information ;De 10 à 19 salariés en ETP ;694,8
+a88 ;63;Services d'information ;De 20 à 249 salariés en ETP ;3121,5
+a88 ;63;Services d'information ;Plus de 250 salariés en ETP ;2941,8
+a272 ;631;Traitement de données, hébergement et activités connexes - portails Internet ;Ensemble des tranches d'effectif ;7308,2
+a272 ;631;Traitement de données, hébergement et activités connexes - portails Internet ;De 0 à 9 salariés en ETP ;1681,8
+a272 ;631;Traitement de données, hébergement et activités connexes - portails Internet ;De 10 à 19 salariés en ETP ;S
+a272 ;631;Traitement de données, hébergement et activités connexes - portails Internet ;De 20 à 249 salariés en ETP ;2565,1
+a272 ;631;Traitement de données, hébergement et activités connexes - portails Internet ;Plus de 250 salariés en ETP ;S
+a272 ;639;Autres services d'information ;Ensemble des tranches d'effectif ;1465,6
+a272 ;639;Autres services d'information ;De 0 à 9 salariés en ETP ;334
+a272 ;639;Autres services d'information ;De 10 à 19 salariés en ETP ;S
+a272 ;639;Autres services d'information ;De 20 à 249 salariés en ETP ;556,4
+a272 ;639;Autres services d'information ;Plus de 250 salariés en ETP ;S
+a10 ;KZ ;Activités auxiliaires de services financiers et d'assurance ;Ensemble des tranches d'effectif ;50934,9
+a10 ;KZ ;Activités auxiliaires de services financiers et d'assurance ;De 0 à 9 salariés en ETP ;23261,7
+a10 ;KZ ;Activités auxiliaires de services financiers et d'assurance ;De 10 à 19 salariés en ETP ;4119,9
+a10 ;KZ ;Activités auxiliaires de services financiers et d'assurance ;De 20 à 249 salariés en ETP ;12795,7
+a10 ;KZ ;Activités auxiliaires de services financiers et d'assurance ;Plus de 250 salariés en ETP ;10757,6
+a21 ;K ;Activités auxiliaires de services financiers et d'assurance ;Ensemble des tranches d'effectif ;50934,9
+a21 ;K ;Activités auxiliaires de services financiers et d'assurance ;De 0 à 9 salariés en ETP ;23261,7
+a21 ;K ;Activités auxiliaires de services financiers et d'assurance ;De 10 à 19 salariés en ETP ;4119,9
+a21 ;K ;Activités auxiliaires de services financiers et d'assurance ;De 20 à 249 salariés en ETP ;12795,7
+a21 ;K ;Activités auxiliaires de services financiers et d'assurance ;Plus de 250 salariés en ETP ;10757,6
+a88 ;64;Activités des services financiers, hors assurance et caisses de retraite ;Ensemble des tranches d'effectif ;20205,9
+a88 ;64;Activités des services financiers, hors assurance et caisses de retraite ;De 0 à 9 salariés en ETP ;13650,8
+a88 ;64;Activités des services financiers, hors assurance et caisses de retraite ;De 10 à 19 salariés en ETP ;2120,9
+a88 ;64;Activités des services financiers, hors assurance et caisses de retraite ;De 20 à 249 salariés en ETP ;3111,1
+a88 ;64;Activités des services financiers, hors assurance et caisses de retraite ;Plus de 250 salariés en ETP ;1323,2
+a272 ;642;Activités des sociétés holding ;Ensemble des tranches d'effectif ;20205,9
+a272 ;642;Activités des sociétés holding ;De 0 à 9 salariés en ETP ;13650,8
+a272 ;642;Activités des sociétés holding ;De 10 à 19 salariés en ETP ;2120,9
+a272 ;642;Activités des sociétés holding ;De 20 à 249 salariés en ETP ;3111,1
+a272 ;642;Activités des sociétés holding ;Plus de 250 salariés en ETP ;1323,2
+a88 ;66;Activités auxiliaires de services financiers et d'assurance ;Ensemble des tranches d'effectif ;30729
+a88 ;66;Activités auxiliaires de services financiers et d'assurance ;De 0 à 9 salariés en ETP ;9610,9
+a88 ;66;Activités auxiliaires de services financiers et d'assurance ;De 10 à 19 salariés en ETP ;1999
+a88 ;66;Activités auxiliaires de services financiers et d'assurance ;De 20 à 249 salariés en ETP ;9684,6
+a88 ;66;Activités auxiliaires de services financiers et d'assurance ;Plus de 250 salariés en ETP ;9434,4
+a272 ;661;Activités auxiliaires de services financiers, hors assurance et caisses de retraite ;Ensemble des tranches d'effectif ;6650,4
+a272 ;661;Activités auxiliaires de services financiers, hors assurance et caisses de retraite ;De 0 à 9 salariés en ETP ;2556,9
+a272 ;661;Activités auxiliaires de services financiers, hors assurance et caisses de retraite ;De 10 à 19 salariés en ETP ;S
+a272 ;661;Activités auxiliaires de services financiers, hors assurance et caisses de retraite ;De 20 à 249 salariés en ETP ;1939,4
+a272 ;661;Activités auxiliaires de services financiers, hors assurance et caisses de retraite ;Plus de 250 salariés en ETP ;S
+a272 ;662;Activités auxiliaires d'assurance et de caisses de retraite ;Ensemble des tranches d'effectif ;10909,4
+a272 ;662;Activités auxiliaires d'assurance et de caisses de retraite ;De 0 à 9 salariés en ETP ;5086,6
+a272 ;662;Activités auxiliaires d'assurance et de caisses de retraite ;De 10 à 19 salariés en ETP ;S
+a272 ;662;Activités auxiliaires d'assurance et de caisses de retraite ;De 20 à 249 salariés en ETP ;2521
+a272 ;662;Activités auxiliaires d'assurance et de caisses de retraite ;Plus de 250 salariés en ETP ;S
+a272 ;663;Gestion de fonds ;Ensemble des tranches d'effectif ;13169,2
+a272 ;663;Gestion de fonds ;De 0 à 9 salariés en ETP ;1967,3
+a272 ;663;Gestion de fonds ;De 10 à 19 salariés en ETP ;762,6
+a272 ;663;Gestion de fonds ;De 20 à 249 salariés en ETP ;5224,2
+a272 ;663;Gestion de fonds ;Plus de 250 salariés en ETP ;5215
+a10 ;LZ ;Activités immobilières ;Ensemble des tranches d'effectif ;74587,7
+a10 ;LZ ;Activités immobilières ;De 0 à 9 salariés en ETP ;37953,5
+a10 ;LZ ;Activités immobilières ;De 10 à 19 salariés en ETP ;2556,1
+a10 ;LZ ;Activités immobilières ;De 20 à 249 salariés en ETP ;18103,9
+a10 ;LZ ;Activités immobilières ;Plus de 250 salariés en ETP ;15981,5
+a21 ;L ;Activités immobilières ;Ensemble des tranches d'effectif ;74587,7
+a21 ;L ;Activités immobilières ;De 0 à 9 salariés en ETP ;37953,5
+a21 ;L ;Activités immobilières ;De 10 à 19 salariés en ETP ;2556,1
+a21 ;L ;Activités immobilières ;De 20 à 249 salariés en ETP ;18103,9
+a21 ;L ;Activités immobilières ;Plus de 250 salariés en ETP ;15981,5
+a88 ;68;Activités immobilières ;Ensemble des tranches d'effectif ;74587,7
+a88 ;68;Activités immobilières ;De 0 à 9 salariés en ETP ;37953,5
+a88 ;68;Activités immobilières ;De 10 à 19 salariés en ETP ;2556,1
+a88 ;68;Activités immobilières ;De 20 à 249 salariés en ETP ;18103,9
+a88 ;68;Activités immobilières ;Plus de 250 salariés en ETP ;15981,5
+a272 ;681;Activités des marchands de biens immobiliers ;Ensemble des tranches d'effectif ;6589,5
+a272 ;681;Activités des marchands de biens immobiliers ;De 0 à 9 salariés en ETP ;6300,4
+a272 ;681;Activités des marchands de biens immobiliers ;De 10 à 19 salariés en ETP ;114,5
+a272 ;681;Activités des marchands de biens immobiliers ;De 20 à 249 salariés en ETP ;175,3
+a272 ;681;Activités des marchands de biens immobiliers ;Plus de 250 salariés en ETP ;5,9
+a272 ;682;Location et exploitation de biens immobiliers propres ou loués ;Ensemble des tranches d'effectif ;53100,7
+a272 ;682;Location et exploitation de biens immobiliers propres ou loués ;De 0 à 9 salariés en ETP ;22143
+a272 ;682;Location et exploitation de biens immobiliers propres ou loués ;De 10 à 19 salariés en ETP ;1062
+a272 ;682;Location et exploitation de biens immobiliers propres ou loués ;De 20 à 249 salariés en ETP ;14742
+a272 ;682;Location et exploitation de biens immobiliers propres ou loués ;Plus de 250 salariés en ETP ;15154,3
+a272 ;683;Activités immobilières pour compte de tiers ;Ensemble des tranches d'effectif ;14897,6
+a272 ;683;Activités immobilières pour compte de tiers ;De 0 à 9 salariés en ETP ;9510,2
+a272 ;683;Activités immobilières pour compte de tiers ;De 10 à 19 salariés en ETP ;1379,5
+a272 ;683;Activités immobilières pour compte de tiers ;De 20 à 249 salariés en ETP ;3186,6
+a272 ;683;Activités immobilières pour compte de tiers ;Plus de 250 salariés en ETP ;821,3
+a10 ;MN ;Activités spécialisées, scientifiques et techniques et activités de services administratifs et de soutien ;Ensemble des tranches d'effectif ;361291
+a10 ;MN ;Activités spécialisées, scientifiques et techniques et activités de services administratifs et de soutien ;De 0 à 9 salariés en ETP ;114936,7
+a10 ;MN ;Activités spécialisées, scientifiques et techniques et activités de services administratifs et de soutien ;De 10 à 19 salariés en ETP ;28042,1
+a10 ;MN ;Activités spécialisées, scientifiques et techniques et activités de services administratifs et de soutien ;De 20 à 249 salariés en ETP ;93727,6
+a10 ;MN ;Activités spécialisées, scientifiques et techniques et activités de services administratifs et de soutien ;Plus de 250 salariés en ETP ;124575,7
+a21 ;M ;Activités spécialisées, scientifiques et techniques ;Ensemble des tranches d'effectif ;210952
+a21 ;M ;Activités spécialisées, scientifiques et techniques ;De 0 à 9 salariés en ETP ;69359,3
+a21 ;M ;Activités spécialisées, scientifiques et techniques ;De 10 à 19 salariés en ETP ;18281,3
+a21 ;M ;Activités spécialisées, scientifiques et techniques ;De 20 à 249 salariés en ETP ;52989,5
+a21 ;M ;Activités spécialisées, scientifiques et techniques ;Plus de 250 salariés en ETP ;70319,5
+a88 ;69;Activités juridiques et comptables ;Ensemble des tranches d'effectif ;35007,7
+a88 ;69;Activités juridiques et comptables ;De 0 à 9 salariés en ETP ;18237,3
+a88 ;69;Activités juridiques et comptables ;De 10 à 19 salariés en ETP ;5079,8
+a88 ;69;Activités juridiques et comptables ;De 20 à 249 salariés en ETP ;7444,2
+a88 ;69;Activités juridiques et comptables ;Plus de 250 salariés en ETP ;4246,6
+a272 ;691;Activités juridiques ;Ensemble des tranches d'effectif ;19702
+a272 ;691;Activités juridiques ;De 0 à 9 salariés en ETP ;12704,4
+a272 ;691;Activités juridiques ;De 10 à 19 salariés en ETP ;2499,9
+a272 ;691;Activités juridiques ;De 20 à 249 salariés en ETP ;3461,8
+a272 ;691;Activités juridiques ;Plus de 250 salariés en ETP ;1035,9
+a272 ;692;Activités comptables ;Ensemble des tranches d'effectif ;15305,7
+a272 ;692;Activités comptables ;De 0 à 9 salariés en ETP ;5532,9
+a272 ;692;Activités comptables ;De 10 à 19 salariés en ETP ;2579,8
+a272 ;692;Activités comptables ;De 20 à 249 salariés en ETP ;3982,5
+a272 ;692;Activités comptables ;Plus de 250 salariés en ETP ;3210,7
+a88 ;70;Activités des sièges sociaux - conseil de gestion ;Ensemble des tranches d'effectif ;73733,8
+a88 ;70;Activités des sièges sociaux - conseil de gestion ;De 0 à 9 salariés en ETP ;19453
+a88 ;70;Activités des sièges sociaux - conseil de gestion ;De 10 à 19 salariés en ETP ;4874,2
+a88 ;70;Activités des sièges sociaux - conseil de gestion ;De 20 à 249 salariés en ETP ;18840
+a88 ;70;Activités des sièges sociaux - conseil de gestion ;Plus de 250 salariés en ETP ;30565,3
+a272 ;701;Activités des sièges sociaux ;Ensemble des tranches d'effectif ;47753,9
+a272 ;701;Activités des sièges sociaux ;De 0 à 9 salariés en ETP ;6065,1
+a272 ;701;Activités des sièges sociaux ;De 10 à 19 salariés en ETP ;2952,2
+a272 ;701;Activités des sièges sociaux ;De 20 à 249 salariés en ETP ;12301,6
+a272 ;701;Activités des sièges sociaux ;Plus de 250 salariés en ETP ;26433,8
+a272 ;702;Conseil de gestion ;Ensemble des tranches d'effectif ;25979,9
+a272 ;702;Conseil de gestion ;De 0 à 9 salariés en ETP ;13388
+a272 ;702;Conseil de gestion ;De 10 à 19 salariés en ETP ;1922,1
+a272 ;702;Conseil de gestion ;De 20 à 249 salariés en ETP ;6538,3
+a272 ;702;Conseil de gestion ;Plus de 250 salariés en ETP ;4131,5
+a88 ;71;Activités d'architecture et d'ingénierie - activités de contrôle et analyses techniques ;Ensemble des tranches d'effectif ;56202,9
+a88 ;71;Activités d'architecture et d'ingénierie - activités de contrôle et analyses techniques ;De 0 à 9 salariés en ETP ;17850,5
+a88 ;71;Activités d'architecture et d'ingénierie - activités de contrôle et analyses techniques ;De 10 à 19 salariés en ETP ;5262,1
+a88 ;71;Activités d'architecture et d'ingénierie - activités de contrôle et analyses techniques ;De 20 à 249 salariés en ETP ;14566,3
+a88 ;71;Activités d'architecture et d'ingénierie - activités de contrôle et analyses techniques ;Plus de 250 salariés en ETP ;18523,7
+a272 ;711;Activités d'architecture et d'ingénierie ;Ensemble des tranches d'effectif ;50131,7
+a272 ;711;Activités d'architecture et d'ingénierie ;De 0 à 9 salariés en ETP ;16051,5
+a272 ;711;Activités d'architecture et d'ingénierie ;De 10 à 19 salariés en ETP ;S
+a272 ;711;Activités d'architecture et d'ingénierie ;De 20 à 249 salariés en ETP ;12973,1
+a272 ;711;Activités d'architecture et d'ingénierie ;Plus de 250 salariés en ETP ;S
+a272 ;712;Activités de contrôle et analyses techniques ;Ensemble des tranches d'effectif ;6071,2
+a272 ;712;Activités de contrôle et analyses techniques ;De 0 à 9 salariés en ETP ;1799
+a272 ;712;Activités de contrôle et analyses techniques ;De 10 à 19 salariés en ETP ;S
+a272 ;712;Activités de contrôle et analyses techniques ;De 20 à 249 salariés en ETP ;1593,3
+a272 ;712;Activités de contrôle et analyses techniques ;Plus de 250 salariés en ETP ;S
+a88 ;72;Recherche-développement scientifique ;Ensemble des tranches d'effectif ;10600,3
+a88 ;72;Recherche-développement scientifique ;De 0 à 9 salariés en ETP ;869,4
+a88 ;72;Recherche-développement scientifique ;De 10 à 19 salariés en ETP ;327,8
+a88 ;72;Recherche-développement scientifique ;De 20 à 249 salariés en ETP ;1857,4
+a88 ;72;Recherche-développement scientifique ;Plus de 250 salariés en ETP ;7545,7
+a272 ;721;Recherche-développement en sciences physiques et naturelles ;Ensemble des tranches d'effectif ;10489,4
+a272 ;721;Recherche-développement en sciences physiques et naturelles ;De 0 à 9 salariés en ETP ;817,7
+a272 ;721;Recherche-développement en sciences physiques et naturelles ;De 10 à 19 salariés en ETP ;301,3
+a272 ;721;Recherche-développement en sciences physiques et naturelles ;De 20 à 249 salariés en ETP ;1824,6
+a272 ;721;Recherche-développement en sciences physiques et naturelles ;Plus de 250 salariés en ETP ;7545,7
+a272 ;722;Recherche-développement en sciences humaines et sociales ;Ensemble des tranches d'effectif ;110,9
+a272 ;722;Recherche-développement en sciences humaines et sociales ;De 0 à 9 salariés en ETP ;51,7
+a272 ;722;Recherche-développement en sciences humaines et sociales ;De 10 à 19 salariés en ETP ;26,4
+a272 ;722;Recherche-développement en sciences humaines et sociales ;De 20 à 249 salariés en ETP ;32,8
+a272 ;722;Recherche-développement en sciences humaines et sociales ;Plus de 250 salariés en ETP ;N
+a88 ;73;Publicité et études de marché ;Ensemble des tranches d'effectif ;25561
+a88 ;73;Publicité et études de marché ;De 0 à 9 salariés en ETP ;6562,9
+a88 ;73;Publicité et études de marché ;De 10 à 19 salariés en ETP ;2189,7
+a88 ;73;Publicité et études de marché ;De 20 à 249 salariés en ETP ;8928,5
+a88 ;73;Publicité et études de marché ;Plus de 250 salariés en ETP ;7878,8
+a272 ;731;Publicité ;Ensemble des tranches d'effectif ;22769,2
+a272 ;731;Publicité ;De 0 à 9 salariés en ETP ;5493,2
+a272 ;731;Publicité ;De 10 à 19 salariés en ETP ;2068,1
+a272 ;731;Publicité ;De 20 à 249 salariés en ETP ;7980
+a272 ;731;Publicité ;Plus de 250 salariés en ETP ;7226,9
+a272 ;732;Études de marché et sondages ;Ensemble des tranches d'effectif ;2791,8
+a272 ;732;Études de marché et sondages ;De 0 à 9 salariés en ETP ;1069,7
+a272 ;732;Études de marché et sondages ;De 10 à 19 salariés en ETP ;121,6
+a272 ;732;Études de marché et sondages ;De 20 à 249 salariés en ETP ;948,6
+a272 ;732;Études de marché et sondages ;Plus de 250 salariés en ETP ;651,9
+a88 ;74;Autres activités spécialisées, scientifiques et techniques ;Ensemble des tranches d'effectif ;7554,2
+a88 ;74;Autres activités spécialisées, scientifiques et techniques ;De 0 à 9 salariés en ETP ;4235,6
+a88 ;74;Autres activités spécialisées, scientifiques et techniques ;De 10 à 19 salariés en ETP ;422,9
+a88 ;74;Autres activités spécialisées, scientifiques et techniques ;De 20 à 249 salariés en ETP ;1336,3
+a88 ;74;Autres activités spécialisées, scientifiques et techniques ;Plus de 250 salariés en ETP ;1559,4
+a272 ;741;Activités spécialisées de design ;Ensemble des tranches d'effectif ;1605,8
+a272 ;741;Activités spécialisées de design ;De 0 à 9 salariés en ETP ;1159,3
+a272 ;741;Activités spécialisées de design ;De 10 à 19 salariés en ETP ;70
+a272 ;741;Activités spécialisées de design ;De 20 à 249 salariés en ETP ;324
+a272 ;741;Activités spécialisées de design ;Plus de 250 salariés en ETP ;52,5
+a272 ;742;Activités photographiques ;Ensemble des tranches d'effectif ;1201
+a272 ;742;Activités photographiques ;De 0 à 9 salariés en ETP ;740,5
+a272 ;742;Activités photographiques ;De 10 à 19 salariés en ETP ;S
+a272 ;742;Activités photographiques ;De 20 à 249 salariés en ETP ;226,3
+a272 ;742;Activités photographiques ;Plus de 250 salariés en ETP ;S
+a272 ;743;Traduction et interprétation ;Ensemble des tranches d'effectif ;627,1
+a272 ;743;Traduction et interprétation ;De 0 à 9 salariés en ETP ;500,6
+a272 ;743;Traduction et interprétation ;De 10 à 19 salariés en ETP ;50,3
+a272 ;743;Traduction et interprétation ;De 20 à 249 salariés en ETP ;76,2
+a272 ;743;Traduction et interprétation ;Plus de 250 salariés en ETP ;N
+a272 ;749;Autres activités spécialisées, scientifiques et techniques n.c.a. ;Ensemble des tranches d'effectif ;4120,3
+a272 ;749;Autres activités spécialisées, scientifiques et techniques n.c.a. ;De 0 à 9 salariés en ETP ;1835,2
+a272 ;749;Autres activités spécialisées, scientifiques et techniques n.c.a. ;De 10 à 19 salariés en ETP ;S
+a272 ;749;Autres activités spécialisées, scientifiques et techniques n.c.a. ;De 20 à 249 salariés en ETP ;709,9
+a272 ;749;Autres activités spécialisées, scientifiques et techniques n.c.a. ;Plus de 250 salariés en ETP ;S
+a88 ;75;Activités vétérinaires ;Ensemble des tranches d'effectif ;2292,2
+a88 ;75;Activités vétérinaires ;De 0 à 9 salariés en ETP ;2150,6
+a88 ;75;Activités vétérinaires ;De 10 à 19 salariés en ETP ;125
+a88 ;75;Activités vétérinaires ;De 20 à 249 salariés en ETP ;16,7
+a88 ;75;Activités vétérinaires ;Plus de 250 salariés en ETP ;N
+a272 ;750;Activités vétérinaires ;Ensemble des tranches d'effectif ;2292,2
+a272 ;750;Activités vétérinaires ;De 0 à 9 salariés en ETP ;2150,6
+a272 ;750;Activités vétérinaires ;De 10 à 19 salariés en ETP ;125
+a272 ;750;Activités vétérinaires ;De 20 à 249 salariés en ETP ;16,7
+a272 ;750;Activités vétérinaires ;Plus de 250 salariés en ETP ;N
+a21 ;N ;Activités de services administratifs et de soutien ;Ensemble des tranches d'effectif ;150339
+a21 ;N ;Activités de services administratifs et de soutien ;De 0 à 9 salariés en ETP ;45577,4
+a21 ;N ;Activités de services administratifs et de soutien ;De 10 à 19 salariés en ETP ;9760,8
+a21 ;N ;Activités de services administratifs et de soutien ;De 20 à 249 salariés en ETP ;40738,1
+a21 ;N ;Activités de services administratifs et de soutien ;Plus de 250 salariés en ETP ;54256,1
+a88 ;77;Activités de location et location-bail ;Ensemble des tranches d'effectif ;34491,7
+a88 ;77;Activités de location et location-bail ;De 0 à 9 salariés en ETP ;14972,3
+a88 ;77;Activités de location et location-bail ;De 10 à 19 salariés en ETP ;2000,6
+a88 ;77;Activités de location et location-bail ;De 20 à 249 salariés en ETP ;8807,6
+a88 ;77;Activités de location et location-bail ;Plus de 250 salariés en ETP ;8705,8
+a272 ;771;Location et location-bail de véhicules automobiles ;Ensemble des tranches d'effectif ;10877,6
+a272 ;771;Location et location-bail de véhicules automobiles ;De 0 à 9 salariés en ETP ;4841,2
+a272 ;771;Location et location-bail de véhicules automobiles ;De 10 à 19 salariés en ETP ;696,5
+a272 ;771;Location et location-bail de véhicules automobiles ;De 20 à 249 salariés en ETP ;2409,1
+a272 ;771;Location et location-bail de véhicules automobiles ;Plus de 250 salariés en ETP ;2930,4
+a272 ;772;Location et location-bail de biens personnels et domestiques ;Ensemble des tranches d'effectif ;3844,2
+a272 ;772;Location et location-bail de biens personnels et domestiques ;De 0 à 9 salariés en ETP ;1515,7
+a272 ;772;Location et location-bail de biens personnels et domestiques ;De 10 à 19 salariés en ETP ;S
+a272 ;772;Location et location-bail de biens personnels et domestiques ;De 20 à 249 salariés en ETP ;S
+a272 ;772;Location et location-bail de biens personnels et domestiques ;Plus de 250 salariés en ETP ;S
+a272 ;773;Location et location-bail d'autres machines, équipements et biens ;Ensemble des tranches d'effectif ;17503,5
+a272 ;773;Location et location-bail d'autres machines, équipements et biens ;De 0 à 9 salariés en ETP ;7744,6
+a272 ;773;Location et location-bail d'autres machines, équipements et biens ;De 10 à 19 salariés en ETP ;S
+a272 ;773;Location et location-bail d'autres machines, équipements et biens ;De 20 à 249 salariés en ETP ;4868,4
+a272 ;773;Location et location-bail d'autres machines, équipements et biens ;Plus de 250 salariés en ETP ;S
+a272 ;774;Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright ;Ensemble des tranches d'effectif ;2266,3
+a272 ;774;Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright ;De 0 à 9 salariés en ETP ;870,8
+a272 ;774;Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright ;De 10 à 19 salariés en ETP ;S
+a272 ;774;Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright ;De 20 à 249 salariés en ETP ;S
+a272 ;774;Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright ;Plus de 250 salariés en ETP ;S
+a88 ;78;Activités liées à l'emploi ;Ensemble des tranches d'effectif ;28499,4
+a88 ;78;Activités liées à l'emploi ;De 0 à 9 salariés en ETP ;6687,9
+a88 ;78;Activités liées à l'emploi ;De 10 à 19 salariés en ETP ;1178,6
+a88 ;78;Activités liées à l'emploi ;De 20 à 249 salariés en ETP ;4036,7
+a88 ;78;Activités liées à l'emploi ;Plus de 250 salariés en ETP ;16596,3
+a272 ;781;Activités des agences de placement de main-d'œuvre ;Ensemble des tranches d'effectif ;1298,8
+a272 ;781;Activités des agences de placement de main-d'œuvre ;De 0 à 9 salariés en ETP ;418,7
+a272 ;781;Activités des agences de placement de main-d'œuvre ;De 10 à 19 salariés en ETP ;183,6
+a272 ;781;Activités des agences de placement de main-d'œuvre ;De 20 à 249 salariés en ETP ;447,2
+a272 ;781;Activités des agences de placement de main-d'œuvre ;Plus de 250 salariés en ETP ;249,3
+a272 ;782;Activités des agences de travail temporaire ;Ensemble des tranches d'effectif ;23112
+a272 ;782;Activités des agences de travail temporaire ;De 0 à 9 salariés en ETP ;5747,5
+a272 ;782;Activités des agences de travail temporaire ;De 10 à 19 salariés en ETP ;821,3
+a272 ;782;Activités des agences de travail temporaire ;De 20 à 249 salariés en ETP ;2448
+a272 ;782;Activités des agences de travail temporaire ;Plus de 250 salariés en ETP ;14095,2
+a272 ;783;Autre mise à disposition de ressources humaines ;Ensemble des tranches d'effectif ;4088,6
+a272 ;783;Autre mise à disposition de ressources humaines ;De 0 à 9 salariés en ETP ;521,7
+a272 ;783;Autre mise à disposition de ressources humaines ;De 10 à 19 salariés en ETP ;173,7
+a272 ;783;Autre mise à disposition de ressources humaines ;De 20 à 249 salariés en ETP ;1141,5
+a272 ;783;Autre mise à disposition de ressources humaines ;Plus de 250 salariés en ETP ;2251,8
+a88 ;79;Activités des agences de voyage, voyagistes, services de réservation et activités connexes ;Ensemble des tranches d'effectif ;13814,6
+a88 ;79;Activités des agences de voyage, voyagistes, services de réservation et activités connexes ;De 0 à 9 salariés en ETP ;4517,9
+a88 ;79;Activités des agences de voyage, voyagistes, services de réservation et activités connexes ;De 10 à 19 salariés en ETP ;S
+a88 ;79;Activités des agences de voyage, voyagistes, services de réservation et activités connexes ;De 20 à 249 salariés en ETP ;3830,8
+a88 ;79;Activités des agences de voyage, voyagistes, services de réservation et activités connexes ;Plus de 250 salariés en ETP ;S
+a272 ;791;Activités des agences de voyage et voyagistes ;Ensemble des tranches d'effectif ;11528,2
+a272 ;791;Activités des agences de voyage et voyagistes ;De 0 à 9 salariés en ETP ;3625,9
+a272 ;791;Activités des agences de voyage et voyagistes ;De 10 à 19 salariés en ETP ;S
+a272 ;791;Activités des agences de voyage et voyagistes ;De 20 à 249 salariés en ETP ;S
+a272 ;791;Activités des agences de voyage et voyagistes ;Plus de 250 salariés en ETP ;S
+a272 ;799;Autres services de réservation et activités connexes ;Ensemble des tranches d'effectif ;2286,4
+a272 ;799;Autres services de réservation et activités connexes ;De 0 à 9 salariés en ETP ;892
+a272 ;799;Autres services de réservation et activités connexes ;De 10 à 19 salariés en ETP ;S
+a272 ;799;Autres services de réservation et activités connexes ;De 20 à 249 salariés en ETP ;S
+a272 ;799;Autres services de réservation et activités connexes ;Plus de 250 salariés en ETP ;S
+a88 ;80;Enquêtes et sécurité ;Ensemble des tranches d'effectif ;7926,1
+a88 ;80;Enquêtes et sécurité ;De 0 à 9 salariés en ETP ;1548,5
+a88 ;80;Enquêtes et sécurité ;De 10 à 19 salariés en ETP ;S
+a88 ;80;Enquêtes et sécurité ;De 20 à 249 salariés en ETP ;2711,4
+a88 ;80;Enquêtes et sécurité ;Plus de 250 salariés en ETP ;S
+a272 ;801;Activités de sécurité privée ;Ensemble des tranches d'effectif ;5902,2
+a272 ;801;Activités de sécurité privée ;De 0 à 9 salariés en ETP ;986,6
+a272 ;801;Activités de sécurité privée ;De 10 à 19 salariés en ETP ;274,3
+a272 ;801;Activités de sécurité privée ;De 20 à 249 salariés en ETP ;2034,3
+a272 ;801;Activités de sécurité privée ;Plus de 250 salariés en ETP ;2607
+a272 ;802;Activités liées aux systèmes de sécurité ;Ensemble des tranches d'effectif ;1963,2
+a272 ;802;Activités liées aux systèmes de sécurité ;De 0 à 9 salariés en ETP ;528,6
+a272 ;802;Activités liées aux systèmes de sécurité ;De 10 à 19 salariés en ETP ;S
+a272 ;802;Activités liées aux systèmes de sécurité ;De 20 à 249 salariés en ETP ;S
+a272 ;802;Activités liées aux systèmes de sécurité ;Plus de 250 salariés en ETP ;S
+a272 ;803;Activités d'enquête ;Ensemble des tranches d'effectif ;60,6
+a272 ;803;Activités d'enquête ;De 0 à 9 salariés en ETP ;33,3
+a272 ;803;Activités d'enquête ;De 10 à 19 salariés en ETP ;S
+a272 ;803;Activités d'enquête ;De 20 à 249 salariés en ETP ;S
+a272 ;803;Activités d'enquête ;Plus de 250 salariés en ETP ;N
+a88 ;81;Services relatifs aux bâtiments et aménagement paysager ;Ensemble des tranches d'effectif ;17913,8
+a88 ;81;Services relatifs aux bâtiments et aménagement paysager ;De 0 à 9 salariés en ETP ;5515,1
+a88 ;81;Services relatifs aux bâtiments et aménagement paysager ;De 10 à 19 salariés en ETP ;1595,1
+a88 ;81;Services relatifs aux bâtiments et aménagement paysager ;De 20 à 249 salariés en ETP ;4734,2
+a88 ;81;Services relatifs aux bâtiments et aménagement paysager ;Plus de 250 salariés en ETP ;6072,1
+a272 ;811;Activités combinées de soutien lié aux bâtiments ;Ensemble des tranches d'effectif ;666,5
+a272 ;811;Activités combinées de soutien lié aux bâtiments ;De 0 à 9 salariés en ETP ;74,9
+a272 ;811;Activités combinées de soutien lié aux bâtiments ;De 10 à 19 salariés en ETP ;19,8
+a272 ;811;Activités combinées de soutien lié aux bâtiments ;De 20 à 249 salariés en ETP ;139,2
+a272 ;811;Activités combinées de soutien lié aux bâtiments ;Plus de 250 salariés en ETP ;432,7
+a272 ;812;Activités de nettoyage ;Ensemble des tranches d'effectif ;11840,8
+a272 ;812;Activités de nettoyage ;De 0 à 9 salariés en ETP ;2435,3
+a272 ;812;Activités de nettoyage ;De 10 à 19 salariés en ETP ;868,8
+a272 ;812;Activités de nettoyage ;De 20 à 249 salariés en ETP ;3221
+a272 ;812;Activités de nettoyage ;Plus de 250 salariés en ETP ;5318,7
+a272 ;813;Services d'aménagement paysager ;Ensemble des tranches d'effectif ;5406,5
+a272 ;813;Services d'aménagement paysager ;De 0 à 9 salariés en ETP ;3005
+a272 ;813;Services d'aménagement paysager ;De 10 à 19 salariés en ETP ;706,5
+a272 ;813;Services d'aménagement paysager ;De 20 à 249 salariés en ETP ;1374,1
+a272 ;813;Services d'aménagement paysager ;Plus de 250 salariés en ETP ;320,8
+a88 ;82;Activités administratives et autres activités de soutien aux entreprises ;Ensemble des tranches d'effectif ;47693,5
+a88 ;82;Activités administratives et autres activités de soutien aux entreprises ;De 0 à 9 salariés en ETP ;12335,8
+a88 ;82;Activités administratives et autres activités de soutien aux entreprises ;De 10 à 19 salariés en ETP ;2645,5
+a88 ;82;Activités administratives et autres activités de soutien aux entreprises ;De 20 à 249 salariés en ETP ;16617,4
+a88 ;82;Activités administratives et autres activités de soutien aux entreprises ;Plus de 250 salariés en ETP ;16090,5
+a272 ;821;Activités administratives ;Ensemble des tranches d'effectif ;3820,7
+a272 ;821;Activités administratives ;De 0 à 9 salariés en ETP ;1043,9
+a272 ;821;Activités administratives ;De 10 à 19 salariés en ETP ;185,1
+a272 ;821;Activités administratives ;De 20 à 249 salariés en ETP ;1316,3
+a272 ;821;Activités administratives ;Plus de 250 salariés en ETP ;1270,7
+a272 ;822;Activités de centres d'appels ;Ensemble des tranches d'effectif ;3083,2
+a272 ;822;Activités de centres d'appels ;De 0 à 9 salariés en ETP ;229,6
+a272 ;822;Activités de centres d'appels ;De 10 à 19 salariés en ETP ;149,4
+a272 ;822;Activités de centres d'appels ;De 20 à 249 salariés en ETP ;1426,5
+a272 ;822;Activités de centres d'appels ;Plus de 250 salariés en ETP ;1277,6
+a272 ;823;Organisation de salons professionnels et congrès ;Ensemble des tranches d'effectif ;3150,1
+a272 ;823;Organisation de salons professionnels et congrès ;De 0 à 9 salariés en ETP ;1445,9
+a272 ;823;Organisation de salons professionnels et congrès ;De 10 à 19 salariés en ETP ;195
+a272 ;823;Organisation de salons professionnels et congrès ;De 20 à 249 salariés en ETP ;1081,7
+a272 ;823;Organisation de salons professionnels et congrès ;Plus de 250 salariés en ETP ;427,4
+a272 ;829;Activités de soutien aux entreprises n.c.a. ;Ensemble des tranches d'effectif ;37639,5
+a272 ;829;Activités de soutien aux entreprises n.c.a. ;De 0 à 9 salariés en ETP ;9616,4
+a272 ;829;Activités de soutien aux entreprises n.c.a. ;De 10 à 19 salariés en ETP ;2116
+a272 ;829;Activités de soutien aux entreprises n.c.a. ;De 20 à 249 salariés en ETP ;12792,9
+a272 ;829;Activités de soutien aux entreprises n.c.a. ;Plus de 250 salariés en ETP ;13114,8
+a10 ;OQ ;Administration publique, enseignement, santé humaine et action sociale ;Ensemble des tranches d'effectif ;84281,6
+a10 ;OQ ;Administration publique, enseignement, santé humaine et action sociale ;De 0 à 9 salariés en ETP ;52517
+a10 ;OQ ;Administration publique, enseignement, santé humaine et action sociale ;De 10 à 19 salariés en ETP ;4710,8
+a10 ;OQ ;Administration publique, enseignement, santé humaine et action sociale ;De 20 à 249 salariés en ETP ;18529,7
+a10 ;OQ ;Administration publique, enseignement, santé humaine et action sociale ;Plus de 250 salariés en ETP ;8524
+a21 ;O ;Administration publique ;Ensemble des tranches d'effectif ;410,2
+a21 ;O ;Administration publique ;De 0 à 9 salariés en ETP ;N
+a21 ;O ;Administration publique ;De 10 à 19 salariés en ETP ;0,3
+a21 ;O ;Administration publique ;De 20 à 249 salariés en ETP ;3,4
+a21 ;O ;Administration publique ;Plus de 250 salariés en ETP ;406,5
+a88 ;84;Administration publique et défense - sécurité sociale obligatoire ;Ensemble des tranches d'effectif ;410,2
+a88 ;84;Administration publique et défense - sécurité sociale obligatoire ;De 0 à 9 salariés en ETP ;N
+a88 ;84;Administration publique et défense - sécurité sociale obligatoire ;De 10 à 19 salariés en ETP ;0,3
+a88 ;84;Administration publique et défense - sécurité sociale obligatoire ;De 20 à 249 salariés en ETP ;3,4
+a88 ;84;Administration publique et défense - sécurité sociale obligatoire ;Plus de 250 salariés en ETP ;406,5
+a272 ;841;Administration générale, économique et sociale ;Ensemble des tranches d'effectif ;405,1
+a272 ;841;Administration générale, économique et sociale ;De 0 à 9 salariés en ETP ;N
+a272 ;841;Administration générale, économique et sociale ;De 10 à 19 salariés en ETP ;N
+a272 ;841;Administration générale, économique et sociale ;De 20 à 249 salariés en ETP ;N
+a272 ;841;Administration générale, économique et sociale ;Plus de 250 salariés en ETP ;405,1
+a272 ;842;Services de prérogative publique ;Ensemble des tranches d'effectif ;5,1
+a272 ;842;Services de prérogative publique ;De 0 à 9 salariés en ETP ;N
+a272 ;842;Services de prérogative publique ;De 10 à 19 salariés en ETP ;0,3
+a272 ;842;Services de prérogative publique ;De 20 à 249 salariés en ETP ;3,4
+a272 ;842;Services de prérogative publique ;Plus de 250 salariés en ETP ;1,3
+a21 ;P ;Enseignement ;Ensemble des tranches d'effectif ;12519,8
+a21 ;P ;Enseignement ;De 0 à 9 salariés en ETP ;6807,2
+a21 ;P ;Enseignement ;De 10 à 19 salariés en ETP ;S
+a21 ;P ;Enseignement ;De 20 à 249 salariés en ETP ;S
+a21 ;P ;Enseignement ;Plus de 250 salariés en ETP ;S
+a88 ;85;Enseignement ;Ensemble des tranches d'effectif ;12519,8
+a88 ;85;Enseignement ;De 0 à 9 salariés en ETP ;6807,2
+a88 ;85;Enseignement ;De 10 à 19 salariés en ETP ;S
+a88 ;85;Enseignement ;De 20 à 249 salariés en ETP ;S
+a88 ;85;Enseignement ;Plus de 250 salariés en ETP ;S
+a272 ;851;Enseignement pré-primaire ;Ensemble des tranches d'effectif ;S
+a272 ;851;Enseignement pré-primaire ;De 0 à 9 salariés en ETP ;S
+a272 ;851;Enseignement pré-primaire ;De 10 à 19 salariés en ETP ;N
+a272 ;851;Enseignement pré-primaire ;De 20 à 249 salariés en ETP ;N
+a272 ;851;Enseignement pré-primaire ;Plus de 250 salariés en ETP ;N
+a272 ;852;Enseignement primaire ;Ensemble des tranches d'effectif ;44,5
+a272 ;852;Enseignement primaire ;De 0 à 9 salariés en ETP ;7,9
+a272 ;852;Enseignement primaire ;De 10 à 19 salariés en ETP ;6,4
+a272 ;852;Enseignement primaire ;De 20 à 249 salariés en ETP ;30,2
+a272 ;852;Enseignement primaire ;Plus de 250 salariés en ETP ;N
+a272 ;853;Enseignement secondaire ;Ensemble des tranches d'effectif ;303,5
+a272 ;853;Enseignement secondaire ;De 0 à 9 salariés en ETP ;93,9
+a272 ;853;Enseignement secondaire ;De 10 à 19 salariés en ETP ;52
+a272 ;853;Enseignement secondaire ;De 20 à 249 salariés en ETP ;157,6
+a272 ;853;Enseignement secondaire ;Plus de 250 salariés en ETP ;N
+a272 ;854;Enseignement supérieur et post-secondaire non supérieur ;Ensemble des tranches d'effectif ;934,9
+a272 ;854;Enseignement supérieur et post-secondaire non supérieur ;De 0 à 9 salariés en ETP ;S
+a272 ;854;Enseignement supérieur et post-secondaire non supérieur ;De 10 à 19 salariés en ETP ;S
+a272 ;854;Enseignement supérieur et post-secondaire non supérieur ;De 20 à 249 salariés en ETP ;S
+a272 ;854;Enseignement supérieur et post-secondaire non supérieur ;Plus de 250 salariés en ETP ;S
+a272 ;855;Autres activités d'enseignement ;Ensemble des tranches d'effectif ;10969,3
+a272 ;855;Autres activités d'enseignement ;De 0 à 9 salariés en ETP ;6348,7
+a272 ;855;Autres activités d'enseignement ;De 10 à 19 salariés en ETP ;1250,6
+a272 ;855;Autres activités d'enseignement ;De 20 à 249 salariés en ETP ;2656,4
+a272 ;855;Autres activités d'enseignement ;Plus de 250 salariés en ETP ;713,5
+a272 ;856;Activités de soutien à l'enseignement ;Ensemble des tranches d'effectif ;S
+a272 ;856;Activités de soutien à l'enseignement ;De 0 à 9 salariés en ETP ;S
+a272 ;856;Activités de soutien à l'enseignement ;De 10 à 19 salariés en ETP ;S
+a272 ;856;Activités de soutien à l'enseignement ;De 20 à 249 salariés en ETP ;S
+a272 ;856;Activités de soutien à l'enseignement ;Plus de 250 salariés en ETP ;N
+a21 ;Q ;Santé humaine et action sociale ;Ensemble des tranches d'effectif ;71351,7
+a21 ;Q ;Santé humaine et action sociale ;De 0 à 9 salariés en ETP ;45709,8
+a21 ;Q ;Santé humaine et action sociale ;De 10 à 19 salariés en ETP ;3217,3
+a21 ;Q ;Santé humaine et action sociale ;De 20 à 249 salariés en ETP ;15221,9
+a21 ;Q ;Santé humaine et action sociale ;Plus de 250 salariés en ETP ;7202,5
+a88 ;86;Activités pour la santé humaine ;Ensemble des tranches d'effectif ;64973,2
+a88 ;86;Activités pour la santé humaine ;De 0 à 9 salariés en ETP ;44929,5
+a88 ;86;Activités pour la santé humaine ;De 10 à 19 salariés en ETP ;2715,4
+a88 ;86;Activités pour la santé humaine ;De 20 à 249 salariés en ETP ;11277,5
+a88 ;86;Activités pour la santé humaine ;Plus de 250 salariés en ETP ;6050,9
+a272 ;861;Activités hospitalières ;Ensemble des tranches d'effectif ;12672,5
+a272 ;861;Activités hospitalières ;De 0 à 9 salariés en ETP ;S
+a272 ;861;Activités hospitalières ;De 10 à 19 salariés en ETP ;S
+a272 ;861;Activités hospitalières ;De 20 à 249 salariés en ETP ;6644,9
+a272 ;861;Activités hospitalières ;Plus de 250 salariés en ETP ;5737,9
+a272 ;862;Activité des médecins et des dentistes ;Ensemble des tranches d'effectif ;31779,9
+a272 ;862;Activité des médecins et des dentistes ;De 0 à 9 salariés en ETP ;S
+a272 ;862;Activité des médecins et des dentistes ;De 10 à 19 salariés en ETP ;S
+a272 ;862;Activité des médecins et des dentistes ;De 20 à 249 salariés en ETP ;704
+a272 ;862;Activité des médecins et des dentistes ;Plus de 250 salariés en ETP ;S
+a272 ;869;Autres activités pour la santé humaine ;Ensemble des tranches d'effectif ;20520,8
+a272 ;869;Autres activités pour la santé humaine ;De 0 à 9 salariés en ETP ;S
+a272 ;869;Autres activités pour la santé humaine ;De 10 à 19 salariés en ETP ;S
+a272 ;869;Autres activités pour la santé humaine ;De 20 à 249 salariés en ETP ;3928,7
+a272 ;869;Autres activités pour la santé humaine ;Plus de 250 salariés en ETP ;S
+a88 ;87;Hébergement médico-social et social ;Ensemble des tranches d'effectif ;4953,4
+a88 ;87;Hébergement médico-social et social ;De 0 à 9 salariés en ETP ;386,6
+a88 ;87;Hébergement médico-social et social ;De 10 à 19 salariés en ETP ;206,7
+a88 ;87;Hébergement médico-social et social ;De 20 à 249 salariés en ETP ;3378,9
+a88 ;87;Hébergement médico-social et social ;Plus de 250 salariés en ETP ;981
+a272 ;871;Hébergement médicalisé ;Ensemble des tranches d'effectif ;3203,8
+a272 ;871;Hébergement médicalisé ;De 0 à 9 salariés en ETP ;S
+a272 ;871;Hébergement médicalisé ;De 10 à 19 salariés en ETP ;S
+a272 ;871;Hébergement médicalisé ;De 20 à 249 salariés en ETP ;2129,3
+a272 ;871;Hébergement médicalisé ;Plus de 250 salariés en ETP ;687,5
+a272 ;872;Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes ;Ensemble des tranches d'effectif ;66,7
+a272 ;872;Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes ;De 0 à 9 salariés en ETP ;S
+a272 ;872;Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes ;De 10 à 19 salariés en ETP ;S
+a272 ;872;Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes ;De 20 à 249 salariés en ETP ;40,4
+a272 ;872;Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes ;Plus de 250 salariés en ETP ;S
+a272 ;873;Hébergement social pour personnes âgées ou handicapées physiques ;Ensemble des tranches d'effectif ;1602,6
+a272 ;873;Hébergement social pour personnes âgées ou handicapées physiques ;De 0 à 9 salariés en ETP ;80,1
+a272 ;873;Hébergement social pour personnes âgées ou handicapées physiques ;De 10 à 19 salariés en ETP ;S
+a272 ;873;Hébergement social pour personnes âgées ou handicapées physiques ;De 20 à 249 salariés en ETP ;S
+a272 ;873;Hébergement social pour personnes âgées ou handicapées physiques ;Plus de 250 salariés en ETP ;S
+a272 ;879;Autres activités d'hébergement social ;Ensemble des tranches d'effectif ;80,3
+a272 ;879;Autres activités d'hébergement social ;De 0 à 9 salariés en ETP ;25,1
+a272 ;879;Autres activités d'hébergement social ;De 10 à 19 salariés en ETP ;S
+a272 ;879;Autres activités d'hébergement social ;De 20 à 249 salariés en ETP ;S
+a272 ;879;Autres activités d'hébergement social ;Plus de 250 salariés en ETP ;S
+a88 ;88;Action sociale sans hébergement ;Ensemble des tranches d'effectif ;1425,1
+a88 ;88;Action sociale sans hébergement ;De 0 à 9 salariés en ETP ;393,8
+a88 ;88;Action sociale sans hébergement ;De 10 à 19 salariés en ETP ;295,2
+a88 ;88;Action sociale sans hébergement ;De 20 à 249 salariés en ETP ;565,5
+a88 ;88;Action sociale sans hébergement ;Plus de 250 salariés en ETP ;170,6
+a272 ;881;Action sociale sans hébergement pour personnes âgées et pour personnes handicapées ;Ensemble des tranches d'effectif ;895,9
+a272 ;881;Action sociale sans hébergement pour personnes âgées et pour personnes handicapées ;De 0 à 9 salariés en ETP ;254,8
+a272 ;881;Action sociale sans hébergement pour personnes âgées et pour personnes handicapées ;De 10 à 19 salariés en ETP ;186,9
+a272 ;881;Action sociale sans hébergement pour personnes âgées et pour personnes handicapées ;De 20 à 249 salariés en ETP ;398,2
+a272 ;881;Action sociale sans hébergement pour personnes âgées et pour personnes handicapées ;Plus de 250 salariés en ETP ;56
+a272 ;889;Autre action sociale sans hébergement ;Ensemble des tranches d'effectif ;529,2
+a272 ;889;Autre action sociale sans hébergement ;De 0 à 9 salariés en ETP ;139
+a272 ;889;Autre action sociale sans hébergement ;De 10 à 19 salariés en ETP ;108,4
+a272 ;889;Autre action sociale sans hébergement ;De 20 à 249 salariés en ETP ;167,3
+a272 ;889;Autre action sociale sans hébergement ;Plus de 250 salariés en ETP ;114,6
+a10 ;RU ;Autres activités de services ;Ensemble des tranches d'effectif ;53640,2
+a10 ;RU ;Autres activités de services ;De 0 à 9 salariés en ETP ;19198,5
+a10 ;RU ;Autres activités de services ;De 10 à 19 salariés en ETP ;2742,1
+a10 ;RU ;Autres activités de services ;De 20 à 249 salariés en ETP ;10906,6
+a10 ;RU ;Autres activités de services ;Plus de 250 salariés en ETP ;20795,5
+a21 ;R ;Arts, spectacles et activités récréatives ;Ensemble des tranches d'effectif ;27906,7
+a21 ;R ;Arts, spectacles et activités récréatives ;De 0 à 9 salariés en ETP ;5351,2
+a21 ;R ;Arts, spectacles et activités récréatives ;De 10 à 19 salariés en ETP ;1000,2
+a21 ;R ;Arts, spectacles et activités récréatives ;De 20 à 249 salariés en ETP ;6361,8
+a21 ;R ;Arts, spectacles et activités récréatives ;Plus de 250 salariés en ETP ;15193,6
+a88 ;90;Activités créatives, artistiques et de spectacle ;Ensemble des tranches d'effectif ;5041,5
+a88 ;90;Activités créatives, artistiques et de spectacle ;De 0 à 9 salariés en ETP ;2568,8
+a88 ;90;Activités créatives, artistiques et de spectacle ;De 10 à 19 salariés en ETP ;506,8
+a88 ;90;Activités créatives, artistiques et de spectacle ;De 20 à 249 salariés en ETP ;1758,5
+a88 ;90;Activités créatives, artistiques et de spectacle ;Plus de 250 salariés en ETP ;207,4
+a272 ;900;Activités créatives, artistiques et de spectacle ;Ensemble des tranches d'effectif ;5041,5
+a272 ;900;Activités créatives, artistiques et de spectacle ;De 0 à 9 salariés en ETP ;2568,8
+a272 ;900;Activités créatives, artistiques et de spectacle ;De 10 à 19 salariés en ETP ;506,8
+a272 ;900;Activités créatives, artistiques et de spectacle ;De 20 à 249 salariés en ETP ;1758,5
+a272 ;900;Activités créatives, artistiques et de spectacle ;Plus de 250 salariés en ETP ;207,4
+a88 ;91;Bibliothèques, archives, musées et autres activités culturelles ;Ensemble des tranches d'effectif ;S
+a88 ;91;Bibliothèques, archives, musées et autres activités culturelles ;De 0 à 9 salariés en ETP ;77,6
+a88 ;91;Bibliothèques, archives, musées et autres activités culturelles ;De 10 à 19 salariés en ETP ;S
+a88 ;91;Bibliothèques, archives, musées et autres activités culturelles ;De 20 à 249 salariés en ETP ;205
+a88 ;91;Bibliothèques, archives, musées et autres activités culturelles ;Plus de 250 salariés en ETP ;S
+a272 ;910;Bibliothèques, archives, musées et autres activités culturelles ;Ensemble des tranches d'effectif ;S
+a272 ;910;Bibliothèques, archives, musées et autres activités culturelles ;De 0 à 9 salariés en ETP ;77,6
+a272 ;910;Bibliothèques, archives, musées et autres activités culturelles ;De 10 à 19 salariés en ETP ;S
+a272 ;910;Bibliothèques, archives, musées et autres activités culturelles ;De 20 à 249 salariés en ETP ;205
+a272 ;910;Bibliothèques, archives, musées et autres activités culturelles ;Plus de 250 salariés en ETP ;S
+a88 ;92;Organisation de jeux de hasard et d'argent ;Ensemble des tranches d'effectif ;S
+a88 ;92;Organisation de jeux de hasard et d'argent ;De 0 à 9 salariés en ETP ;714
+a88 ;92;Organisation de jeux de hasard et d'argent ;De 10 à 19 salariés en ETP ;S
+a88 ;92;Organisation de jeux de hasard et d'argent ;De 20 à 249 salariés en ETP ;1106,8
+a88 ;92;Organisation de jeux de hasard et d'argent ;Plus de 250 salariés en ETP ;S
+a272 ;920;Organisation de jeux de hasard et d'argent ;Ensemble des tranches d'effectif ;S
+a272 ;920;Organisation de jeux de hasard et d'argent ;De 0 à 9 salariés en ETP ;714
+a272 ;920;Organisation de jeux de hasard et d'argent ;De 10 à 19 salariés en ETP ;S
+a272 ;920;Organisation de jeux de hasard et d'argent ;De 20 à 249 salariés en ETP ;1106,8
+a272 ;920;Organisation de jeux de hasard et d'argent ;Plus de 250 salariés en ETP ;S
+a88 ;93;Activités sportives, récréatives et de loisirs ;Ensemble des tranches d'effectif ;7340,1
+a88 ;93;Activités sportives, récréatives et de loisirs ;De 0 à 9 salariés en ETP ;1990,8
+a88 ;93;Activités sportives, récréatives et de loisirs ;De 10 à 19 salariés en ETP ;428,3
+a88 ;93;Activités sportives, récréatives et de loisirs ;De 20 à 249 salariés en ETP ;3291,4
+a88 ;93;Activités sportives, récréatives et de loisirs ;Plus de 250 salariés en ETP ;1629,6
+a272 ;931;Activités liées au sport ;Ensemble des tranches d'effectif ;4666,4
+a272 ;931;Activités liées au sport ;De 0 à 9 salariés en ETP ;966,5
+a272 ;931;Activités liées au sport ;De 10 à 19 salariés en ETP ;S
+a272 ;931;Activités liées au sport ;De 20 à 249 salariés en ETP ;2972
+a272 ;931;Activités liées au sport ;Plus de 250 salariés en ETP ;S
+a272 ;932;Activités récréatives et de loisirs ;Ensemble des tranches d'effectif ;2673,7
+a272 ;932;Activités récréatives et de loisirs ;De 0 à 9 salariés en ETP ;1024,3
+a272 ;932;Activités récréatives et de loisirs ;De 10 à 19 salariés en ETP ;S
+a272 ;932;Activités récréatives et de loisirs ;De 20 à 249 salariés en ETP ;319,4
+a272 ;932;Activités récréatives et de loisirs ;Plus de 250 salariés en ETP ;S
+a21 ;S ;Autres activités de services ;Ensemble des tranches d'effectif ;25306,2
+a21 ;S ;Autres activités de services ;De 0 à 9 salariés en ETP ;13497,5
+a21 ;S ;Autres activités de services ;De 10 à 19 salariés en ETP ;1733
+a21 ;S ;Autres activités de services ;De 20 à 249 salariés en ETP ;4507,1
+a21 ;S ;Autres activités de services ;Plus de 250 salariés en ETP ;5570,9
+a88 ;94;Activités des organisations associatives ;Ensemble des tranches d'effectif ;2746,5
+a88 ;94;Activités des organisations associatives ;De 0 à 9 salariés en ETP ;1484,8
+a88 ;94;Activités des organisations associatives ;De 10 à 19 salariés en ETP ;S
+a88 ;94;Activités des organisations associatives ;De 20 à 249 salariés en ETP ;831,4
+a88 ;94;Activités des organisations associatives ;Plus de 250 salariés en ETP ;S
+a272 ;941;Activités des organisations économiques, patronales et professionnelles ;Ensemble des tranches d'effectif ;1070
+a272 ;941;Activités des organisations économiques, patronales et professionnelles ;De 0 à 9 salariés en ETP ;682,5
+a272 ;941;Activités des organisations économiques, patronales et professionnelles ;De 10 à 19 salariés en ETP ;S
+a272 ;941;Activités des organisations économiques, patronales et professionnelles ;De 20 à 249 salariés en ETP ;S
+a272 ;941;Activités des organisations économiques, patronales et professionnelles ;Plus de 250 salariés en ETP ;S
+a272 ;949;Activités des autres organisations associatives ;Ensemble des tranches d'effectif ;1676,4
+a272 ;949;Activités des autres organisations associatives ;De 0 à 9 salariés en ETP ;802,3
+a272 ;949;Activités des autres organisations associatives ;De 10 à 19 salariés en ETP ;S
+a272 ;949;Activités des autres organisations associatives ;De 20 à 249 salariés en ETP ;S
+a272 ;949;Activités des autres organisations associatives ;Plus de 250 salariés en ETP ;S
+a88 ;95;Réparation d'ordinateurs et de biens personnels et domestiques ;Ensemble des tranches d'effectif ;8936,9
+a88 ;95;Réparation d'ordinateurs et de biens personnels et domestiques ;De 0 à 9 salariés en ETP ;2784,6
+a88 ;95;Réparation d'ordinateurs et de biens personnels et domestiques ;De 10 à 19 salariés en ETP ;S
+a88 ;95;Réparation d'ordinateurs et de biens personnels et domestiques ;De 20 à 249 salariés en ETP ;1815,4
+a88 ;95;Réparation d'ordinateurs et de biens personnels et domestiques ;Plus de 250 salariés en ETP ;S
+a272 ;951;Réparation d'ordinateurs et d'équipements de communication ;Ensemble des tranches d'effectif ;5799,6
+a272 ;951;Réparation d'ordinateurs et d'équipements de communication ;De 0 à 9 salariés en ETP ;972,8
+a272 ;951;Réparation d'ordinateurs et d'équipements de communication ;De 10 à 19 salariés en ETP ;S
+a272 ;951;Réparation d'ordinateurs et d'équipements de communication ;De 20 à 249 salariés en ETP ;1398,4
+a272 ;951;Réparation d'ordinateurs et d'équipements de communication ;Plus de 250 salariés en ETP ;S
+a272 ;952;Réparation de biens personnels et domestiques ;Ensemble des tranches d'effectif ;3137,3
+a272 ;952;Réparation de biens personnels et domestiques ;De 0 à 9 salariés en ETP ;1811,8
+a272 ;952;Réparation de biens personnels et domestiques ;De 10 à 19 salariés en ETP ;S
+a272 ;952;Réparation de biens personnels et domestiques ;De 20 à 249 salariés en ETP ;417
+a272 ;952;Réparation de biens personnels et domestiques ;Plus de 250 salariés en ETP ;S
+a88 ;96;Autres services personnels ;Ensemble des tranches d'effectif ;13622,8
+a88 ;96;Autres services personnels ;De 0 à 9 salariés en ETP ;9228,1
+a88 ;96;Autres services personnels ;De 10 à 19 salariés en ETP ;913,3
+a88 ;96;Autres services personnels ;De 20 à 249 salariés en ETP ;1860,3
+a88 ;96;Autres services personnels ;Plus de 250 salariés en ETP ;1621,1
+a272 ;960;Autres services personnels ;Ensemble des tranches d'effectif ;13622,8
+a272 ;960;Autres services personnels ;De 0 à 9 salariés en ETP ;9228,1
+a272 ;960;Autres services personnels ;De 10 à 19 salariés en ETP ;913,3
+a272 ;960;Autres services personnels ;De 20 à 249 salariés en ETP ;1860,3
+a272 ;960;Autres services personnels ;Plus de 250 salariés en ETP ;1621,1
+a21 ;T ;Activités des ménages en tant qu'employeurs - activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre ;Ensemble des tranches d'effectif ;3,8
+a21 ;T ;Activités des ménages en tant qu'employeurs - activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre ;De 0 à 9 salariés en ETP ;1,3
+a21 ;T ;Activités des ménages en tant qu'employeurs - activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre ;De 10 à 19 salariés en ETP ;0,4
+a21 ;T ;Activités des ménages en tant qu'employeurs - activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre ;De 20 à 249 salariés en ETP ;2,1
+a21 ;T ;Activités des ménages en tant qu'employeurs - activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre ;Plus de 250 salariés en ETP ;0,1
+a88 ;97;Activités des ménages en tant qu'employeurs de personnel domestique ;Ensemble des tranches d'effectif ;3,8
+a88 ;97;Activités des ménages en tant qu'employeurs de personnel domestique ;De 0 à 9 salariés en ETP ;1,3
+a88 ;97;Activités des ménages en tant qu'employeurs de personnel domestique ;De 10 à 19 salariés en ETP ;0,4
+a88 ;97;Activités des ménages en tant qu'employeurs de personnel domestique ;De 20 à 249 salariés en ETP ;2,1
+a88 ;97;Activités des ménages en tant qu'employeurs de personnel domestique ;Plus de 250 salariés en ETP ;0,1
+a272 ;970;Activités des ménages en tant qu'employeurs de personnel domestique ;Ensemble des tranches d'effectif ;3,8
+a272 ;970;Activités des ménages en tant qu'employeurs de personnel domestique ;De 0 à 9 salariés en ETP ;1,3
+a272 ;970;Activités des ménages en tant qu'employeurs de personnel domestique ;De 10 à 19 salariés en ETP ;0,4
+a272 ;970;Activités des ménages en tant qu'employeurs de personnel domestique ;De 20 à 249 salariés en ETP ;2,1
+a272 ;970;Activités des ménages en tant qu'employeurs de personnel domestique ;Plus de 250 salariés en ETP ;0,1
+a21 ;U ;Activités extra-territoriales ;Ensemble des tranches d'effectif ;423,5
+a21 ;U ;Activités extra-territoriales ;De 0 à 9 salariés en ETP ;348,5
+a21 ;U ;Activités extra-territoriales ;De 10 à 19 salariés en ETP ;8,5
+a21 ;U ;Activités extra-territoriales ;De 20 à 249 salariés en ETP ;35,7
+a21 ;U ;Activités extra-territoriales ;Plus de 250 salariés en ETP ;30,9
+a88 ;99;Activités des organisations et organismes extraterritoriaux ;Ensemble des tranches d'effectif ;423,5
+a88 ;99;Activités des organisations et organismes extraterritoriaux ;De 0 à 9 salariés en ETP ;348,5
+a88 ;99;Activités des organisations et organismes extraterritoriaux ;De 10 à 19 salariés en ETP ;8,5
+a88 ;99;Activités des organisations et organismes extraterritoriaux ;De 20 à 249 salariés en ETP ;35,7
+a88 ;99;Activités des organisations et organismes extraterritoriaux ;Plus de 250 salariés en ETP ;30,9
+a272 ;990;Activités des organisations et organismes extraterritoriaux ;Ensemble des tranches d'effectif ;423,5
+a272 ;990;Activités des organisations et organismes extraterritoriaux ;De 0 à 9 salariés en ETP ;348,5
+a272 ;990;Activités des organisations et organismes extraterritoriaux ;De 10 à 19 salariés en ETP ;8,5
+a272 ;990;Activités des organisations et organismes extraterritoriaux ;De 20 à 249 salariés en ETP ;35,7
+a272 ;990;Activités des organisations et organismes extraterritoriaux ;Plus de 250 salariés en ETP ;30,9
