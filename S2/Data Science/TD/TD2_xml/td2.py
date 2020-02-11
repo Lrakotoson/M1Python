@@ -6,7 +6,7 @@
 
 """Script permettant d'explorer les données d'un fichier XML"""
 ################################################################################
-# fichier  : td1.py
+# fichier  : td2.py
 # Auteur : RAKOTOSON Loic
 ################################################################################
 
@@ -233,8 +233,44 @@ print(root.xpath(query_12))
 
 # 13. Donner les noms des acteurs qui ont joué dans Vertigo
 
-# In[ ]:
+# In[25]:
+print("\n############ EXO2.13 ############\n")
+
+query_13 = "ARTISTE[@id = ../FILM[TITRE = 'Vertigo']/ROLES//@idref]/ACTNOM//text()"
+afficheResultatRequete(root.xpath(query_13))
 
 
+# 14. Afficher le nom du metteur en scène de Vertigo
+
+# In[26]:
+print("\n############ EXO2.14 ############\n")
+
+query_14 = "ARTISTE[@id = ../FILM[TITRE = 'Vertigo']/MES//@idref]/ACTNOM//text()"
+afficheResultatRequete(root.xpath(query_14))
 
 
+# 15. Afficher tout les films qui ont le même metteur en scène que Vertigo
+
+# In[27]:
+print("\n############ EXO2.15 ############\n")
+
+query_15 = "FILM[MES//@idref = ../ARTISTE[@id = ../FILM[TITRE = 'Vertigo']/MES//@idref]//@id]/TITRE//text()"
+afficheResultatRequete(root.xpath(query_15))
+
+
+# 16. Afficher les titres des films où Bruce Willis a joué (comme acteur)
+
+# In[28]:
+print("\n############ EXO2.16 ############\n")
+
+query_16 = "FILM[ROLES//@idref = ../ARTISTE[ACTNOM = 'Willis' and ACTPNOM = 'Bruce']//@id]/TITRE//text()"
+afficheResultatRequete(root.xpath(query_16))
+
+
+# 17. Afficher le rôle de Harvey Keitel dans le film Reservoir dogs
+
+# In[29]:
+print("\n############ EXO2.17 ############\n")
+
+query_17 = "FILM[TITRE = 'Reservoir dogs']/ROLES/ROLE[@idref = ../../../ARTISTE[ACTNOM = 'Keitel']//@id]//text()"
+afficheResultatRequete(root.xpath(query_17))
