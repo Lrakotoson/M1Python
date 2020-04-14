@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+
+
+<residence id="L1" title="LA GARE" short_desc="Résidence du centre ville de Rennes à proximité immédiate de la gare SNCF, de la gare routière et du métro." lat="48.1040703" lon="-1.671259100000043" zone="Rennes Centre">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/ef8ef772d6c7f0a964dd6d3836c1d6fd.jpg" /&gt;&lt;br&gt;&lt;br&gt;
+
+
+ Résidence de  77 studios meublés avec kitchenette, prise Tv et  téléphone. Wifi &lt;br&gt;
+ Types de logements: T1-T1bis-T2 ouvrant droit à l'APL. &lt;br&gt;
+ 5 logements pour personnes à  mobilité réduite situés dans les étages.&lt;br&gt;
+      
+  </infos>
+
+<services>
+Local à  vélos, ascenseur, laverie, accès sécurisé
+</services>
+
+<contact>
+LA GARE - Secrétariat : Résidence U Sévigné, 94 Bd de Sévigné - 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+
+</residence>
+
+
+
+
+<residence id="L111" title="JULES FERRY" short_desc="Résidence du centre ville de Rennes situé en face de la fac de droit et près d'un Restaurant universitaire . Stationnement difficile. " lat="48.1178422" lon="-1.6708991000000424" zone="Rennes Centre">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/23b7578596dfb00afbca7a47fecf2a3b.jpg" /&gt;&lt;br&gt; &lt;br&gt;
+
+Résidence de  75 studios ouvrant droit à l'APL et 50 chambres traditionnelles ouvrant droit à l'ALS. &lt;br&gt;
+Les studios T1 et T1bis sont  meublés avec kitchenette, prise Tv et téléphone. Wifi  &lt;br&gt;
+Pour les chambres , sanitaires et cuisine communs 
+
+</infos>
+
+<services>
+Loge, accès sécurisé, laverie, salles de travail, salle de télévision. &lt;br&gt;Bus: 1, 31, 9 
+</services>
+
+<contact>
+JULES FERRY - Secrétariat : Résidence U Sévigné, 94 Bd de Sévigné - 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+
+</residence>
+
+
+
+
+
+
+<residence id="L112" title="SEVIGNE" short_desc="Résidence du centre ville de Rennes. A  Proximité de la fac de droit et Sciences Eco et des RU Fougères et Duchesse Anne. " lat="48.11607028273323" lon="-1.6624116897583008" zone="Rennes Centre">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/edb09ba67e0a913cc347bdc3358f3780.jpg" /&gt;&lt;br&gt; Résidence comprenant 109 T1 et T1bis et 136 chambres rénovées 12 m². Ouvrent droit à l'APL &lt;br&gt;
+Les studios T1 et T1bis sont  meublés avec kitchenette, prise Tv et  téléphone. Wifi. Ils ouvrent droit à l'APL. &lt;br&gt;
+Les chambres rénovées sont équipées de réfrigerateurs et possèdent douche et toilettes. Elles ouvrent droit à l'ALS. 
+</infos>
+
+<services>
+Local à  vélos, laverie, gardien. &lt;br&gt;Bâtiment des chambres : salles de travail, salle de télévision et foyer.&lt;br&gt;Bus 31 
+</services>
+
+<contact>
+SEVIGNE - Secrétariat : Résidence U Sévigné, 94 Bd de Sévigné - 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+
+</contact>
+</residence>
+
+
+
+
+<residence id="L113" title="PATTON" short_desc="Résidence à 10mn en bus des facs de droit, sciences eco et Rennes 2. " lat="48.13100739999999" lon="-1.6641042999999627" zone="Rennes Centre">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/47ba3d6579fed6f7025a5b41dc8c6b8e.jpg" /&gt;&lt;br&gt; .  &lt;br&gt;
+
+344 chambres rénovées équipées de réfrigerateur, douche et toilettes. Elles ouvrent droit à l'ALS 
+</infos>
+
+<services>
+Local à vélos, salle de travail, salle de télévision, foyer, laverie, loge, accès sécurisé. &lt;br&gt;Bus 5 et 30 
+</services>
+
+<contact>
+PATTON - Secrétariat : Résidence U Sévigné, 94 Bd de Sévigné - 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+
+</contact>
+</residence>
+
+
+
+
+<residence id="L114" title="SAINT HELIER" short_desc="Résidence du centre ville de Rennes à proximité de la Gare . Stationnement difficile. " lat="48.1074124" lon="-1.6722959999999603" zone="Rennes Centre">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/f2bf6fa29b9c2ce7f8caba9b30668b3f.jpg" /&gt;&lt;br&gt; &lt;br&gt;
+
+Résidence de  74 chambres traditionnelles ouvrant droit à l'ALS.&lt;br&gt;
+
+sanitaires et cuisine communs 
+
+</infos>
+
+<services>
+Loge, accès sécurisé, laverie, salle de travail. &lt;br&gt;Métro, Gare, Bus 1,2 et 11 
+</services>
+
+<contact>
+SAINT HELIER - Secrétariat : Résidence U Sévigné, 94 Bd de Sévigné - 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L115" title="MOULIN DE JOUE" short_desc="Résidence proche du campus de Beaulieu." lat="48.11347727431945" lon="-1.6471552848815918" zone="Rennes est-Beaulieu">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/3db0433e26a456559073e5f4b871e1ea.jpg" /&gt;&lt;br&gt; Résidence de  77 studios meublés avec kitchenette, prise Tv et  téléphone.Wifi
+</infos>
+
+<services>
+Parking,accès sécurisé,
+</services>
+
+<contact>
+MOULIN DE JOUE - Secrétariat : Résidence U Beaulieu, 31 Avenue du Professeur Foulon 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L116" title="JEAN FERRAT" short_desc="Résidence sur le campus de Beaulieu " lat="48.1220799" lon="-1.6413935000000492" zone="Rennes est-Beaulieu">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/2b56b6217dc8e2102de986c0a5cd10f2.jpg" /&gt;&lt;br&gt;Résidence de  77 studios meublés avec kitchenette, prise Tv et  téléphone. Wifi &lt;br&gt;Types de logements: T1-T1bis ouvrant droit A  l'APL. &lt;br&gt;Bus 1;10; 30 et 31 
+ </infos>
+
+
+<services>
+Parking, local à vélos, laverie, accès sécurisé
+</services>
+
+<contact>
+JEAN FERRAT - Secrétariat : Résidence U Beaulieu, 31 Avenue du Professeur Foulon 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L117" title="MIRABEAU" short_desc="Résidence sur le campus de Beaulieu" lat="48.1226024" lon="-1.6442369999999755" zone="Rennes est-Beaulieu">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/e31ce9001c8169a734ebb7f266a57fab.jpg" /&gt;&lt;br&gt; Résidence de 617 studios meublés avec kitchenette, prise Tv et téléphone. Wifi &lt;br&gt;Types de logements: T1-T1bis-T2 ouvrant droit A  l'APL, &lt;br&gt;
+ </infos>
+ 
+ 
+ 
+<services>
+Parking, laverie, Bus 1-30 et 31.
+</services>
+
+<contact>
+MIRABEAU - Secrétariat : Résidence U Beaulieu, 31 Avenue du Professeur Foulon 35700 Rennes&lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+
+<residence id="L118" title="BEAULIEU" short_desc="Résidence sur le campus de Beaulieu" lat="48.12367664075685" lon="-1.6426706314086914" zone="Rennes est-Beaulieu">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/84f31a12ccadb25e4a6ee294261be84f.jpg" /&gt;&lt;br&gt; Résidence de 614 chambres rénovées et 850 chambres traditionnelles, ouvrant droit A  l'ALS. &lt;br&gt;   Les chambres rénovées sont équipéées d'un réfrigérateur, de toilettes et de douche à l'intérieur de la chambre. &lt;br&gt; Dans les chambres traditionnelles les sanitaires sont 
+communs.  
+</infos>
+
+<services>
+Parking, gardien, local à  vélos, salle de travail, laverie, accès sécurisé, Bus 1-30-31-64
+</services>
+
+<contact>
+BEAULIEU - Secrétariat : Résidence U Beaulieu, 31 Avenue du Professeur Foulon 35700 Rennes &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+<residence id="L119" title="VILLEJEAN OUEST" short_desc=" Résidence proche de l'université de Rennes II et campus santé" lat="48.1239859" lon="-1.71177160000002" zone="Rennes ouest-Villejean">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/6b2738faf86bcc5116a59d67b3109be4.jpg" /&gt;&lt;br&gt;  &lt;br&gt;Résidence de  294 chambres traditionnelles.&lt;br&gt;
+
+Sanitaires et cuisine communs. 
+</infos>
+
+<services>
+Parking, local à  vélos, salle de travail, gardien, laverie, accès sécurisé, bibliothèque, bus 30 et 4, Métro  Kennedy.
+</services>
+
+<contact>
+VILLEJEAN OUEST - Secrétariat : Résidence U Villejean-Ouest, 5 Rue du Maine 35000 RENNES &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+
+
+<residence id="L2" title="LA HARPE" short_desc="Résidence proche du campus de Villejean. Restaurant universitaire A  proximité." lat="48.12581429999999" lon="-1.7104445999999598" zone="Rennes ouest-Villejean">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/05de9c716b3b3e885908942ef1988339.jpg" /&gt;&lt;br&gt; Résidence  de 119 Studios meublés ( T1-T1bis et T2) ouvrant droit à  l'APL. &lt;br&gt; 6 logements pour personnes à mobilité réduite. &lt;br&gt; Prise téléphone, prise TV-Wifi. 
+</infos>
+
+<services>
+Parking, local à  vélos, laverie, accès sécurisé.
+</services>
+
+<contact>
+LA HARPE - Secrétariat : Résidence U Villejean-Ouest, 5 Rue du Maine  35000 RENNES &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L21" title="LANGUEDOC" short_desc="Résidence proche du campus de Villejean." lat="48.11664330561191" lon="-1.7084598541259766" zone="Rennes ouest-Villejean">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/ca116f3e4e21275250b75f3482cc6483.jpg" /&gt;&lt;br&gt; Résidence  de 200 Studios meublés ( T1-T1bis et T2) ouvrant droit à l'APL. &lt;br&gt; Logements pour personnes à mobilité réduite. &lt;br&gt; Prise téléphone, prise TV-Wifi
+</infos>
+<services>
+Parking, local à vélos, salle de travail, laverie, Bus 4, 30 et 31 à proximité. Métro Kennedy.
+</services>
+
+<contact>
+LANGUEDOC - Secrétariat : Résidence U Villejean-Ouest, 5 Rue du Maine  35000 RENNES &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+<residence id="L22" title="BARBARA" short_desc="Résidence proche du campus de Villejean. " lat="48.1290042" lon="-1.702689200000009" zone="Rennes ouest-Villejean">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/3d415868f3a2810912e111eaf116504e.jpg" /&gt;&lt;br&gt; Résidence  de 98 Studios meublés (T1) ouvrant droit à l'APL. &lt;br&gt; Logements pour personnes à mobilité réduite. &lt;br&gt; Prise téléphone, prise TV-Wifi
+</infos>
+
+<services>
+Parking, local à vélos, salle de travail, laverie, Bus 16 et 30.
+</services>
+
+<contact>
+BARBARA - Secrétariat : Résidence U Villejean-Ouest, 5 Rue du Maine  35000 RENNES &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+<residence id="L23" title="BEAUREGARD" short_desc="Résidence proche du campus de Villejean." lat="48.1293042" lon="-1.7003287" zone="Rennes ouest-Villejean">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/1ca902eed28a721635693cec7430c74f.jpg" /&gt;&lt;br&gt; Résidence de 95 Studios meublés ( T1-T1bis ) ouvrant droit à l'APL. &lt;br&gt; Logements pour personnes à mobilité réduite. &lt;br&gt; Prise téléphone, prise TV-Wifi
+</infos>
+
+<services>
+Local à vélos, accès sécurisé, Bus 16 et 30
+</services>
+
+<contact>
+BEAUREGARD - Secrétariat : Résidence U Villejean-Ouest, 5 Rue du Maine  35000 RENNES &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L24" title="ALSACE" short_desc="En face du campus de Rennes 2, à proximité du RU et du campus santé." lat="48.1218426" lon="-1.7038175000000138" zone="Rennes ouest-Villejean">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/e90651889abf957e8f9a8ec416fa8743.jpg" /&gt;Résidence comprenant 300 studios T1, T1bis et T2 et 920 chambres rénovées 9 m². Ouvrent droit à l'APL.   &lt;br&gt;
+Les studios sont  meublés avec kitchenette, prise Tv et téléphone. Wifi &lt;br&gt;
+Les chambres rénovées sont équipées de réfrigerateurs et possèdent douche et toilettes,  
+</infos>
+
+<services> 
+Parking, local à vélos, gardien, salle de travail, laverie, accès sécurisé, bibliothèque.
+</services>
+
+<contact>
+ALSACE - Secrétariat : Résidence U Alsace, 2 Rue d' Alsace 35000 RENNES &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+
+</residence>
+
+
+
+
+
+
+
+<residence id="L25" title="LA TOUCHE" short_desc="Résidence de studios proche du Campus de Villejean, du Centre Ville et du METRO Anatole France ." lat="48.11834270000001" lon="-1.6896609000000353" zone="Rennes ouest-Villejean">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/ce0085e0675849d6366a7b559fdc5e90.jpg" /&gt;&lt;br&gt; Résidence  de 131 Studios meublés ( T1-T1bis ) ouvrant droit à l'APL. &lt;br&gt;  Prise téléphone, prise TV-Wifi
+</infos>
+
+<services>
+Parking, local à vélos, salle de travail, laverie, accès sécurisé, Bus : 31, 10, 2.
+</services>
+
+<contact>
+LA TOUCHE - Secrétariat : Résidence U Alsace, 2 Rue d' Alsace 35000 RENNES &lt;br&gt;
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L26" title="KERGOAT" short_desc="A proximité des UFR Droit/Sciences Economiques, AES, STAPS et de l'IUT. " lat="48.39860784596984" lon="-4.508771896362305" zone="Brest">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/bb836aa3c439459b79a6c1b2a66206d3.jpg" /&gt;&lt;br&gt;Résidence comprenant 138 studios T1, T1bis et T2 et 590 chambres rénovées 9 m².  &lt;br&gt;
+Les studios T1 et T1bis sont  meublés avec kitchenette, prise Tv et  téléphone.Wifi et ouvrent droit à l'APL. &lt;br&gt;
+Les chambres rénovées sont équipées de réfrigerateurs et possèdent douche et toilettes,et ouvrent droit à l'ALS. &lt;br&gt;
+Sur le même site que le Restaurant universitaire de Kergoat (ouvert le soir du lundi au jeudi). Accès Bus : lignes 3 et 5 - arrêt Kermenguy.   
+</infos>
+
+<services>
+Parking, gardien, local à vélos, salle de travail, laverie, salle de musique, bibliothèque.
+</services>
+
+<contact>
+KERGOAT - CLOUS : tel. 02.98.03.38.78.
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+
+<residence id="L27" title="LE BOUGUEN" short_desc="Campus de l'UBO (Sciences, Lettres, IUFM, Médecine). Restaurant universitaire sur place. " lat="48.397710295898015" lon="-4.4923996925354" zone="Brest">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/261d088cdeaa79b93553c270d069a31e.jpg" /&gt;&lt;br&gt; Résidence de  229 studios , T1 et T1bis et 150 chambres traditionnelles. Ouvrent droit à l'APL.&lt;br&gt;
+Les studios T1 et T1bis sont  meublés avec kitchenette, prise Tv et téléphone. Wifi.  &lt;br&gt;
+Pour les chambres , sanitaires et cuisine communs. Elles ouvrent droit à l'ALS. &lt;br&gt;
+Bus 1, 2, 5 et 10 
+</infos>
+
+<services>
+Parking, gardien, local à vélos, salle de travail, laverie, bibliothèque.
+</services>
+
+<contact>
+LE BOUGUEN - CLOUS : tel. 02.98.03.38.78
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L28" title="LANREDEC" short_desc="Campus de l'UBO. Restaurant universitaire à proximité." lat="48.3994095" lon="-4.494148900000027" zone="Brest">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/e6ae3b8b34bba7e67aaba9aff7322acd.jpg" /&gt;&lt;br&gt; 300 chambres traditionnelles , ouvrant droit à l'ALS. &lt;br&gt; Equipement : &lt;br&gt;cuisine collective, évier collectif, réfrigérateur collectif, plaque de cuisson collective  Sanitaires : lavabo, douche collective, WC collectif. &lt;br&gt;
+Bus 1, 2, 5 et 10   
+</infos>
+
+<services>
+Parking, gardien, local à vélos, salle de travail, laverie, bibliothèque.
+</services>
+
+<contact>
+LANREDEC - CLOUS : tel. 02.98.03.38.78
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+<residence id="L29" title="QUIMPER RUE DE L'UNIVERSITE" short_desc=" Chambres près de l'IUT. Restaurant universitaire et caféteria sur place. " lat="47.9821391" lon="-4.097095800000034" zone="Quimper">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/3a3272ed6a7ec732c6f93338dfc9553b.jpg" /&gt;&lt;br&gt; Résidence de 148 chambres rénové(e), ouvrant droit à l'ALS. &lt;br&gt; &lt;br&gt; Equipement : &lt;br&gt;cuisine collective ; réfrigérateur, lavabo, douche et WC dans les chambres. &lt;br&gt; Bus 1 et 5. 
+</infos>
+
+<services>
+Gardien, local à vélos, restaurant.
+</services>
+
+<contact>
+QUIMPER - Secrétariat : 4, rue de l’Université BP 1722 29107 QUIMPER Cedex Tel : 02.98.90.91.18
+
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+
+<residence id="L3" title="LANN TRUSSAC" short_desc="Près de l'IUT et du Lycée Lesage. Restaurant université à proximité. " lat="47.6437652" lon="-2.775488600000017" zone="Vannes">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/5c9933e4e8ecdf6e7b3b091913ac6820.jpg" /&gt;&lt;br&gt;Résidence comprenant 145 studios T1 et T1bis et 150 chambres rénovées 9 m².  &lt;br&gt;Bus 1, 3 et 11. &lt;br&gt;
+Les studios T1 et T1bis sont  meublés avec kitchenette, prise Tv et  téléphone. Wifi. Ouvrent droit à l'APL. &lt;br&gt;
+Les chambres rénovées sont équipées de réfrigerateurs et possèdent douches et toilettes. Ouvrent droit à l'ALS.  
+</infos>
+
+<services>
+Parking, gardien, local à vélos, salle de travail, laverie, bibliothèque.
+</services>
+
+<contact>
+LANN TRUSSAC - Tél. 02.97.46.90.90
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt; 
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L31" title="LANVEUR" short_desc="Proche du campus universitaire. Face au restaurant universitaire . Maison des étudiants. " lat="47.7425156" lon="-3.387344600000006" zone="Lorient">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/3544dd3570d7c285421f4033d9efba6f.jpg" /&gt;&lt;br&gt; Résidence comprenant 176 studios T1 et T1bis  &lt;br&gt;
+Les studios T1 et T1 Bis sont  meublés avec kitchenette, prise Tv et  téléphone. Wifi. Ouvrent droit à l'APL.&lt;br&gt;
+Nombreux bus. Prêt gratuit de vélos par la communauté de Lorient.  
+</infos>
+<services>
+Parking, gardien, local à vélos, restaurant, accès sécurisé.
+</services>
+
+<contact>
+LANVEUR - Tél. 02.97.87.17.57
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L32" title="EDOUARD BRANLY" short_desc="Chambres rénovées avec sanitaires individuels. A coté de l'IUT. Restaurant universitaire et cafétéria sur place." lat="48.759428157315114" lon="-3.4520459175109863" zone="Lannion">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/b1ac09f6ea90cdcd1bdd74e4025810b8.jpg" /&gt;&lt;br&gt; Résidence de 306 chambres rénovées, ouvrant droit A  l'ALS. &lt;br&gt;  Equipement : &lt;br&gt;cuisine collective, réfrigérateur, lavabo, douche et toilettes dans les chambres&lt;br&gt;
+Retrouvez les documents téléchargeables sur &lt;a href="http://www.crous-rennes.fr/service/antenne-de-lannion/"&gt;le site du Crous
+</infos>
+
+<services>
+Parking, gardien, local à vélos, salle de travail, laverie, restaurant, bibliothèque.
+</services>
+
+<contact>
+BRANLY - tél. 02 96 48 43 31
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+<residence id="L33" title="GERNUGAN" short_desc="Près du pôle universitaire. Bus A, B, C1, C2" lat="48.514633" lon="-2.7445149999999785" zone="Saint Brieuc">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/df8451657947f0c9fc292f06448a8060.jpg" /&gt;Résidence comprenant 57 studios T1. Ouvrent droit à l'APL &lt;br&gt;
+Les studios T1 sont  meublés avec kitchenette, prise Tv et  téléphone. Wifi.&lt;br&gt;
+</infos>
+
+<services>
+Parking, local à vélos, accès sécurisé.
+</services>
+
+<contact>
+GERNUGAN - tél. 02 96 52 12 78
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+
+
+<residence id="L34" title="LOUCHEUR" short_desc="A proximité du pôle universitaire. Bus A." lat="48.5152407" lon="-2.737959700000033" zone="Saint Brieuc">
+<infos>
+&lt;img src="https://crous.parking.einden.com/static-images/32ad4c29c65c9accce0dbfa699358013.jpg" /&gt;&lt;br&gt;Résidence comprenant 176 studios T1 et T1bis. Ouvrent droit à l'APL.   &lt;br&gt;
+Les studios T1 et T1 Bis sont  meublés avec kitchenette, prise Tv et téléphone. Wifi. &lt;br&gt;
+</infos>
+<services>
+Parking, local à vélos, accès sécurisé.
+</services>
+
+<contact>
+LOUCHEUR - tél. 02 96 52 12 78
+Vous souhaitez un logement &lt;a href="http://www.crous-rennes.fr/logements/faire-une-demande-de-logement-en-cite-universitaire/"&gt;dans cette résidence &lt;br&gt;&lt;/a&gt;
+
+</contact>
+</residence>
+
+
+
+</root>

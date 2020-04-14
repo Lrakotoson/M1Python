@@ -1,0 +1,177 @@
+[
+    {
+        "nom": "LA GARE",
+        "description": "Résidence du centre ville de Rennes à proximité immédiate de la gare SNCF, de la gare routière et du métro.",
+        "latitude": "48.1040703",
+        "longitude": "-1.671259100000043",
+        "zone": "Rennes Centre"
+    },
+    {
+        "nom": "JULES FERRY",
+        "description": "Résidence du centre ville de Rennes situé en face de la fac de droit et près d'un Restaurant universitaire . Stationnement difficile. ",
+        "latitude": "48.1178422",
+        "longitude": "-1.6708991000000424",
+        "zone": "Rennes Centre"
+    },
+    {
+        "nom": "SEVIGNE",
+        "description": "Résidence du centre ville de Rennes. A  Proximité de la fac de droit et Sciences Eco et des RU Fougères et Duchesse Anne. ",
+        "latitude": "48.11607028273323",
+        "longitude": "-1.6624116897583008",
+        "zone": "Rennes Centre"
+    },
+    {
+        "nom": "PATTON",
+        "description": "Résidence à 10mn en bus des facs de droit, sciences eco et Rennes 2. ",
+        "latitude": "48.13100739999999",
+        "longitude": "-1.6641042999999627",
+        "zone": "Rennes Centre"
+    },
+    {
+        "nom": "SAINT HELIER",
+        "description": "Résidence du centre ville de Rennes à proximité de la Gare . Stationnement difficile. ",
+        "latitude": "48.1074124",
+        "longitude": "-1.6722959999999603",
+        "zone": "Rennes Centre"
+    },
+    {
+        "nom": "MOULIN DE JOUE",
+        "description": "Résidence proche du campus de Beaulieu.",
+        "latitude": "48.11347727431945",
+        "longitude": "-1.6471552848815918",
+        "zone": "Rennes est-Beaulieu"
+    },
+    {
+        "nom": "JEAN FERRAT",
+        "description": "Résidence sur le campus de Beaulieu ",
+        "latitude": "48.1220799",
+        "longitude": "-1.6413935000000492",
+        "zone": "Rennes est-Beaulieu"
+    },
+    {
+        "nom": "MIRABEAU",
+        "description": "Résidence sur le campus de Beaulieu",
+        "latitude": "48.1226024",
+        "longitude": "-1.6442369999999755",
+        "zone": "Rennes est-Beaulieu"
+    },
+    {
+        "nom": "BEAULIEU",
+        "description": "Résidence sur le campus de Beaulieu",
+        "latitude": "48.12367664075685",
+        "longitude": "-1.6426706314086914",
+        "zone": "Rennes est-Beaulieu"
+    },
+    {
+        "nom": "VILLEJEAN OUEST",
+        "description": " Résidence proche de l'université de Rennes II et campus santé",
+        "latitude": "48.1239859",
+        "longitude": "-1.71177160000002",
+        "zone": "Rennes ouest-Villejean"
+    },
+    {
+        "nom": "LA HARPE",
+        "description": "Résidence proche du campus de Villejean. Restaurant universitaire A  proximité.",
+        "latitude": "48.12581429999999",
+        "longitude": "-1.7104445999999598",
+        "zone": "Rennes ouest-Villejean"
+    },
+    {
+        "nom": "LANGUEDOC",
+        "description": "Résidence proche du campus de Villejean.",
+        "latitude": "48.11664330561191",
+        "longitude": "-1.7084598541259766",
+        "zone": "Rennes ouest-Villejean"
+    },
+    {
+        "nom": "BARBARA",
+        "description": "Résidence proche du campus de Villejean. ",
+        "latitude": "48.1290042",
+        "longitude": "-1.702689200000009",
+        "zone": "Rennes ouest-Villejean"
+    },
+    {
+        "nom": "BEAUREGARD",
+        "description": "Résidence proche du campus de Villejean.",
+        "latitude": "48.1293042",
+        "longitude": "-1.7003287",
+        "zone": "Rennes ouest-Villejean"
+    },
+    {
+        "nom": "ALSACE",
+        "description": "En face du campus de Rennes 2, à proximité du RU et du campus santé.",
+        "latitude": "48.1218426",
+        "longitude": "-1.7038175000000138",
+        "zone": "Rennes ouest-Villejean"
+    },
+    {
+        "nom": "LA TOUCHE",
+        "description": "Résidence de studios proche du Campus de Villejean, du Centre Ville et du METRO Anatole France .",
+        "latitude": "48.11834270000001",
+        "longitude": "-1.6896609000000353",
+        "zone": "Rennes ouest-Villejean"
+    },
+    {
+        "nom": "KERGOAT",
+        "description": "A proximité des UFR Droit/Sciences Economiques, AES, STAPS et de l'IUT. ",
+        "latitude": "48.39860784596984",
+        "longitude": "-4.508771896362305",
+        "zone": "Brest"
+    },
+    {
+        "nom": "LE BOUGUEN",
+        "description": "Campus de l'UBO (Sciences, Lettres, IUFM, Médecine). Restaurant universitaire sur place. ",
+        "latitude": "48.397710295898015",
+        "longitude": "-4.4923996925354",
+        "zone": "Brest"
+    },
+    {
+        "nom": "LANREDEC",
+        "description": "Campus de l'UBO. Restaurant universitaire à proximité.",
+        "latitude": "48.3994095",
+        "longitude": "-4.494148900000027",
+        "zone": "Brest"
+    },
+    {
+        "nom": "QUIMPER RUE DE L'UNIVERSITE",
+        "description": " Chambres près de l'IUT. Restaurant universitaire et caféteria sur place. ",
+        "latitude": "47.9821391",
+        "longitude": "-4.097095800000034",
+        "zone": "Quimper"
+    },
+    {
+        "nom": "LANN TRUSSAC",
+        "description": "Près de l'IUT et du Lycée Lesage. Restaurant université à proximité. ",
+        "latitude": "47.6437652",
+        "longitude": "-2.775488600000017",
+        "zone": "Vannes"
+    },
+    {
+        "nom": "LANVEUR",
+        "description": "Proche du campus universitaire. Face au restaurant universitaire . Maison des étudiants. ",
+        "latitude": "47.7425156",
+        "longitude": "-3.387344600000006",
+        "zone": "Lorient"
+    },
+    {
+        "nom": "EDOUARD BRANLY",
+        "description": "Chambres rénovées avec sanitaires individuels. A coté de l'IUT. Restaurant universitaire et cafétéria sur place.",
+        "latitude": "48.759428157315114",
+        "longitude": "-3.4520459175109863",
+        "zone": "Lannion"
+    },
+    {
+        "nom": "GERNUGAN",
+        "description": "Près du pôle universitaire. Bus A, B, C1, C2",
+        "latitude": "48.514633",
+        "longitude": "-2.7445149999999785",
+        "zone": "Saint Brieuc"
+    },
+    {
+        "nom": "LOUCHEUR",
+        "description": "A proximité du pôle universitaire. Bus A.",
+        "latitude": "48.5152407",
+        "longitude": "-2.737959700000033",
+        "zone": "Saint Brieuc"
+    }
+]
