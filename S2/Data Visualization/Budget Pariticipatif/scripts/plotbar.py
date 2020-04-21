@@ -1,76 +1,27 @@
 import numpy as np
 import pandas as pd
-from bokeh.models import HoverTool, ColumnDataSource, FactorRange
+from bokeh.models import HoverTool, ColumnDataSource
 from bokeh.plotting import figure
 
-def minQuartier(quartiers):
-    """
-    Le nom de quartier le plus court
-    quartiers: valeur de DataFrame
-    :return: str ou quartiers
-    """
-    if isinstance(quartiers, str):
-        quartiers = quartiers.split(' - ')
-        q_min = min(quartiers, key = len).strip()
-        return q_min
-
-def barPlot(bd_source):
+def barPlot(pj_source):
     """
     Barplot des projets par quartier et par état de projet
-    bd_source: budget ColumnDataSource
+    pj_source: projet ColumnDataSource
     :return: bokeh figure
     """
-
-    colormap = {
-        'Réalisé': '#2ecc71',
-        'Non réalisable': '#c0392b',
-        "A l'étude": '#f0932b',
-        'En cours': '#f1c40f'
-    }
-    
-    bd_frame = pd.DataFrame(bd_source.data)
-    
-    if bd_frame.shape[0] == 0: # Absence de projet
-        plot = figure(title = "Projets par quartiers (vides)")
+    if len(pj_source.data) <= 1: # Filtre restreint
+        plot = figure(title = "Projets par quartiers (VIDE)")
         plot.vbar(0, 0)
         return plot
-    
-    ########################## DONNEES ##########################
-    """
-    Calcul de nombre de projet par quartier et par état de projet
-    Création d'une nouvelle ColumnDataSource
-    """
-    bd_frame.b_quartier = bd_frame.b_quartier.apply(minQuartier)
-    
 
-    dico = bd_frame.groupby(['b_quartier', 'b_realise'
-                             ]).size().unstack().fillna(0).stack().to_dict()
-
-    
-    x = list(dico.keys())
-    counts = list(dico.values())
-    legends = [legend[1] for legend in x]
-    quartiers = [quartier[0] for quartier in x]
-    color = [colormap[legend] for legend in legends]
-    
-    source = ColumnDataSource(data = dict(
-        x = x, counts = counts,
-        quartiers = quartiers,
-        legends = legends, color = color
-    ))
-    
-    ########################### PLOT ###########################
-    """
-    Barplot par groupe
-    """
     plot = figure(
-        x_range = FactorRange(*x),
+        x_range = [],
         title = "Projets par quartiers",
         tools = " "
     )
     
     plot.vbar(
-        x = 'x', top = 'counts', source = source,
+        x = 'x', top = 'counts', source = pj_source,
         fill_color = 'color', legend_field = 'legends',
         width = 1, line_alpha = 0
     )
@@ -83,6 +34,7 @@ def barPlot(bd_source):
         ]
     )
     
+    plot.x_range.factors = list(pj_source.data['x'])
     plot.add_tools(hover_bar)
     
     plot.toolbar.logo = None
