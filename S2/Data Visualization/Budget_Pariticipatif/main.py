@@ -7,6 +7,7 @@ __status__ = 'planning'
 
 
 import pandas as pd
+from os.path import dirname, join
 
 from scripts.filterdata import Data
 from scripts.plotmap import mapPlot
@@ -20,8 +21,11 @@ from bokeh.layouts import row, column, widgetbox
 
 ######################### DONNEES #########################
 
-qt = pd.read_json("data/formated_quartiers.json")
-bd = pd.read_csv("data/formated_budget.csv")
+p_quartier = join(dirname(__file__), 'data', 'formated_quartiers.json')
+p_budget = join(dirname(__file__), 'data', 'formated_budget.csv')
+
+qt = pd.read_json(p_quartier)
+bd = pd.read_csv(p_budget)
 
 df_data = Data(bd, qt)
 
@@ -51,7 +55,7 @@ f_year = CheckboxButtonGroup(
         labels = ['2016', '2017', '2018', '2019'])
 
 f_quartier = CheckboxGroup(
-        labels = [i for i in df_data.brut_qt.q_nom.unique().tolist()]
+        labels = df_data.brut_qt.q_nom.unique().tolist()
         )
 
 f_etat = CheckboxButtonGroup(
@@ -129,3 +133,4 @@ layout = column(
     sizing_mode = "stretch_both")
 
 curdoc().add_root(layout)
+curdoc().title = 'Rennes Budget Participatif'
