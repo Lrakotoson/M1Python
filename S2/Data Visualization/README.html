@@ -19,6 +19,11 @@ Pour lancer l’application, exécuter la commande suivante depuis cette racine:
 <p class="has-line-data" data-line-start="24" data-line-end="25">Si vous vous trouvez dans le dossier <code>Budget_Participatif/</code>, cela revient à exécuter la commande:</p>
 <pre><code class="has-line-data" data-line-start="27" data-line-end="29" class="language-shell"><span class="code1">bokeh</span> serve --show <span class="code3">main.py</span>
 </code></pre>
+<p class="has-line-data">Si vous voulez effectuer une mise à jour avant lancement, exécutez:</p>
+<pre><code class="has-line-data" data-line-start="21" data-line-end="23" class="language-shell">python Budget_Participatif/data/<span class="code3">format.py</span>
+<span class="code1">bokeh</span> serve --show <span class="code2">Budget_Participatif/</span>
+</code></pre>
+<p class="has-line-data">Notez que les données sont mises à jour annuellement donc de multiples mises à jour ne sont pas nécessaires.</p>
 <h1 class="code-line" data-line-start=30 data-line-end=31><a id="Interface_30"></a>Interface</h1>
 <p class="has-line-data" data-line-start="32" data-line-end="34">L’interface est divisée en 2 grandes parties.<br>
 D’un côté, la principale qui contient les différentes représentations de nos données, et d’un autre, la barre latérale gauche qui permet de sélectionner les données à partir de plusieurs filtres.</p>
@@ -44,11 +49,12 @@ D’un côté, la principale qui contient les différentes représentations de n
 <h2 class="code-line" data-line-start=54 data-line-end=55><a id="Source_54"></a>Source</h2>
 <p class="has-line-data" data-line-start="55" data-line-end="56">Les données proviennent de l’<a href="https://data.rennesmetropole.fr/pages/home/">Open Data de Renne Metropole</a>.</p>
 <ul>
-<li class="has-line-data" data-line-start="57" data-line-end="58"><a href="https://data.rennesmetropole.fr/explore/dataset/perimetres-des-12-quartiers-de-la-ville-de-rennes/information/">Quartiers</a>: Cette couche indique les périmètres des 12 quartiers de la Ville de Rennes.</li>
-<li class="has-line-data" data-line-start="58" data-line-end="60"><a href="https://data.rennesmetropole.fr/explore/dataset/localisation-et-etat-des-projets-du-budget-participatif/information/?disjunctive.quartier&amp;sort=libelle">Budget</a>: Ce jeu de données recense la localisation et l’état d’avancement de tout les projets lauréats du Budget Participatif (toutes années comprises).</li>
+<li class="has-line-data" data-line-start="57" data-line-end="58"><a href="https://data.rennesmetropole.fr/explore/dataset/perimetres-des-12-quartiers-de-la-ville-de-rennes/information/">Quartiers</a>: Cette couche indique les périmètres des 12 quartiers de la Ville de Rennes. <strong>Chargé en local</strong> </li>
+<li class="has-line-data" data-line-start="58" data-line-end="60"><a href="https://data.rennesmetropole.fr/explore/dataset/localisation-et-etat-des-projets-du-budget-participatif/information/?disjunctive.quartier&amp;sort=libelle">Budget</a>: Ce jeu de données recense la localisation et l’état d’avancement de tout les projets lauréats du Budget Participatif (toutes années comprises). <strong>Récolté via l'API</strong> </li>
 </ul>
-<p class="has-line-data" data-line-start="60" data-line-end="61">Les données ont pu être récoltées grâce à l’API de la plateforme.</p>
-<p class="has-line-data" data-line-start="62" data-line-end="63">Mais avec la contrainte du temps d’exécution quant au prétraitement ainsi que la fréquence de mise à jour des données (annuelle), il est préférable de mettre à jour les données <strong>Budget</strong> une fois par an et modifier les fichiers suivants:</p>
+<p class="has-line-data" data-line-start="60" data-line-end="61">Les données Budget sont récoltés via l'API. Les Quartiers sont chargés en local puisque ces données ne changent que peu (<em>dernière modification en 2014</em>). <br>
+La récolte des données se fait en manuel juste en exécutant le script <code>data/format.py</code>; elle aurait pû être automatique avec chaque connexion au serveur bokeh.</p>
+<p class="has-line-data" data-line-start="62" data-line-end="63">Mais avec la contrainte du temps d’exécution quant au prétraitement (quelques secondes au démarrage) ainsi que la fréquence de mise à jour des données (annuelle), il est plus convenable de mettre à jour les données <strong>Budget</strong> une fois par an et modifier les fichiers suivants:</p>
 <ul>
 <li class="has-line-data" data-line-start="64" data-line-end="65"><code>main.py</code>: ajout de l’année à la ligne 55</li>
 <li class="has-line-data" data-line-start="65" data-line-end="67"><code>scripts/filterdata.py</code>: ajout de l’année à la ligne 117</li>
@@ -69,11 +75,10 @@ D’un côté, la principale qui contient les différentes représentations de n
 </ul>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <p class="has-line-data" data-line-start="82" data-line-end="83"><span style = "color:#d63031"><i style = "font-size: x-large" class="fa fa-exclamation-circle" aria-hidden="true"></i> <strong>Effectuer une copie sauvegarde des anciennes données</strong></span> avant d’exécuter le script de prétraitement sur de nouvelles données.</p>
-<p class="has-line-data" data-line-start="84" data-line-end="86">Pour effectuer une mise à jour pour une nouvelle année, placer le fichier CSV Budget sous le nom <code>budget.csv</code> dans le dossier <code>data/</code>. Ceci écrasera les anciennes données brutes.<br>
-Ensuite, éxecuter:</p>
+<p class="has-line-data" data-line-start="84" data-line-end="86">Pour effectuer une mise à jour pour une nouvelle année, éxecuter:</p>
 <pre><code class="has-line-data" data-line-start="88" data-line-end="90" class="language-shell">python Budget_Participatif/data/<span class="code3">format.py</span>
 </code></pre>
-<p class="has-line-data" data-line-start="90" data-line-end="91">Ceci écrasera le fichier <code>formated_budget.csv</code> et en créera un nouveau.</p>
+<p class="has-line-data" data-line-start="90" data-line-end="91">Ceci écrasera les fichiers <code>formated_budget.csv</code> et <code>formated_quartiers.json</code> et en créera de nouveaux.</p>
 <h1 class="code-line" data-line-start=92 data-line-end=93><a id="Modules_92"></a>Modules</h1>
 <p class="has-line-data" data-line-start="93" data-line-end="94">Les différents modules sont répertoriés dans le dossier <code>scripts/</code></p>
 <h2 class="code-line" data-line-start=95 data-line-end=96><a id="filterdatapy_95"></a><code>filterdata.py</code></h2>

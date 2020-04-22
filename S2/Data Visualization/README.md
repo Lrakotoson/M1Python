@@ -28,6 +28,14 @@ Si vous vous trouvez dans le dossier `Budget_Participatif/`, cela revient à ex�
 bokeh serve --show main.py
 ```
 
+Si vous voulez effectuer une mise à jour avant lancement, exécutez:
+
+```shell
+python Budget_Participatif/data/format.py
+bokeh serve --show Budget_Participatif/
+```
+Notez que les données sont mises à jour annuellement donc de multiples mises à jour ne sont pas nécessaires.
+
 # Interface
 
 L'interface est divisée en 2 grandes parties.  
@@ -55,12 +63,13 @@ Les graphes permettent différentes représentations qui se complètent.
 ## Source
 Les données proviennent de l'[Open Data de Renne Metropole](https://data.rennesmetropole.fr/pages/home/).
 
-- [Quartiers](https://data.rennesmetropole.fr/explore/dataset/perimetres-des-12-quartiers-de-la-ville-de-rennes/information/): Cette couche indique les périmètres des 12 quartiers de la Ville de Rennes.
-- [Budget](https://data.rennesmetropole.fr/explore/dataset/localisation-et-etat-des-projets-du-budget-participatif/information/?disjunctive.quartier&sort=libelle): Ce jeu de données recense la localisation et l'état d'avancement de tout les projets lauréats du Budget Participatif (toutes années comprises).
+- [Quartiers](https://data.rennesmetropole.fr/explore/dataset/perimetres-des-12-quartiers-de-la-ville-de-rennes/information/): Cette couche indique les périmètres des 12 quartiers de la Ville de Rennes. **Chargé en local**
+- [Budget](https://data.rennesmetropole.fr/explore/dataset/localisation-et-etat-des-projets-du-budget-participatif/information/?disjunctive.quartier&sort=libelle): Ce jeu de données recense la localisation et l'état d'avancement de tout les projets lauréats du Budget Participatif (toutes années comprises). **Récolté via l'API**.
 
-Les données ont pu être récoltées grâce à l'API de la plateforme.
+Les données Budget sont récoltés via l'API. Les Quartiers sont chargés en local puisque ces données ne changent que peu (*dernière modification en 2014*).  
+La récolte des données se fait en manuel **juste en exécutant le script `data/format.py`**, mais elle aurait pû être automatique avec chaque connexion au serveur bokeh.
 
-Mais avec la contrainte du temps d'exécution quant au prétraitement ainsi que la fréquence de mise à jour des données (annuelle), il est préférable de mettre à jour les données **Budget** une fois par an et modifier les fichiers suivants:
+Mais avec la contrainte du temps d'exécution quant au prétraitement (quelques secondes au démarrage) ainsi que la fréquence de mise à jour des données (annuelle), il est préférable de mettre à jour les données **Budget** une fois par an et modifier les fichiers suivants:
 
 - `main.py`: ajout de l'année à la ligne 55
 - `scripts/filterdata.py`: ajout de l'année à la ligne 117
@@ -82,13 +91,12 @@ Pour gagner du temps de calcul, il est nécessaire de prétraiter les données b
 
 <span style = "color:#d63031"><i style = "font-size: x-large" class="fa fa-exclamation-circle" aria-hidden="true"></i> <strong>Effectuer une copie sauvegarde des anciennes données</strong></span> avant d'exécuter le script de prétraitement sur de nouvelles données.
 
-Pour effectuer une mise à jour pour une nouvelle année, placer le fichier CSV Budget sous le nom `budget.csv` dans le dossier `data/`. Ceci écrasera les anciennes données brutes.  
-Ensuite, éxecuter:
+Pour effectuer une mise à jour pour une nouvelle année, éxecuter:
 
 ```shell
 python Budget_Participatif/data/format.py
 ```
-Ceci écrasera le fichier `formated_budget.csv` et en créera un nouveau.
+Ceci écrasera les fichiers `formated_budget.csv` et `formated_quartiers.json` en créera de nouveaux.
 
 # Modules
 Les différents modules sont répertoriés dans le dossier `scripts/`
