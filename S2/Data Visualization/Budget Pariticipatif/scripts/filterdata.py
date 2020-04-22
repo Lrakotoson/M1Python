@@ -1,3 +1,11 @@
+# coding: utf-8
+
+__author__ = 'Lrakotoson'
+__maintainer__ = 'Loïc Rakotoson'
+__email__ = 'contact@loicrakotoson.com'
+__status__ = 'planning'
+__all__ = ['Data']
+
 import pandas as pd
 
 class Data():
