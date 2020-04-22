@@ -1,3 +1,12 @@
+# coding: utf-8
+
+__author__ = 'Lrakotoson'
+__maintainer__ = 'Loïc Rakotoson'
+__email__ = 'contact@loicrakotoson.com'
+__status__ = 'planning'
+__all__ = ['mapPlot']
+
+
 from bokeh.models import HoverTool, ColumnDataSource
 from bokeh.plotting import figure
 from bokeh.tile_providers import get_provider, Vendors
@@ -15,7 +24,10 @@ def mapPlot(bd_source, qt_source):
     plot = figure(x_range = (-195729.64378600637, -175690.50954609076),
                   y_range = (6119069.396713561, 6131687.895850816),
                   x_axis_type = "mercator",
-                  y_axis_type = "mercator")
+                  y_axis_type = "mercator",
+                  sizing_mode = "stretch_width",
+                  toolbar_location = "above"
+                  )
 
     plot.add_tile(get_provider(Vendors.CARTODBPOSITRON))
     
@@ -36,6 +48,7 @@ def mapPlot(bd_source, qt_source):
                         renderers = [quartier])
     
     plot.add_tools(q_hover)
+    plot.axis.visible = False
     
     ########################## BUDGET ###########################
     """
@@ -83,5 +96,6 @@ def mapPlot(bd_source, qt_source):
     )
     
     plot.add_tools(b_hover)
-    
+    plot.toolbar.logo = None
+
     return plot
