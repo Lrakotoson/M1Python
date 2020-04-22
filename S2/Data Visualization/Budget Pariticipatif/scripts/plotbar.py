@@ -1,3 +1,12 @@
+# coding: utf-8
+
+__author__ = 'Lrakotoson'
+__maintainer__ = 'Loïc Rakotoson'
+__email__ = 'contact@loicrakotoson.com'
+__status__ = 'planning'
+__all__ = ['barPlot', 'stackPlot']
+
+
 import numpy as np
 import pandas as pd
 from bokeh.models import HoverTool, ColumnDataSource
@@ -17,13 +26,14 @@ def barPlot(pj_source):
     plot = figure(
         x_range = [],
         title = "Projets par quartiers",
-        tools = " "
+        tools = " ",
+        toolbar_location = None
     )
     
     plot.vbar(
         x = 'x', top = 'counts', source = pj_source,
         fill_color = 'color', legend_field = 'legends',
-        width = 1, line_alpha = 0
+        width = 1, line_alpha = 0, fill_alpha = 0.7
     )
     
     hover_bar = HoverTool(
@@ -79,13 +89,14 @@ def stackPlot(et_source):
     plot = figure(
         x_range = [],
         title = "Etat des projets par année",
-        tools = ""
+        tools = "",
+        toolbar_location = None
     )
 
     renderers = plot.vbar_stack(
         etats, x = 'b_year', color = colors,
         source = et_source, legend_label = etats,
-        width = 0.9, name = etats
+        width = 0.9, name = etats, fill_alpha = 0.7
     )
 
     for r in renderers:
