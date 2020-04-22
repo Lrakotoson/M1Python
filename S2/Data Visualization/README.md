@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Lrakotoson/M1Python/tree/master/S2/Data%20Visualization">
-<img src="https://raw.githubusercontent.com/Lrakotoson/M1Python/master/S2/Data%20Visualization/Budget_Pariticipatif/statics/banner.jpg"  width="50%" style="min-height:'250px'"/>
+<img src="https://raw.githubusercontent.com/Lrakotoson/M1Python/master/S2/Data%20Visualization/Budget_Participatif/statics/banner.jpg"  width="50%" style="min-height:'250px'"/>
 </a>
 
 ![GitHub](https://img.shields.io/github/license/Lrakotoson/M1Python?style=for-the-badge)
@@ -42,7 +42,7 @@ L'interface est divisée en 2 grandes parties.
 D'un côté, la principale qui contient les différentes représentations de nos données, et d'un autre, la barre latérale gauche qui permet de sélectionner les données à partir de plusieurs filtres.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Lrakotoson/M1Python/master/S2/Data%20Visualization/Budget_Pariticipatif/statics/screenshot.png" width="90%" style="min-height:'250px'"/>
+<img src="https://raw.githubusercontent.com/Lrakotoson/M1Python/master/S2/Data%20Visualization/Budget_Participatif/statics/screenshot.png" width="90%" style="min-height:'250px'"/>
 </div>
 
 ## Filtres
