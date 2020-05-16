@@ -1,2 +1,2 @@
-# M1Python
+# M_Python
 Master MAS, Python
