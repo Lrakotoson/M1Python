@@ -26,22 +26,28 @@ class AssociationRule():
         """Returns string to be displayed for an AssociationRule object"""
         return "{} -> {}".format(self.antecedent, self.consequent)
     
-    def confidence():
+    @classmethod
+    def confidence(cls, it_set, dataset):
         """Compute the confidence of the AssociationRule in a dataset
+            :param it_set: ItemSet
             :param dataset : dataset (list of ItemSet objects) on which confidence
             should be computed
             :return : confidence of the AssociationRule in the dataset
         """
-        #TODO
-        pass
+        confid = [
+            ante.union(cons).support(dataset) / ante.support(dataset)
+            for ante, cons in cls.associationRules(it_set)
+        ]
+        return confid
+        
 
     @classmethod
     def associationRules(cls, it_set) :
         """Extract all association rules derived from the provided ItemSet
             :return : list of AssociationRule objects
         """
-        # TODO
-        pass
+        ar = [(its.ItemSet(ante), its.ItemSet(cons)) for ante,cons in zip(it_set.subsets(), it_set)]
+        return ar
 
 # ## Function definition
 # ################### ## 

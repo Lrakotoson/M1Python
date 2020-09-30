@@ -61,10 +61,10 @@ class ItemSet(set):
             if len(subset) > 0:
                 ret.append(subset)
         return ret
-    
 
-### Function definition
-#################### ## 
+
+# ## Function definition
+# ################### ## 
 
 def readItemSets(filename):
     """Reads a dataset (list of itemsets) from a text file
