@@ -84,7 +84,10 @@ def readItemSets(filename):
     return isList
 
 
-def allSingletons():
+# +
+from itertools import chain
+
+def allSingletons(dataset, minSupport = 0):
     """Extracts all singleton itemsets from a dataset
         
         If minSupport is given, extracts all singleton ItemSet from the dataset
@@ -96,11 +99,17 @@ def allSingletons():
         a singleton itemset to be extracted
         :return : list of singleton ItemSet objects
     """
-    #TODO
-    pass
+    singletons = list(map(ItemSet, set(chain(*dataset))))
+    return [
+        item for item, support in zip(
+            singletons, map(lambda its: its.support(dataset), singletons))
+        if support >= minSupport
+    ]
 
 
-def candidateGeneration() :
+# -
+
+def candidateGeneration(isList_k):
     """Generates a list of canditate itemsets of size k+1 from the list of
     minSupport-frequent itemsets of size k
         :param isList_k : list of ItemSet objects of size k given by the previous
@@ -108,15 +117,27 @@ def candidateGeneration() :
         :return : list of candidates ItemSet objects of size k+1 for the
         Apriori run
     """
-    # TODO
-    pass
+    k = len(isList_k[0])
+    candidats = [l1.union(l2) for l1 in isList_k for l2 in isList_k if len(
+        l1.union(l2)) == k+1]
+    listcandidats = {tuple(itset) for itset in candidats if all(
+        x in isList_k for x in itset.subsets())}
+    
+    return list(map(ItemSet, listcandidats))
 
 
-def aPriori() :
+def aPriori(dataset, minSupport = 0) :
     """Returns the list of minSupport-frequent ItemSets in a dataset
         :param dataset : dataset from which ItemSets should be extracted
         :param minSupport : threshold for support
         :return : list of minSupport-frequent ItemSets in the dataset
     """
-    # TODO
-    pass
+    union = list()
+    lk = allSingletons(dataset, minSupport)
+    while len(lk) > 0:
+        cand = candidateGeneration(lk)
+        union.append(lk)
+        lk = [itemset for itemset, support in zip(
+            cand, map(lambda its: its.support(cand), cand))
+            if support >= minSupport]
+    return union
