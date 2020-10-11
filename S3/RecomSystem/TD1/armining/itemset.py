@@ -136,8 +136,8 @@ def aPriori(dataset, minSupport = 0) :
     lk = allSingletons(dataset, minSupport)
     while len(lk) > 0:
         cand = candidateGeneration(lk)
-        union.append(lk)
+        union += lk
         lk = [itemset for itemset, support in zip(
-            cand, map(lambda its: its.support(cand), cand))
+            cand, map(lambda its: its.support(dataset), cand))
             if support >= minSupport]
     return union

@@ -25,40 +25,45 @@ class AssociationRule():
     def __repr__(self):
         """Returns string to be displayed for an AssociationRule object"""
         return "{} -> {}".format(self.antecedent, self.consequent)
-    
-    @classmethod
-    def confidence(cls, it_set, dataset):
-        """Compute the confidence of the AssociationRule in a dataset
-            :param it_set: ItemSet
-            :param dataset : dataset (list of ItemSet objects) on which confidence
-            should be computed
-            :return : confidence of the AssociationRule in the dataset
-        """
-        confid = [
-            ante.union(cons).support(dataset) / ante.support(dataset)
-            for ante, cons in cls.associationRules(it_set)
-        ]
-        return confid
-        
-
-    @classmethod
-    def associationRules(cls, it_set) :
-        """Extract all association rules derived from the provided ItemSet
-            :return : list of AssociationRule objects
-        """
-        ar = [(its.ItemSet(ante), its.ItemSet(cons)) for ante,cons in zip(it_set.subsets(), it_set)]
-        return ar
 
 # ## Function definition
 # ################### ## 
 
+def associationRules(it_set) :
+    """Extract all association rules derived from the provided ItemSet
+        :return : list of AssociationRule objects
+    """
+    ar = [(its.ItemSet(ante), its.ItemSet(cons)) for ante,cons in zip(it_set.subsets(), it_set)]
+    return ar
 
-def mineAssociationRules():
+
+def confidence(it_set, dataset):
+    """Compute the confidence of the AssociationRule in a dataset
+        :param it_set: ItemSet
+        :param dataset : dataset (list of ItemSet objects) on which confidence
+        should be computed
+        :return : confidence of the AssociationRule in the dataset
+    """
+    confid = [
+        ante.union(cons).support(dataset) / ante.support(dataset)
+        if ante.support(dataset) != 0 else 0
+        for ante, cons in associationRules(it_set)
+    ]
+    return confid
+
+
+def mineAssociationRules(dataset, minSupport = 0, minConfidence = 0):
     """Extract a list of frequent and confident association rules from a dataset
         :param dataset : dataset from which association rules should be extracted
         :param minSupport : threshold for support of association rules
         :param minConfidence : threshold for confidence of association rules
         :return : list of AssociationRule objects with at least minSupport and minConfidence
     """
-    # TODO
-    pass
+    discover = list(filter(lambda x: len(x) >= 2, its.aPriori(dataset, minSupport)))
+    minAR = map(
+        lambda x: AssociationRule(*x[0]),
+        filter(
+            lambda x: x[1] >= minConfidence,
+            zip(sum(map(associationRules, discover), []),
+                sum(map(confidence, discover, [dataset] * len(discover)), []))))
+    return list(minAR)
