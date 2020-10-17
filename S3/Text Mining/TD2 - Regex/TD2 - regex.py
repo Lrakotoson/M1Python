@@ -38,7 +38,7 @@ with open("data/extrait.html", encoding="utf-8") as r, open("data/links.txt", 'w
 
 with open("data/td3_exo2_adressesMail.txt") as f:
     for line in f.readlines():
-        parse = re.findall(r"([\w-]+)\.*([\w-]+)*@(.+)\.(.+){1,2}", line)[0]
+        parse = re.findall(r"([\w-]+)\.*([\w-]+)*@(.+)\.(.{2,3})", line)[0]
         print(
             f"{line}> {dict(zip(['nom','prenom','serveur','domaine'], parse))}"
         )
