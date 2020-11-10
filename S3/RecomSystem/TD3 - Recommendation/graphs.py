@@ -84,8 +84,9 @@ def user_based_collaborative_filtering(scores, target, n_neighbors=5, similarity
 
 
 def item_based_collaborative_filtering(scores, target, n_neighbors=5, similarity_fun=None, graph=None):
-    # TODO : manipulation 8
-    return None
+    scores = {k[::-1]:note for k,note in scores.items()}
+    target = target[::-1]
+    return collaborative_filtering(scores, target, n_neighbors, similarity_fun, graph)
 
 
 def generic_common_neighbors(g, u, v):
