@@ -1,0 +1,14 @@
+Hamburger	3.5/5
+Nuggets		3.8/5
+Wrap		2.6/5
+Frites		3.1/5
+Potatoes	3.4/5
+Salade		4.1/5
+Glace		4.5/5
+Milk-Shake	3.9/5
+Cookies		4.2/5
+Donuts		2.9/5
+Cafe		2.4/5
+Coca		3.0/5
+Sprite		3.1/5
+Eau			2.7/5
