@@ -1,0 +1,15 @@
+P001 Livre,BD
+P002 Livre,Roman
+P003 Multimedia,Ordinateur
+P004 Multimedia,Smartphone
+P005 Livre,BD
+P006 Livre,Manuel_scolaire
+P007 Livre,Roman
+P008 Livre,Manuel_scolaire
+P009 Livre,Manuel_scolaire
+P010 Livre,Roman
+P011 Multimedia,Smartphone
+P012 Multimedia,Smartphone
+P013 Multimedia,Ordinateur
+P014 Livre,BD
+P015 Multimedia,Ordinateur
