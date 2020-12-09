@@ -1,0 +1,819 @@
+---
+jupyter:
+  jupytext:
+    formats: ipynb,Rmd
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.7.1
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+title: "Supervised binary classification on heart disease"
+author: "Loïc Rakotoson"
+output:
+  pdf_document:
+    keep_tex: true
+    df_print: kable
+    highlight: tango
+geometry: margin=1cm
+documentclass: article
+---
+
+```{r setup, include=FALSE}
+library(reticulate)
+reticulate::use_condaenv("datascience")
+sys <- import("sys")
+exe <- file.path(sys$exec_prefix, "pythonw.exe")
+sys$executable <- exe
+sys$`_base_executable` <- exe
+
+# update executable path in multiprocessing module
+multiprocessing <- import("multiprocessing")
+multiprocessing$set_executable(exe)
+```
+
+```{python include=FALSE}
+import os
+os.environ['QT_QPA_PLATFORM_PLUGIN_PATH'] = 'D:/Programmes/Anaconda3/Library/plugins/platforms'
+```
+
+
+```{r include=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+
+```{python include=FALSE}
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from plotnine import *
+
+from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.model_selection import train_test_split, GridSearchCV, KFold, cross_val_score
+from sklearn.preprocessing import StandardScaler, RobustScaler, LabelBinarizer, OrdinalEncoder, OneHotEncoder, MinMaxScaler, Binarizer
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.linear_model import LogisticRegression, SGDClassifier
+from sklearn.impute import KNNImputer
+from sklearn.neural_network import MLPClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import SVC
+from sklearn.gaussian_process import GaussianProcessClassifier
+from sklearn.gaussian_process.kernels import RBF
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
+from sklearn.naive_bayes import GaussianNB
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.metrics import f1_score, recall_score, accuracy_score
+
+import warnings
+warnings.filterwarnings('ignore')
+```
+
+
+```{python include=FALSE}
+class IsTop(BaseEstimator, TransformerMixin):
+    def __init__(self):
+        self.top = list()
+        
+    def input(self, X):
+        if isinstance(X, pd.DataFrame):
+            X_ = X.to_numpy().copy()
+        else: X_ = X.copy()
+        return X_.astype(np.float).astype(np.int)
+    
+    def fit(self, X, y = None):
+        X_ = self.input(X)
+        for i in range(X_.shape[1]):
+            self.top.append(np.bincount(X_[:,i]).argmax())
+            
+    def transform(self, X, y = None):
+        X_ = self.input(X)
+        for i in range(X_.shape[1]):
+            X_[:,i] = X_[:,i] == self.top[i]
+        X[X.columns] = X_
+        return X
+    
+    def fit_transform(self, X, y = None):
+        X_ = self.input(X)
+        for i in range(X_.shape[1]):
+            top = np.bincount(X_[:,i]).argmax()
+            self.top.append(top)
+            X_[:,i] = X_[:,i] == top
+        X[X.columns] = X_
+        return X
+```
+
+```{python include=FALSE}
+class LessFrequent(BaseEstimator, TransformerMixin):
+    def __init__(self, missing = np.nan):
+        self.missing = missing
+        self.less = None
+    
+    def input(self, X):
+        if isinstance(X, pd.DataFrame):
+            X_ = X.to_numpy().copy().reshape((-1,))
+        else: X_ = X.copy().reshape((-1,))
+        return X_.astype(np.float).astype(np.int)
+    
+    def fit(self, X, y = None):
+        X_ = self.input(X)
+        self.less = np.bincount(X_).argmin()
+        
+    def transform(self, X, y = None):
+        column = X.columns
+        X_ = self.input(X)
+        X = X.drop(column, axis = 1)
+        X[column] = np.where(
+            X_ == self.less, self.missing, X_
+        ).astype(np.float).reshape((-1,1))
+        return X
+    
+    def fit_transform(self, X, y = None):
+        self.fit(X)
+        return self.transform(X)
+```
+
+```{python include=FALSE}
+class Calibrate(BaseEstimator, TransformerMixin):
+    def __init__(self, threshold):
+        self.threshold = threshold
+        
+    def fit(self, X, y = None):
+        return self
+    
+    def transform(self, X, y = None):
+        return (X < self.threshold).astype(np.int)
+    
+    def fit_transform(self, X, y = None):
+        return self.transform(X)
+```
+
+```{python include=FALSE}
+def gather( df, key, value, cols ):
+    id_vars = [ col for col in df.columns if col not in cols ]
+    id_values = cols
+    var_name = key
+    value_name = value
+    return pd.melt( df, id_vars, id_values, var_name, value_name)
+```
+
+```{python include=FALSE}
+def get_feature_names(column_transformer):
+    def get_names(trans):
+        if trans == 'drop' or (hasattr(column, '__len__') and not len(column)):
+            return []
+        if trans == 'passthrough':
+            if hasattr(column_transformer, '_df_columns'):
+                if ((not isinstance(column, slice))
+                        and all(isinstance(col, str) for col in column)):
+                    return column
+                else:
+                    return column_transformer._df_columns[column]
+            else:
+                indices = np.arange(column_transformer._n_features)
+                return ['x%d' % i for i in indices[column]]
+        if not hasattr(trans, 'get_feature_names'):
+            warnings.warn("Transformer %s (type %s) does not "
+                          "provide get_feature_names. "
+                          "Will return input column names if available" %
+                          (str(name), type(trans).__name__))
+            if column is None:
+                return []
+            else:
+                return [name + "__" + f for f in column]
+        return [name + "__" + f for f in trans.get_feature_names()]
+
+
+    feature_names = []
+    if type(column_transformer) == Pipeline:
+        l_transformers = [(name, trans, None, None)
+                          for step, name, trans in column_transformer._iter()]
+    else:
+        l_transformers = list(column_transformer._iter(fitted=True))
+    for name, trans, column, _ in l_transformers:
+        if type(trans) == Pipeline:
+            _names = get_feature_names(trans)
+            if len(_names) == 0:
+                _names = [name + "__" + f for f in column]
+            feature_names.extend(_names)
+        else:
+            feature_names.extend(get_names(trans))
+
+    return feature_names
+```
+
+```{python include=FALSE}
+def nestedCV(estimator, param_grid, x_train, y_train, inner_cv, outer_cv, **kwargs):
+    n_jobs = kwargs.get('n_jobs', -1)
+    scoring = kwargs.get('scoring', 'f1')
+    name = kwargs.get('name')
+    results = list()
+    x_train = x_train.reset_index(drop = True)
+    
+    for train, val in outer_cv.split(x_train, y_train):
+        search = GridSearchCV(
+            estimator, param_grid, cv = inner_cv,
+            scoring = scoring, n_jobs = n_jobs, refit = True
+        ).fit(x_train.iloc[train,:], y_train[train])
+        y_pred = search.predict(x_train.iloc[val,:])
+        result = search.best_params_
+        result['name'] = name
+        result['f1_score'] = f1_score(y_train[val], y_pred)
+        result['inner_score'] = search.best_score_
+        result['recall'] = recall_score(y_train[val], y_pred)
+        result['accuracy'] = accuracy_score(y_train[val], y_pred)
+        results.append(result)
+    
+    aggregate = pd.DataFrame(results).groupby(list(param_grid.keys()) + ['name'], as_index = False)
+    table = aggregate.mean()
+    table['count'] = aggregate.count().f1_score
+    
+    best_params = {
+        k:v for k,v in table.sort_values(['f1_score'], ascending=False).iloc[0].to_dict().items()
+        if k in param_grid.keys()
+    }
+    
+    return table, best_params
+```
+
+# Abstract
+
+In this paper we seek to perform a supervised classification to predict the presence of heart disease based on several patient measurements.  
+In the following, the classification models will be optimized with respect to the F1 score and Recall. This choice is explained by the counterparts of bad predictions. Indeed, it would be more tolerated to have false positives than undetected sick patients. With equal F1 performance, the Recall will allow to decide between two algorithms.
+
+# Introduction
+
+When importing the data, the types given in the documentation were kept. However, some numerical variables were directly discretized based on their description in the same documentation.  
+Below are the first lines of our data.
+
+```{python}
+data = (
+    pd.read_csv(
+        'heart.dat', header=None, sep='\s+', engine='python',
+        dtype={
+            0: np.int, 1: 'category', 2: 'category',
+            3: np.int, 4: np.float, 5: np.bool,
+            6: 'category', 7: np.int, 8: np.bool,
+            9: np.float, 10: 'category', 11: 'category',
+            12: 'category', 13: 'category'
+        }
+    ).rename(columns={
+        0: "age", 1: "sex", 2: "chest_pain",
+        3: "blood_pressure", 4: "cholesterol",
+        5: "blood_sugar", 6: "electrocard",
+        7: "heart_rate", 8: "angina", 9: "oldpeak",
+        10: "slope_peak", 11: "vessels", 12: "thal",
+        13: "target"
+    })
+)
+```
+
+```{r echo=FALSE}
+py$data %>% head %>% as_tibble %>%
+  kbl(caption = "First rows of data", booktabs = TRUE) %>% 
+  kable_styling(latex_options = c("striped", "scale_down"))
+```
+
+
+# Exploratory data analysis
+
+To perform the analysis, groups of columns were created according to their type.
+
+The purpose of this analysis is to understand the data and derive information, including distributions, correlations and covariances.
+
+```{python include=FALSE}
+numerical = data.select_dtypes([np.int, np.float]).columns.to_list()
+boolean = data.select_dtypes(np.bool).columns.to_list()
+categorical = data.select_dtypes([np.bool, 'category']).columns.to_list()[:-1]
+ordinal = [data.columns[2], data.columns[10]]
+```
+
+## Target analysis
+
+We have a binary target variable (`1`: absence and `2`: presence of heart disease).  
+We are not dealing with an unbalanced variable, so there will be no need to perform over-under-sampling strategies.
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+py$data %>% 
+  ggplot() + aes(target) + geom_bar()
+```
+
+
+## Analysis of qualitative variables
+
+- Each modality of the variable `blood_sugar` has approximately the same target distribution. It does not vary the target.
+- The distribution of the target in vessels is the same when it is present. It can be transformed into a binary variable of presence or not. We observe the same phenomenon with `chest_pain` where the `4` modality differs from the others which distribute the target in the same way.
+- There are only 2 people with the `1` modality of the `electrocard` variable, one of which is positive to the target. This modality has no variance. On the other hand, the "0" mode seems to discriminate the target. If the electrocard variable is used, it can be converted into binary by imputing the modality `1` and assigning the individual to one of the other modalities by means of a closest neighbor algorithm or by an average method for example.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+py$data %>% select(c(py$categorical, target)) %>% 
+  gather(key, value, -target) %>% ggplot() +
+  aes(value, fill = target) + geom_bar() +
+  facet_wrap(.~key, scales = "free")
+```
+
+
+```{r echo=FALSE}
+kbl(summary(py$data %>% select(py$numerical)), booktabs = T)
+```
+
+```{python eval=FALSE, include=FALSE}
+(
+    data[numerical+['target']]
+    .pipe(gather, "key", "value", numerical)
+    .pipe(ggplot) + aes(y = "value", x = "target", fill = "target") +
+    geom_violin(alpha = .2) + geom_boxplot(width=0.1) +
+    stat_summary(fun_y=np.mean, geom="point", shape=7, size=3, fill = "black") +
+    facet_wrap("~key", ncol = 3, scales = "free") +
+    theme(subplots_adjust={'wspace':.35, 'hspace':.25})
+)
+```
+
+
+## Analysis of quantitative variables
+
+- The `blood_presure` and `cholesterol` variables are each distributed approximately the same way with respect to the target, but with a slight shift.
+- The `age`, `heart_rate` and `oldpeak` have a different distribution for each modality of the target.
+- The variable 'oldpeak' has several outliers and there is a significant difference between the means and the medians for each of the target modalities. It is preferable to focus this variable on the median and reduce it between the 1st and 3rd quartile.
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+py$data %>% select(c(py$numerical, target)) %>% 
+  gather(key, value, -target) %>% ggplot() +
+  aes(target, value, fill = target) +
+  geom_violin(alpha = .2) + geom_boxplot(width = .1) +
+  stat_summary(fun = mean, geom = "point", shape=8, size=2, fill = "black") +
+  facet_wrap(.~key, ncol = 3, scales = "free")
+```
+
+\newpage
+
+The graph below shows the variable-variable relationships.  
+Note a certain negative correlation between the variable `age` and `heart_rate`.
+
+```{python echo=FALSE, warning=FALSE, message=FALSE, error=FALSE, results='hide', fig.keep='all'}
+sns.pairplot(data[numerical], diag_kind="kde")
+plt.show()
+```
+
+# Preprocessing
+
+Based on the exploratory analysis of the data, the pre-processing that we will perform is as follows:
+
+- Electrocard: Assigning the mode "1" to one of the other two with a "KNNImputer" and binarization.
+- `vessels` and `chest_pain`: Grouping of variables according to the way the target is distributed and binarization
+- oldpeak: standardization with respect to the median
+- quantitative variables: standardization with respect to the mean
+
+```{python}
+electropipe = Pipeline([('ls', LessFrequent()), ('scale', MinMaxScaler()),
+                        ('inputer', KNNImputer()),
+                        ('calib', Binarizer(threshold=.5))])
+
+preprocess = ColumnTransformer(
+    remainder='passthrough',
+    transformers=[('inp', electropipe, ['electrocard']),
+                  ('topbin', IsTop(), ['vessels', 'chest_pain']),
+                  ('bin', Binarizer(), ['angina', 'blood_sugar', 'sex']),
+                  ('ordinal', OrdinalEncoder(), ['slope_peak']),
+                  ('onehot', OneHotEncoder(drop='first'), ['thal']),
+                  ('standard', StandardScaler(), numerical[:-1]),
+                  ('scaler', RobustScaler(), ['oldpeak'])])
+
+label = LabelBinarizer()
+```
+
+The data is then separated into training and test sets.
+
+```{python}
+x_train, x_test = train_test_split(data, test_size=.2, random_state=42069)
+y_train = label.fit_transform(x_train.pop('target'))
+y_test = label.transform(x_test.pop('target'))
+```
+
+```{python include=FALSE}
+trainset = pd.DataFrame(
+    np.hstack([preprocess.fit_transform(x_train), y_train]),
+     columns = get_feature_names(preprocess) + ['target']
+)
+```
+
+```{r echo=FALSE, paged.print=TRUE}
+kbl(head(py$trainset), booktabs = T, caption = "Preprocessed data") %>% 
+  kable_styling(latex_options = c("striped", "scale_down"))
+```
+
+
+# Modeling
+## Naive Benchmark
+
+In the following we will perform a naive benchmark of the classical models used for binary classification.  
+We will capture as score the f1, recall and accuracy.
+
+We chose to optimize the first 3 algorithms as well as Adaboost which stands out with a good recall score despite the low f1.
+
+```{python include=FALSE}
+names = [
+    "Logistic Regression", "SGD Classifier", "KNN", "Linear SVM", "RBF SVM", "Gaussian Process",
+    "Decision Tree", "Random Forest", "Neural Net", "AdaBoost", "Naive Bayes",
+    "QDA"
+]
+
+classifiers = [
+    LogisticRegression(),
+    SGDClassifier(alpha=.0001, max_iter=100),
+    KNeighborsClassifier(3),
+    SVC(kernel="linear", C=0.025),
+    SVC(gamma=2, C=1),
+    GaussianProcessClassifier(1.0 * RBF(1.0)),
+    DecisionTreeClassifier(max_depth=5),
+    RandomForestClassifier(max_depth=5, n_estimators=10, max_features=1),
+    MLPClassifier(alpha=1, max_iter=1000),
+    AdaBoostClassifier(),
+    GaussianNB(),
+    QuadraticDiscriminantAnalysis()
+]
+```
+
+```{python include=FALSE}
+scores = list()
+for name, clf in zip(names, classifiers):
+    pipe = Pipeline([
+        ('preprocess', preprocess),
+        ('clf', clf)
+    ])
+    pipe.fit(x_train, y_train)
+    y_pred = pipe.predict(x_test)
+    scores.append({
+        "model": name,
+        "accuracy": accuracy_score(y_test, y_pred),
+        "f1_score": f1_score(y_test, y_pred),
+        "recall": recall_score(y_test, y_pred)
+    })
+scores = pd.DataFrame(scores).sort_values(by = ['f1_score', 'recall'], ascending = False)
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+py$scores %>% as_tibble %>% kbl(caption = "Naive benchmark results", booktabs = T) %>% 
+  kable_styling(full_width = T) %>% column_spec(1, width = "8cm")
+```
+
+
+## Optimization
+
+For the optimization, we will choose the strategy of "Nested Grid Search Cross Validation" which consists in having 2 cross validations:
+
+- A first one for the search of the best hyperparameters in a grid using a 4-fold KFold.
+- A second one to obtain the score of the best hyperparameters chosen using a 6 Fold KFold, thus data not used for training.
+
+We will also introduce the neighbor parameter to impute it even if with 2 individuals, the chance of its presence in a Fold is low.
+
+```{python}
+cv_inner = KFold(n_splits = 4, shuffle = True, random_state = 42069)
+cv_outer = KFold(n_splits = 6, shuffle = True, random_state = 42069)
+```
+
+### Logistic Regression
+
+As our dataset is quite light, it is interesting to see the absence or presence of regularization (l1 or l2).  
+The `liblinear` solver performs well on small datasets, while the `lbfgs' solver theoretically handles well the absence of regularization.  
+Finally, the last parameter to be optimized is the number of iterations. We will choose the 3 "classical" values.
+
+```{python}
+model1 = Pipeline([
+    ('preprocess', preprocess),
+    ('clf', LogisticRegression())
+])
+
+params = {
+    'preprocess__inp__inputer__n_neighbors': np.arange(3, 10, 2),
+    'clf__penalty': ['l1', 'l2', 'none'],
+    'clf__solver': ['liblinear', 'lbfgs'],
+    'clf__max_iter': [1e2, 1.5e2, 1e3]
+}
+
+result1, best1 = nestedCV(
+    model1, params, x_train, y_train,
+    cv_inner, cv_outer, name = "Logistic Regression",
+)
+```
+
+```{python include=FALSE}
+model1.set_params(**best1)
+result1
+```
+
+```{r echo=FALSE}
+py$result1 %>% as_tibble %>% kbl(caption = "Best hyperparameters for logistic regression", booktabs = T) %>% 
+  kable_styling(latex_options =c("striped", "scale_down"))
+```
+
+
+### Naive Bayes
+
+The only hyperparameter to be optimized here is the variance share of the data for the variance update: `var_smoothing`.  
+We will choose a grid of 50 parameters between 1 and 10 <sup> -20 </sup>.
+
+```{python}
+model2 = Pipeline([
+    ('preprocess', preprocess),
+    ('clf', GaussianNB())
+])
+
+params = {
+    'preprocess__inp__inputer__n_neighbors': np.arange(3, 10, 2),
+    'clf__var_smoothing': np.logspace(0, -20, num = 50)
+}
+
+result2, best2 = nestedCV(
+    model2, params, x_train, y_train,
+    cv_inner, cv_outer, name = "Naive Bayes"
+)
+```
+
+```{python include=FALSE}
+model2.set_params(**best2)
+result2
+```
+
+```{r echo=FALSE}
+py$result2 %>% as_tibble %>% kbl(caption = "Naive Bayes best parameters", booktabs = T) %>% 
+  kable_styling(latex_options =c("striped", "scale_down"))
+```
+
+### Neural network
+
+Multilayer perceptrons are optimized here.  
+The hyperparameters that we will optimize are:
+
+- The size of the hidden layers
+- The activation functions, `logistic` and `tanh` because our data is binary data, `relu` because all data is positive values.
+- The optimizer, `sgd` classic, `adam` the `best` for now and `lbfgs` for small data sizes
+- The behavior of $\alpha$ that decreases either as a function of the steps or as a function of the loss function.
+
+We will activate the `early stopping` to avoid overfitting and we will allow ourselves to have a fairly high number of iterations.
+
+```{python}
+model3 = Pipeline([
+    ('preprocess', preprocess),
+    ('clf', MLPClassifier(
+        batch_size = 200,
+        learning_rate_init = 1e-3,
+        max_iter = 1e3,
+        early_stopping = True,
+        n_iter_no_change = 15
+    ))
+])
+
+params = {
+    'clf__hidden_layer_sizes': [
+        (10,), (50,), (100,), (150,), (200,)],
+    'clf__activation': ['logistic', 'relu', 'tanh'],
+    'clf__solver': ['lbfgs', 'adam', 'sgd'],
+    'clf__learning_rate': ['invscaling', 'adaptive']
+}
+
+result3, best3 = nestedCV(
+    model3, params, x_train, y_train,
+    cv_inner, cv_outer, name = "Neural Network"
+)
+```
+
+```{python include=FALSE}
+model3.set_params(**best3)
+result3
+```
+
+```{r echo=FALSE}
+py$result3 %>% as_tibble %>% unnest(cols = c(clf__hidden_layer_sizes)) %>% unnest(cols = c(clf__hidden_layer_sizes)) %>% 
+  kbl(caption = "Multilayer Perceptron best parameters", booktabs = T) %>% 
+  kable_styling(latex_options =c("striped", "scale_down"))
+```
+
+
+### Adaboost
+
+For the Adaboost algorithm, we will choose the classical basic estimator, i.e. decission trees.  
+It is therefore also necessary to optimize their hyperparameters:
+
+- The criterion for choosing the best pruning
+- The pruning option
+
+```{python}
+model4 = Pipeline([
+    ('preprocess', preprocess),
+    ('clf',
+     AdaBoostClassifier(DecisionTreeClassifier(max_depth = None))
+    )
+])
+
+params = {
+    'clf__base_estimator__criterion': ["gini", "entropy"],
+    'clf__base_estimator__splitter': ["best", "random"],
+    'clf__n_estimators': [10, 50, 100, 200]
+}
+
+result4, best4 = nestedCV(
+    model4, params, x_train, y_train,
+    cv_inner, cv_outer, name = "Adaboost"
+)
+```
+
+```{python include=FALSE}
+model4.set_params(**best4)
+result4
+```
+
+```{r echo=FALSE}
+py$result4 %>% as_tibble %>% kbl(caption = "Adaboost best parameters", booktabs = T) %>% 
+  kable_styling(latex_options =c("striped", "scale_down"))
+```
+
+
+## Evaluation
+
+Finally, we perform the evaluation of each of the best models on the test set after they have been trained on the whole learning set.
+
+**It then emerges that logistic regression is the best model** on the basis of f1 and recall.
+
+```{python eval=TRUE, include=FALSE}
+models = [
+    ('Logistic Regression', model1),
+    ('Naive Bayes', model2),
+    ('Neural Network', model3),
+    ('Adaboost', model4)
+]
+scores = list()
+
+for name, model in models:
+    model.fit(x_train, y_train)
+    y_pred = model.predict(x_test)
+    scores.append({
+            "model": name,
+            "accuracy": accuracy_score(y_test, y_pred),
+            "f1_score": f1_score(y_test, y_pred),
+            "recall": recall_score(y_test, y_pred)
+        })
+    
+results = pd.DataFrame(scores).sort_values(by = ['f1_score', 'recall'], ascending = False)
+```
+
+```{r echo=FALSE}
+py$results %>% as_tibble %>% kbl(caption = "Models evaluation", booktabs = T) %>% 
+  kable_styling(full_width = T)%>%column_spec(1, width = "8cm")
+```
+
+\newpage
+
+
+# Appendix
+
+```{python}
+class IsTop(BaseEstimator, TransformerMixin):
+    def __init__(self):
+        self.top = list()
+        
+    def input(self, X):
+        if isinstance(X, pd.DataFrame):
+            X_ = X.to_numpy().copy()
+        else: X_ = X.copy()
+        return X_.astype(np.float).astype(np.int)
+    
+    def fit(self, X, y = None):
+        X_ = self.input(X)
+        for i in range(X_.shape[1]):
+            self.top.append(np.bincount(X_[:,i]).argmax())
+            
+    def transform(self, X, y = None):
+        X_ = self.input(X)
+        for i in range(X_.shape[1]):
+            X_[:,i] = X_[:,i] == self.top[i]
+        X[X.columns] = X_
+        return X
+    
+    def fit_transform(self, X, y = None):
+        X_ = self.input(X)
+        for i in range(X_.shape[1]):
+            top = np.bincount(X_[:,i]).argmax()
+            self.top.append(top)
+            X_[:,i] = X_[:,i] == top
+        X[X.columns] = X_
+        return X
+```
+
+
+\newpage
+
+
+```{python}
+class LessFrequent(BaseEstimator, TransformerMixin):
+    def __init__(self, missing = np.nan):
+        self.missing = missing
+        self.less = None
+    
+    def input(self, X):
+        if isinstance(X, pd.DataFrame):
+            X_ = X.to_numpy().copy().reshape((-1,))
+        else: X_ = X.copy().reshape((-1,))
+        return X_.astype(np.float).astype(np.int)
+    
+    def fit(self, X, y = None):
+        X_ = self.input(X)
+        self.less = np.bincount(X_).argmin()
+        
+    def transform(self, X, y = None):
+        column = X.columns
+        X_ = self.input(X)
+        X = X.drop(column, axis = 1)
+        X[column] = np.where(
+            X_ == self.less, self.missing, X_
+        ).astype(np.float).reshape((-1,1))
+        return X
+    
+    def fit_transform(self, X, y = None):
+        self.fit(X)
+        return self.transform(X)
+```
+
+
+\newpage
+
+
+```{python}
+class Calibrate(BaseEstimator, TransformerMixin):
+    def __init__(self, threshold):
+        self.threshold = threshold
+        
+    def fit(self, X, y = None):
+        return self
+    
+    def transform(self, X, y = None):
+        return (X < self.threshold).astype(np.int)
+    
+    def fit_transform(self, X, y = None):
+        return self.transform(X)
+```
+
+```{python}
+def gather( df, key, value, cols ):
+    id_vars = [ col for col in df.columns if col not in cols ]
+    id_values = cols
+    var_name = key
+    value_name = value
+    return pd.melt( df, id_vars, id_values, var_name, value_name)
+```
+
+
+\newpage
+
+
+```{python}
+def nestedCV(estimator, param_grid, x_train, y_train, inner_cv, outer_cv,
+             **kwargs):
+    n_jobs = kwargs.get('n_jobs', -1)
+    scoring = kwargs.get('scoring', 'f1')
+    name = kwargs.get('name')
+    results = list()
+    x_train = x_train.reset_index(drop=True)
+
+    for train, val in outer_cv.split(x_train, y_train):
+        search = GridSearchCV(estimator,
+                              param_grid,
+                              cv=inner_cv,
+                              scoring=scoring,
+                              n_jobs=n_jobs,
+                              refit=True).fit(x_train.iloc[train, :],
+                                              y_train[train])
+        y_pred = search.predict(x_train.iloc[val, :])
+        result = search.best_params_
+        result['name'] = name
+        result['f1_score'] = f1_score(y_train[val], y_pred)
+        result['inner_score'] = search.best_score_
+        result['recall'] = recall_score(y_train[val], y_pred)
+        result['accuracy'] = accuracy_score(y_train[val], y_pred)
+        results.append(result)
+
+    aggregate = pd.DataFrame(results).groupby(list(param_grid.keys()) +
+                                              ['name'],
+                                              as_index=False)
+    table = aggregate.mean()
+    table['count'] = aggregate.count().f1_score
+
+    best_params = {
+        k: v
+        for k, v in table.sort_values(
+            ['f1_score'], ascending=False).iloc[0].to_dict().items()
+        if k in param_grid.keys()
+    }
+
+    return table, best_params
+```
