@@ -1,5 +1,6 @@
-Model,F1,AUC,Accuracy
-SGD,43.92,64.18,58.93
-SGD + SMOTE,45.16,65.74,58.51
-MLP,41.23,70.03,57.26
-MPL + ROS,41.85,70.12,57.08
+Model,Preproc,F1,AUC,Accuracy
+SGD,classic,43.92,64.18,58.93
+SGD + SMOTE,classic,45.16,65.74,58.51
+MLP,classic,41.23,70.03,57.26
+MPL + ROS,classic,41.85,70.12,57.08
+Camembert,none,15.58,52.96,44.81
