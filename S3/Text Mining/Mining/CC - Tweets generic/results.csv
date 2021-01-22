@@ -3,4 +3,7 @@ SGD,classic,43.92,64.18,58.93
 SGD + SMOTE,classic,45.16,65.74,58.51
 MLP,classic,41.23,70.03,57.26
 MPL + ROS,classic,41.85,70.12,57.08
-Camembert,none,15.58,52.96,44.81
+Camembert,-,16.70,55.66,44.68
+Camembert + ROS,-,16.96,57.61,44.32
+Camembert,nos_nol,15.55,53.27,44.90
+Camembert + ROS,nos_nol,15.47,53.76,44.68
