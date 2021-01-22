@@ -1,4 +1,4 @@
-Model,F1,AUC,Accuracy,
+Model,F1,AUC,Accuracy
 SGD,43.92,64.18,58.93
 SGD + SMOTE,45.16,65.74,58.51
 MLP,41.23,70.03,57.26
